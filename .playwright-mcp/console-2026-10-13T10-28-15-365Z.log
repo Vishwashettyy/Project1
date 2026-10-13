@@ -1,0 +1,577 @@
+[    1286ms] [WARNING] Mixed Content: The page at 'https://www.news18.com/' was loaded over HTTPS, but requested an insecure element 'http://images.news18.com/dlxczavtqcctuei/news18/static/images/english/quick-games/gmbxbg.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://www.news18.com/:249
+[    4685ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4685ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4687ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4688ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:120758)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Nk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:95716)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94272)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    4690ms] [LOG] Datadog RUM settings {applicationId: 051cd8f6-4f0f-42a4-a688-815b825e90f6, clientTokenExists: true, site: us5.datadoghq.com, env: production, service: news18-english-frontend} @ https://www.news18.com/_next/static/chunks/52936.4ac14b3b52293176.js:0
+[    4747ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://www.news18.com/_next/static/chunks/pages/_app-4788c2d0ccc39c67.js:24
+[    4989ms] [LOG] [GPPID] Received: 1791887301339-bef836b2-7652-4de3-bbd6-e91aaa6d5b5f @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:572
+[    4990ms] [LOG] [GPPID] Local cookie: 1791887301339-bef836b2-7652-4de3-bbd6-e91aaa6d5b5f @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:581
+[    4990ms] [LOG] Loading tags @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:205
+[    5511ms] [LOG] [CDP Debug] Calling personalised API: https://api-lomaka.news18.com/nodeapi/v1/eng/personalised-content?fields=*&categories=%7B%22cdp_user_lifetime_cohort%22%3A10%2C%22cdp_user_lifetime_location%22%3A10%2C%22cdp_user_adp_widgets%22%3A10%7D&cdpid=8653e0bd-3c4f-4503-8b12-ecb971b535cd-1791887297461 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:414
+[    6590ms] [LOG] Data sent: {"message":"data save"} @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:276
+[    8397ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js?cb=122881522:22
+[    8916ms] Failed to fetch
+[    8917ms] Failed to fetch
+[    8917ms] Failed to fetch
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   13574ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11318&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fcs.startappnetwork.com%2Fset-uid%3Fp%3Dmbupodrt%26uid%3D%7Bviewer_token%7D:0
+[   14189ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://us.shb-sync.com/bf2debb3-8b3f-11ed-9a3c-0cc47a787f5e.gif?redir=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1170%26dspCookie%3D%24UID%26gdpr%3D0%26gdpr_consent%3D&gdpr=0&gdpr_consent=:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   14752ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?sid=susweb&us_privacy=$US_PRIVACY&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1214%26dspCookie%3D%7BuserId%7D%26gdpr%3D0%26gdpr_consent%3D' was loaded over HTTPS, but requested an insecure element 'http://ib.adnxs.com/getuid?https://us1rtb-user-sync.oneadtag.com/api/v1/sync/callback?dsp_id=xandr&dsp_user_id=%24UID&gdpr=0&gdpr_consent=&us_privacy=%24US_PRIVACY&user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?sid=susweb&us_privacy=$US_PRIVACY&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1214%26dspCookie%3D%7BuserId%7D%26gdpr%3D0%26gdpr_consent%3D:0
+[   14785ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?sid=susweb&us_privacy=$US_PRIVACY&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1214%26dspCookie%3D%7BuserId%7D%26gdpr%3D0%26gdpr_consent%3D' was loaded over HTTPS, but requested an insecure element 'http://ib.adnxs.com/getuid?https://us1rtb-user-sync.oneadtag.com/api/v1/sync/callback?dsp_id=xandr&dsp_user_id=%24UID&gdpr=0&gdpr_consent=&us_privacy=%24US_PRIVACY&user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?sid=susweb&us_privacy=$US_PRIVACY&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1214%26dspCookie%3D%7BuserId%7D%26gdpr%3D0%26gdpr_consent%3D:0
+[   15198ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY' was loaded over HTTPS, but requested an insecure element 'http://example.com/pixel.gif'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY:0
+[   15198ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY' was loaded over HTTPS, but requested an insecure element 'http://ib.adnxs.com/getuid?https://us1rtb-user-sync.oneadtag.com/api/v1/sync/callback?dsp_id=xandr&dsp_user_id=%24UID&gdpr=0&gdpr_consent=&us_privacy=%24US_PRIVACY&user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY:0
+[   15200ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY' was loaded over HTTPS, but requested an insecure element 'http://example.com/pixel.gif'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY:0
+[   15200ms] [WARNING] Mixed Content: The page at 'https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY' was loaded over HTTPS, but requested an insecure element 'http://ib.adnxs.com/getuid?https://us1rtb-user-sync.oneadtag.com/api/v1/sync/callback?dsp_id=xandr&dsp_user_id=%24UID&gdpr=0&gdpr_consent=&us_privacy=%24US_PRIVACY&user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://us1rtb-user-sync.oneadtag.com/api/v1/sync/start?gdpr=0&gdpr_consent=&global_user_id=a06b5f29-5049-44e7-a4a9-eb155d5548a3&redirect=http%3A%2F%2Fexample.com%2Fpixel.gif&sid=us&us_privacy=%24US_PRIVACY:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   19268ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=9724&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D109%26dspUserId%3D%7Bviewer_token%7D:0
+[   22074ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.vidgyor.com/player/v12/js/player.min.js:0
+[   25434ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://tracker-shr.ortb.net/sync?id=1&uid=ID5-1-89dfe733-9b5a-488b-b0f7-3d2a98b0ddee:0
+[   28435ms] [LOG] AffinityPrebid HVR 1784624662 h-n-c-11.2.0 Loaded @ https://cdn4-hbs.affinitymatrix.com/hvrlib/news18.com/1784800142/v2.js:0
+[   30438ms] [ERROR] Failed to load resource: net::ERR_CERT_DATE_INVALID @ https://measureadv.com/user?gdpr=0&gdpr_consent=&usp_consent=&p=4:0
+[   33905ms] [ERROR] Provider's accounts list is empty. @ https://www.news18.com/:0
+[   37328ms] [WARNING] VIDEOJS: WARN: videojs.Hls is deprecated. Use videojs.Vhs instead. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   37398ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   37471ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   37499ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   38412ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.news18.com/_next/static/chunks/56725.f0c565e7b8427c00.js:0
+[   41798ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 4-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 0-CNN_News18_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   43437ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3.ap-southeast-1.amazonaws.com/vidgyor.com/player/v12/css/vidgyor.woff @ https://www.news18.com/:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   46036ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1854/181/3/7.gif?puid=Nf8U4LZHAaE0zre0YBo4T3Vb&gdpr=0&gdpr_consent=:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   51856ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[   55943ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://www.news18.com/_next/static/chunks/pages/_app-4788c2d0ccc39c67.js:24
+[   58945ms] [WARNING] [GPT] Slot.getTargeting is deprecated, use Slot.getConfig('targeting') instead.
+https://goo.gle/gpt-message#201 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js?cb=122881522:22
+[   60873ms] [TIMEEND] a: 0.260986328125 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   64376ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   69600ms] Uncaught SyntaxError: Failed to execute 'postMessage' on 'Window': Invalid target origin 'null' in a call to 'postMessage'.
+    at <anonymous> (/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.mudpVPFmV1o.es5.O/d=1/rs=AJlcJMx0YLEXCr5YLWOUfRXbIO7Ao940gw/m=kernel_loader,loader_js_executable:503:973)
+    at <anonymous> (/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.mudpVPFmV1o.es5.O/d=1/rs=AJlcJMx0YLEXCr5YLWOUfRXbIO7Ao940gw/m=kernel_loader,loader_js_executable:504:345)
+    at WM.a.l (/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.mudpVPFmV1o.es5.O/d=1/rs=AJlcJMx0YLEXCr5YLWOUfRXbIO7Ao940gw/m=kernel_loader,loader_js_executable:503:777)
+[   74283ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=raoNlu6QDsGlKtnOCgjOag:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   64376ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   75580ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=5c112363-25d7-420c-9f36-57b51d5b7233&gpp_sid=null&gpp=null&us_privacy=null&gdpr_consent=null&gdpr=0:0
+[   64376ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   94156ms] [WARNING] TBT=101tvi48=28907&tvi50=32919 @ https://cdn.taboola.com/libtrc/news18-channel/loader.js:0
+[  101031ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS:0
+[  101034ms] [WARNING] Error during RTUS loading asset file:  {reason: script: //gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS, isInfo: true} @ https://cdn.taboola.com/libtrc/news18-channel/loader.js:0
+[  101279ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS:0
+[  101281ms] [WARNING] Error during RTUS loading asset file:  {reason: script: //gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS, isInfo: true} @ https://cdn.taboola.com/libtrc/news18-channel/loader.js:0
+[  102915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  103911ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[  104914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  105914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  106906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  107914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  108914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  109904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   11219ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[  110914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  111921ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  112905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  113919ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  114154ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fsea1-sync.a-mo.net%2Fsetuid%3Fbidder%3Dyieldmo%26A%3De2481603-63bd-4f19-8cf0-5e1b04ccce32%26uid%3D%24UID:0
+[  114920ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  115905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  116914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  117914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  118413ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  118904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  119914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  120914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  121904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  122914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  123914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  124929ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  125914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  126233ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&partnerUserId=CAESENo755WhMU-Clrr_VlzbgGk&google_cver=1:0
+[  126234ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=59&redirect=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dlkqd_dbm%26google_hm%3D%24%24rawlkqduserid%7Cbase64%24%24:0
+[   74283ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=raoNlu6QDsGlKtnOCgjOag:0
+[   75580ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=5c112363-25d7-420c-9f36-57b51d5b7233&gpp_sid=null&gpp=null&us_privacy=null&gdpr_consent=null&gdpr=0:0
+[  126914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   74283ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=raoNlu6QDsGlKtnOCgjOag:0
+[   75580ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=5c112363-25d7-420c-9f36-57b51d5b7233&gpp_sid=null&gpp=null&us_privacy=null&gdpr_consent=null&gdpr=0:0
+[  127904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  128914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  129934ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  130351ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  130818ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  130905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  131914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  132915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  133905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  134914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  135665ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  135916ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  136905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  137914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  138916ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  139904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  140914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  141914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  142908ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  143839ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  143914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  144915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  145906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  146918ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  147418ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS:0
+[  147421ms] [WARNING] Error during RTUS loading asset file:  {reason: script: //gum.criteo.com/sync?c=72&r=2&j=TRC.getRTUS, isInfo: true} @ https://cdn.taboola.com/libtrc/news18-channel/loader.js:0
+[  147917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  148906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  149917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  150915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  151904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  152507ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  152915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  153914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  154904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  155915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  156914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  157906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  158914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  159915ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  160606ms] [DIR] SyntaxError @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  160906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  160961ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ https://js.ad-score.com/score.min.js?pid=1000942&tt=g:1
+[  161914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   74283ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=raoNlu6QDsGlKtnOCgjOag:0
+[   75580ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=5c112363-25d7-420c-9f36-57b51d5b7233&gpp_sid=null&gpp=null&us_privacy=null&gdpr_consent=null&gdpr=0:0
+[   74283ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMyMDImdGw9MTI5NjAw&piggybackCookie=raoNlu6QDsGlKtnOCgjOag:0
+[   75580ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTM0MzImdGw9MTI5NjAw&piggybackCookie=5c112363-25d7-420c-9f36-57b51d5b7233&gpp_sid=null&gpp=null&us_privacy=null&gdpr_consent=null&gdpr=0:0
+[  162917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  163067ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  163904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  164917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  165916ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  166182ms] [TIMEEND] a: 0.006103515625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[  166905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  167925ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  168925ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  169904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  170921ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  171923ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  172905ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  173919ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  174917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  175918ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  176551ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  176918ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  177917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  178909ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  179917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  180398ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  180917ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  181910ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  182928ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  183919ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  184560ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 4-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 2-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=658800.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  184906ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  185926ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  186914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  187904ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  188914ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11

@@ -1,0 +1,15 @@
+{
+    "chat.agent.sandbox.enabled": "on",
+    "chat.tools.terminal.blockDetectedFileWrites": "all",
+    "chat.tools.terminal.ignoreDefaultAutoApproveRules": true,
+    "chat.mcp.serverSampling": {
+        "Project1/.vscode/mcp.json: github": {
+            "allowedModels": [
+                "copilotcli/auto",
+                "copilot/auto",
+                "agent-host-copilotcli:auto",
+                "agent-host-copilotcli:hydrafusion"
+            ]
+        }
+    }
+}
