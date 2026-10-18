@@ -1,0 +1,124 @@
+[    2591ms] [WARNING] Mixed Content: The page at 'https://www.news18.com/' was loaded over HTTPS, but requested an insecure element 'http://images.news18.com/dlxczavtqcctuei/news18/static/images/english/quick-games/gmbxbg.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://www.news18.com/:249
+[    9509ms] [LOG] [GPPID] Received: 1791969409716-8af5ed85-a363-44ba-83a8-368d3c2e445d @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:572
+[    9510ms] [LOG] [GPPID] Local cookie: 1791969409716-8af5ed85-a363-44ba-83a8-368d3c2e445d @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:581
+[    9510ms] [LOG] Loading tags @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:205
+[   12200ms] [LOG] [CDP Debug] Calling personalised API: https://api-lomaka.news18.com/nodeapi/v1/eng/personalised-content?fields=*&categories=%7B%22cdp_user_lifetime_cohort%22%3A10%2C%22cdp_user_lifetime_location%22%3A10%2C%22cdp_user_adp_widgets%22%3A10%7D&cdpid=08b21d68-85c7-4015-a26f-f861673929ee-1791969405265 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:414
+[   17249ms] Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Af (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:40250)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:100671
+    at Sk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:106163)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99146)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17249ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17249ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17249ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17249ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17250ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17251ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17251ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17251ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17251ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:120758)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Nk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:95716)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94272)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   17252ms] [LOG] Datadog RUM settings {applicationId: 051cd8f6-4f0f-42a4-a688-815b825e90f6, clientTokenExists: true, site: us5.datadoghq.com, env: production, service: news18-english-frontend} @ https://www.news18.com/_next/static/chunks/52936.4ac14b3b52293176.js:0
+[   17299ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://www.news18.com/_next/static/chunks/pages/_app-e088f3fd39c3bb60.js:24
+[   17677ms] [LOG] Data sent: {"message":"data save"} @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:276
+[   37188ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.vidgyor.com/player/v12/js/player.min.js:0
+[   38748ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js?cb=122881541:22
+[   39379ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11318&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fcs.startappnetwork.com%2Fset-uid%3Fp%3Dmbupodrt%26uid%3D%7Bviewer_token%7D:0
+[   39380ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   39380ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   43224ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://fran.frvr.com/api/v1/usync?bidder=inmobi&gdpr=0&gdpr_consent=&us_privacy=&f=i&uid=ID5-1-98575b9c-d016-484d-8858-abb3df05b974:0
+[   44172ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ :41
+[   44478ms] [ERROR] Provider's accounts list is empty. @ https://www.news18.com/:0
+[   45519ms] [LOG]  [  0.000s] [studio.sdk]   @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   45526ms] [LOG]  [  0.018s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   47170ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://www.news18.com/_next/static/chunks/56725.f0c565e7b8427c00.js:0
+[   55202ms] [LOG]  [  9.693s] [studio.sdk] The creative has expanded.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   57659ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=9724&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D109%26dspUserId%3D%7Bviewer_token%7D:0
+[   61263ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ap.lijit.com/pixel?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D13%26dspUserId%3D%24UID:0
+[   64956ms] [WARNING] Placements With no Content: Below Home Thumbnails | Card 5 @ https://cdn.taboola.com/libtrc/network18media-news18english/loader.js:495
+[   67464ms] [TIMEEND] a: 0.005859375 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   39380ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   75792ms] [LOG] AffinityPrebid HVR 1784624662 h-n-c-11.2.0 Loaded @ https://cdn4-hbs.affinitymatrix.com/hvrlib/news18.com/1784800142/v2.js:0
+[   39380ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[  102509ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?redirect=https%3A%2F%2Fid5-sync.com%2Fc%2F1854%2F821%2F3%2F7.gif%3Fpuid%3D%7Bdevice_id%7D%26gdpr%3D0%26gdpr_consent%3D:0
+[  103976ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=10c97611-5a3c-8602-ea1f-97b66d8f8cfb:0
+[  104390ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=10c97611-5a3c-8602-ea1f-97b66d8f8cfb:0
+[  104929ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://sg-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15&width=700&height=393&pubid=165757&tagid=946347&crid=-1&noaop=12&sortOrderType=0&cb=1791969500453&mimes=5,10,11,12&isvideo=0&plmd=2&mindur=1&maxdur=210&minbr=1&maxbr=10000&st=0&seq=3&pv=1821&pt=722899701&tz=330&viewable=true&ddast=V9wB4CABYDAAea0p6pK8KrBAAHmtKeqSvCqwUAAAAABgYA9AcAJDQbjkwei8mtW1h2a9FyY3IrXMPZWjdb-EbL4coxce6GAEBCs-HI5LGY3LqFZbcWLTcmt8I1nK11s4VvtByuHBPnbgoAHMZymQxqgYRl9vsOQr7bZRAVXW-L3eE0e94AcIGm0-Fz3et1v99d7vJ9HsO5xu_2ywEAAAAA4AHg____HwIAAAAAIAIAAAAAQAIAAAAAgAIgoALg3wJA4AIAAAAAAAPg____XwMAQGwDQGAZ5AA4IKPD8nuY_AEAAAAAAAIAAAAAQAIAgACbUgIAAJMffALw_________x8DMECfeSMD8P___38DwNADAPDgAwDwIAQAAABwMQQQfRnC_lpVsU4EABDAL1UE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoTm0Eh9ZALqDEm9hAAAAAABjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw0gyI5iLw1AyPLIVQ3gFxAAYA3gFxAAgA1g3AD-_98ABuAAwg4AAAAA4A7g____Xw8AxGYL02i2nOxmNs_GZXFMVhubZTkb2WaGlcMwMW0PAItzyQqvmD-jD8BDWGa_7yDku10GUdH1ttgdTrPnID5oGJaTQTA_gAlbjFaTyWY5nC0Xk8FwNByN9gcwEKvZAAEmYrBcTiaLyW41Wo02w91oNlgggEAMJghA0aLBZDUaTRaT4Wo0Wc2Wi91ugwAUrVrNRpvBcDWbzHa71XAwXI5GCDBhi9FqMtksh7PlYjIYjoaj0RABYmYy8ixHruFatZxM3KKNZ7RWeGYet2Tm8CwGy8XKONu4Ra-P6bHYGDcuz3CLAIIBNXuRPC3Sichhs9h2E9Nq5dhsVpblwjdYeDwmm8VkM3lsG-dELNGcLNKJ7LKvzRam0Ww52c1sno3L4pisNjbLcjayzQwrh2Fi2ncmI89y5BquVcvJxC3aeEZrhWfmcUtmDs9isFysjLONW_T6mB6LjXHj8gz3jd1ysZwtR7PRvrFbLpaz5Wg22neYTM_U52xUrrSKj9AhFdaUUZ3DoHAZLN61-nQWFoUHa0lcdOocRmN3ZxTuhFmvQeE5eFTX53N9GD6_omt2mnAcPAaD0WEyGB1Gg9GgiCWCi3Qid5l-f8vXMVy7TE6HW-7yfR7Dld1ndnqOFrFEabpIJ_qi3-0yPHwuf0UsEZwu0onQ73ZZ1K8EAAAAAAAAAACwBLAJAAAAAMAJYFCz5Wa4WifAwUwGy9lstVwAAAtlVl2AH1Ctz5j5MbtdgD8GEBZNdwy9YwAOd5l-f8vXMVy7TE6HW-7yfR7Dld1ndnqOVgYAsFBOZAbYDPAZgCDWarWsAQAAAASwAQAAAAa4AXQD8AYQWAbHAf7___3pAQAAAOj3AYCE9MKPXCn2-AEKZrIcLPYPACBAIdZqtbrdWKvVCggwiNFwtVtNIACgwI2UIAAAAAAAAACwECFAYNtNCKAQYDBEy9_t8kJAhoD_______9_f4eAOvnBKfB5pOqHAACAgNAc2gT4iACBVmwiwKCGg8FkM4qA_____4qAgmRQGJNZBNTJD06Fj8lnXgQAAASE5tA6AGMENMRgNpcMZnPhcK5cTCMAoIwjgIBYnC49AoQECMRg!&proto=2,3,5,6&encoded=1&pstn=1&callback=&wfv=1&amp=0&qsz=15&ft=0&pb=0&pagg=3&sd=undefined&ctsldr=1&ioovp=true&distance=11278&dtagid=3209665&dpubid=569385&abtst=crs_vB!expl_vC!lotc_vC!ufm_vA&mPre=0.033&cirf=https%3A%2F%2Fwww.news18.com&en=1:0
+[  104933ms] [ERROR] Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR @ https://sg-wf.taboola.com/VideoBidRequestHandlerServlet?oid=15&width=922&height=605&pubid=165757&tagid=946347&crid=-1&noaop=12&sortOrderType=0&cb=1791969500466&mimes=5,10,11,12&isvideo=0&plmd=2&mindur=1&maxdur=210&minbr=1&maxbr=10000&st=0&seq=3&pv=1821&pt=-74151624&tz=330&viewable=true&ddast=V9sdQCABYDAAea0p6pK8KrBAAHmtKeqSvCqwUAAAAABgYAawcAJOUZzjzG5WQtWzhWa9HGsVwLl8vBWracDJezycwwmS2GAEBSnuHMY1xO1rKFY7UWbRzLtXC5HKxly8lwOZvMDJPZYgoAHMZymQxqgYRl9vsOQr7bZRAVXW-L3eE0e94AcIGm0-Fz3et1v99d7vJ9HsO5xu_2ywEAAAAA4AHg____HwIAAAAAIAIAAAAAQAIAAAAAgAIgoALg3wJA4AIAAAAAAAPg____XwMAQGwDQGAZ5AA4IKPD8nuY_AEAAAAAAAIAAAAAQAIAgACbUgIAIGNGcALw_________x8DMECfeSMD8P___38DwNADAPDgAwDwIAQAAABwMQRwuoX01SGrQUQEABDAb1QE4AhgEkAnAFQAFlUA_____VYAAFcAAAABoTm0EiBZALqDEm9hAAAAAABjAAv0sPj9Zodd43e7DOD_________3wzg_wzgHw0gyI5iLw1AyPLIVQ3gFxAAYA3gFxAAgA1g3AD-_98ABuAAwg4AAAAA4A7g____Xw8AxGYL02i2nOxmNs_GZXFMVhubZTkb2WaGlcMwMW0PAItzyQqvmD-jD6DCmiaX3yBpucwGBcVvexlkLJfJfgATthitJpPNcjhbLiaD4Wg4Gu0PYCBWswECTMRguZxMFpPdarQabYa70WywQACBGEwQgKJFg8lqNJosJsPVaLKaLRe73QYBKFq1mo02g-FqNpntdqvhYLgcjRBgwhaj1WSyWQ5ny8VkMBwNR6MhAsTMZORZjlzDtWo5mbhFG89orfDMPG7JzOFZDJaLlXG2cYteH9NjsTFuXJ7hFgEEA2r2InlapBORw2ax7Sam1cqx2awsy4VvsPB4TDaLyWby2DbOiViiOVmkE9llX5stTKPZcrKb2Twbl8UxWW1sluVsZJsZVg7DxLTvTEae5cg1XKuWk4lbtPGM1grPzOOWzByexWC5WBlnG7fo9TE9FhvjxuUZ7hu75WI5W45mo31jt1wsZ8vRbLTvMJmeqc_ZqFxpFR-hQyqsKaM6h0HhMli8a_XpLCwKD9aSuOjUOYzG7s4o3AmzXoPCc_Cors_n-jB8fkXX7DThOHgMBqPDZDA6jAajQRFLBBfpRO4y_f6Wr2O4dpmcDrfc5fs8hiu7z-z0HC1iidJ0kU70Rb_bZXj4XP6KWCI4XaQTod_tsqhfCQAAAAAAAAAAYAlgEwAAAACAE8CgZsvNcLVOgIPZDCbLxWy5AAAWyqy6AD-hxdIj1a8KuwB_DCAsmu4YescAHO4y_f6Wr2O4dpmcDrfc5fs8hiu7z-z0HK0MAGChnMgMsBngMwBBrNVqWQMAAAAIYAMAAAAMcAPoBuANILAMjgP8___70wMAAACs7QMAGZmamZmZmfEDFMxkOVjsHwBAgEKs1Wp1u7FWqxUQYBCj4Wq3mkAAQIEbKUEAAAAAAAAAYCFCgMC2mxBAIcBgiJa_2-WFgAwB__________4OAXXyg1Pg80jVDwEAAAGhObQJ8BEBAq3YRIBBDQeDyWYUAf____8VAQXJoDAmswiokx-cCh-TJ70IAAAICM2hdQDGCGiIwWwuGczmwuFcuZhGAEAZRwABsThdegQICRCIwQA!&proto=2,3,5,6&encoded=1&pstn=vforce2&callback=&wfv=1&amp=0&qsz=15&ft=0&pb=0&pagg=3&sd=undefined&ctsldr=0&ioovp=true&distance=11278&dtagid=3302916&dpubid=569385&abtst=crs_vB!expl_vC!lotc_vC!t120&mPre=0.033&cirf=https%3A%2F%2Fwww.news18.com&en=1:0

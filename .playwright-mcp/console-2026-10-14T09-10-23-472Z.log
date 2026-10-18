@@ -1,0 +1,746 @@
+[    1422ms] [WARNING] Mixed Content: The page at 'https://www.news18.com/' was loaded over HTTPS, but requested an insecure element 'http://images.news18.com/dlxczavtqcctuei/news18/static/images/english/quick-games/gmbxbg.png'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html @ https://www.news18.com/:269
+[    6959ms] [LOG] [GPPID] Received: 1791969031653-9fe36003-a4c6-41da-b483-011571661c62 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:572
+[    6960ms] [LOG] [GPPID] Local cookie: 1791969031653-9fe36003-a4c6-41da-b483-011571661c62 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:581
+[    6961ms] [LOG] Loading tags @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:205
+[    8788ms] [LOG] [CDP Debug] Calling personalised API: https://api-lomaka.news18.com/nodeapi/v1/eng/personalised-content?fields=*&categories=%7B%22cdp_user_lifetime_cohort%22%3A10%2C%22cdp_user_lifetime_location%22%3A10%2C%22cdp_user_adp_widgets%22%3A10%7D&cdpid=c220d552-21ed-41b7-90d2-1707980bf8cc-1791969026946 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:414
+[   11590ms] Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Af (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:40250)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:100671
+    at Sk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:106163)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99146)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11590ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11590ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11590ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11591ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:120758)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Nk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:95716)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94272)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[   11604ms] [LOG] Datadog RUM settings {applicationId: 051cd8f6-4f0f-42a4-a688-815b825e90f6, clientTokenExists: true, site: us5.datadoghq.com, env: production, service: news18-english-frontend} @ https://www.news18.com/_next/static/chunks/52936.4ac14b3b52293176.js:0
+[   11664ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://www.news18.com/_next/static/chunks/pages/_app-e088f3fd39c3bb60.js:24
+[   13484ms] [LOG] Data sent: {"message":"data save"} @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:276
+[   21425ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.vidgyor.com/player/v12/js/player.min.js:0
+[   21933ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js:22
+[   23427ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ https://us.shb-sync.com/bf2ecb77-8b3f-11ed-9a3c-0cc47a787f5e.gif?puid=[UID]&redir=https%3A%2F%2Fs.ad.smaato.net%2Fc%2F%3FdspId%3D1074%26dspCookie%3D%5BUID%5D%26gdpr%3D0%26gdpr_consent%3D&gdpr=0&gdpr_consent=:0
+[   26273ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://cs.lkqd.net/cs?partnerId=109&partnerUserId=20ee3d9e4b&gdpr=0&gdpr_consent=:0
+[   28249ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ :41
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   29703ms] [LOG]  [  0.001s] [studio.sdk]   @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   29713ms] [LOG]  [  0.022s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   31210ms] [ERROR] Provider's accounts list is empty. @ https://www.news18.com/:0
+[   31417ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=087bcb58-8a5e-8a90-f6d4-cbf3d608d160:0
+[   33351ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.news18.com/_next/static/chunks/56725.f0c565e7b8427c00.js:0
+[   34440ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?ld=1&gdpr=0&cmp_cs=&us_privacy=&redir=https%3A%2F%2Fsyncingbridge.com%2FuserBack%3Fuid%3D%24UID%26gdpr%3D%7BGDPR%7D%26gdpr_consent%3D%7BGDPR_CONSENT%7D%26p%3D2:0
+[   35973ms] [LOG]  [  6.282s] [studio.sdk] The creative has expanded.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   37194ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://tracker-shr.ortb.net/sync?id=1&uid=ID5-1-4fe13acc-b9cd-4c4e-9cf7-c7e3bf6b4a1b:0
+[   37606ms] [ERROR] Refused to set unsafe header "Accept-Encoding" @ https://www.news18.com/_next/static/chunks/pages/_app-e088f3fd39c3bb60.js:24
+[   40429ms] [TIMEEND] a: 0.010009765625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   40511ms] [LOG] AffinityPrebid HVR 1784624662 h-n-c-11.2.0 Loaded @ https://cdn4-hbs.affinitymatrix.com/hvrlib/news18.com/1784800142/v2.js:0
+[   45982ms] [LOG]  [ 16.291s] [studio.sdk] The creative has collapsed.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   46679ms] [WARNING] VIDEOJS: WARN: videojs.Hls is deprecated. Use videojs.Vhs instead. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   46734ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   46767ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   46799ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   48444ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1854/19/3/7.gif?puid=f2e77a42002d7cbc2d2ce76ca5e008dc&gdpr=0&gdpr_consent=:0
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   51075ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3.ap-southeast-1.amazonaws.com/vidgyor.com/player/v12/css/vidgyor.woff @ https://www.news18.com/:0
+[   51199ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://simage2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTMzNDMmdGw9MTI5NjAw&piggybackCookie=36fa0b46-1461-4388-b80d-9281e0f0da27&gdpr=0:0
+[   51415ms] [WARNING] AdsLoader error: AdError 303: No Ads VAST response after one or more Wrappers @ https://static.vidgyor.com/player/v12/js/videojs.ima.min.js:1
+[   51431ms] [LOG] ad error - preroll 303 @ https://www.news18.com/_next/static/chunks/76.08d2807a916414d9.js:0
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   58007ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[   34440ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?ld=1&gdpr=0&cmp_cs=&us_privacy=&redir=https%3A%2F%2Fsyncingbridge.com%2FuserBack%3Fuid%3D%24UID%26gdpr%3D%7BGDPR%7D%26gdpr_consent%3D%7BGDPR_CONSENT%7D%26p%3D2:0
+[   37194ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://tracker-shr.ortb.net/sync?id=1&uid=ID5-1-4fe13acc-b9cd-4c4e-9cf7-c7e3bf6b4a1b:0
+[   48444ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1854/19/3/7.gif?puid=f2e77a42002d7cbc2d2ce76ca5e008dc&gdpr=0&gdpr_consent=:0
+[   70429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   71422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   72422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   73434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   74422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   75421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   76430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   77423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   78421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   79429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   80429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   81430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   82431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   83428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   84427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   85430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[   86421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   87423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   88429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   89422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   90422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   91435ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   92422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   93421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   94429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   95423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   96423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   97429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   98425ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   99424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  100428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  101423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  101604ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fsea1-sync.a-mo.net%2Fsetuid%3Fbidder%3Dyieldmo%26A%3D036a6705-2296-479d-85a1-7c87e65e8a2e%26uid%3D%24UID:0
+[  102421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  103428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  104430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  105422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  106429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  107421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  108422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  109431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  110421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  110521ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[   29594ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=11405&redirect=https%3A%2F%2Fs.amazon-adsystem.com%2Fecm3%3Fex%3Dloopme.com%26id%3D%7Bviewer_token%7D&gdpr=0:0
+[  111422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  112432ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  113422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  114422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  115429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  116430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  117422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  118428ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  118429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  119426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  120423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  121430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  122421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  123423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  124429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  125422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  126422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  127429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  128437ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  129421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  130429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  131428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  132427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  133429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  134427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  135423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  136428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  137422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  138108ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  138422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  139429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  140423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  141423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  142436ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  143422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  143898ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  144422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  145429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  146421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  147422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  148144ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  148430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  149422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  150425ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  151429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  152424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  153422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  154428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  155422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  156056ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  156422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  157430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  158422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  159423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  160438ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  161422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  162422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  163229ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  163434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  164421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  165426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  166429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  167369ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  167429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  168427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  169430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  170427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  171424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  172435ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  173423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  174422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  175428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  176423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  177422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  178431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  179359ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  179422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  180422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  181432ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  182427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  182778ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  183422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  184431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  185426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  186421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  187430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  188424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  188959ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  189422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  190430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  191421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  192423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  193434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  194421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  195423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  196433ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  197432ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  198422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  198738ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  199429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  200426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  201426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  201874ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  202430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  203426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  204422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  205430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  206422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  206692ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  207422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  208428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  209422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  210422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  211434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  212422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  213422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  213749ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  214435ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  215421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  216430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  217429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  218431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  218893ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 2-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=658800.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 0-CNN_News18_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  219427ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  220429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  221426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  222424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  223428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  224306ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 3-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=1272000.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 0-CNN_News18_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  224422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  225421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  226431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  227423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  228423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  229433ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  230422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  231421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  232431ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  233422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  234422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  235430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  236426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  237234ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  237424ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  238429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  239425ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  240423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  241429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  242422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  243423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  244434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  245422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  246423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  247434ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  248148ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  248422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  249421ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  250428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  251426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  251549ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  252426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  253428ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  254425ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  255426ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  256429ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  257270ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  257422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  258422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  259430ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  260422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  261422ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  262432ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  262998ms] [WARNING] The resource https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.news18.com/:0
+[  263436ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  264423ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11

@@ -1,0 +1,2001 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link [ref=e7] [cursor=pointer]:
+            - /url: https://www.news18.com/
+          - generic [ref=e21]:
+            - generic [ref=e22] [cursor=pointer]: English Edition
+            - generic [ref=e24]: Wed, Oct 14, 2026 | 02:39 PM
+        - generic [ref=e25]:
+          - link "Download News18 APP" [ref=e26] [cursor=pointer]:
+            - /url: https://onelink.to/eng-web-other
+          - link "Watch LIVE TV" [ref=e32] [cursor=pointer]:
+            - /url: /livetv/
+          - link [ref=e36] [cursor=pointer]:
+            - /url: https://www.news18.com/for-you/
+      - generic [ref=e38]:
+        - navigation [ref=e39]:
+          - list [ref=e40]:
+            - listitem [ref=e41]:
+              - link "Home" [ref=e42] [cursor=pointer]:
+                - /url: https://www.news18.com/
+            - listitem [ref=e43]:
+              - link "India" [ref=e44] [cursor=pointer]:
+                - /url: https://www.news18.com/india/
+            - listitem [ref=e45]:
+              - link "World" [ref=e46] [cursor=pointer]:
+                - /url: https://www.news18.com/world/
+            - listitem [ref=e47]:
+              - link "Explainers" [ref=e48] [cursor=pointer]:
+                - /url: https://www.news18.com/explainers/
+            - listitem [ref=e49]:
+              - link "DataPop" [ref=e50] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/data-graphics/
+            - listitem [ref=e51]:
+              - link "Cricket" [ref=e53] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/
+            - listitem [ref=e54]:
+              - link "Cities" [ref=e56] [cursor=pointer]:
+                - /url: https://www.news18.com/cities/
+            - listitem [ref=e57]:
+              - link "Movies" [ref=e59] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/
+            - listitem [ref=e60]:
+              - link "Lifestyle" [ref=e62] [cursor=pointer]:
+                - /url: https://www.news18.com/lifestyle/
+            - listitem [ref=e63]:
+              - link "Business" [ref=e65] [cursor=pointer]:
+                - /url: https://www.news18.com/business/
+            - listitem [ref=e66]:
+              - link "Tech2" [ref=e67] [cursor=pointer]:
+                - /url: https://www.tech2.com/
+            - listitem [ref=e68]:
+              - link "Latest" [ref=e69] [cursor=pointer]:
+                - /url: https://www.news18.com/news/
+            - listitem [ref=e70]:
+              - generic [ref=e71]: More
+        - link [ref=e73] [cursor=pointer]:
+          - /url: https://www.news18.com/notifications/
+        - generic [ref=e78] [cursor=pointer]:
+          - img "ask search icon" [ref=e79]
+          - generic [ref=e80]: ask news18
+        - button "Sign in" [ref=e81] [cursor=pointer]
+  - generic [ref=e83]:
+    - generic [ref=e84]: "TRENDING:"
+    - list [ref=e89]:
+      - listitem [ref=e90]:
+        - link "Jantar Mantar Protest" [ref=e91] [cursor=pointer]:
+          - /url: https://www.news18.com/india/saurav-das-ashutosh-ranka-5-day-judicial-custody-jantar-mantar-protest-row-cockroach-janta-party-cjp-ws-l-10380892.html
+      - listitem [ref=e92]:
+        - link "Rahul Gandhi" [ref=e93] [cursor=pointer]:
+          - /url: https://www.news18.com/india/resistance-will-continue-rahul-gandhi-tells-india-bloc-to-stay-ready-to-mobilise-in-24-hours-ws-lrs-10380826.html
+      - listitem [ref=e94]:
+        - link "India US Trade Deal" [ref=e95] [cursor=pointer]:
+          - /url: https://www.news18.com/india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+      - listitem [ref=e96]:
+        - link "Delhi CJP News" [ref=e97] [cursor=pointer]:
+          - /url: https://www.news18.com/india/delhi-police-two-firs-against-cjp-jantar-mantar-protest-saurav-das-ashutosh-ranka-abhijeet-dipke-ws-l-10380926.html
+      - listitem [ref=e98]:
+        - link "Saudi Houthis War" [ref=e99] [cursor=pointer]:
+          - /url: https://www.news18.com/world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+      - listitem [ref=e100]:
+        - link "#NiveshKaSahiKadam" [ref=e101] [cursor=pointer]:
+          - /url: https://www.news18features.com/niveshkasahikadam/
+      - listitem [ref=e102]:
+        - link "#ReelAwards2026" [ref=e103] [cursor=pointer]:
+          - /url: https://www.news18features.com/reel-awards-2026/
+      - listitem [ref=e104]:
+        - link "Instant Loans" [ref=e105] [cursor=pointer]:
+          - /url: https://www.moneycontrolpay.com/?utm_source=TrendingEngWeb
+    - list [ref=e106]:
+      - listitem [ref=e107]: Follow Us
+      - listitem [ref=e108]:
+        - link [ref=e109] [cursor=pointer]:
+          - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+      - listitem [ref=e110]:
+        - link [ref=e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/cnnnews18/
+      - listitem [ref=e112]:
+        - link [ref=e113] [cursor=pointer]:
+          - /url: https://twitter.com/CNNnews18
+      - listitem [ref=e114]:
+        - link [ref=e115] [cursor=pointer]:
+          - /url: https://www.youtube.com/cnnnews18
+      - listitem [ref=e116]:
+        - link [ref=e117] [cursor=pointer]:
+          - /url: https://news18.co/n18egpi
+      - listitem [ref=e118]:
+        - link [ref=e119] [cursor=pointer]:
+          - /url: https://www.instagram.com/cnnnews18/
+  - generic [ref=e120]: Advertisement
+  - main [ref=e124]:
+    - generic [ref=e125]:
+      - generic [ref=e126]:
+        - generic [ref=e127]:
+          - heading "Top News" [level=1] [ref=e128]
+          - link [ref=e129] [cursor=pointer]:
+            - /url: /india/delhi-police-cjp-leaders-repeat-violations-social-media-incitement-jantar-mantar-protest-ws-l-10381197.html
+          - generic [ref=e130]:
+            - link "India |" [ref=e131] [cursor=pointer]:
+              - /url: /india/delhi-police-cjp-leaders-repeat-violations-social-media-incitement-jantar-mantar-protest-ws-l-10381197.html
+              - generic [ref=e132]: India
+              - text: "|"
+            - link [ref=e133] [cursor=pointer]:
+              - /url: /india/delhi-police-cjp-leaders-repeat-violations-social-media-incitement-jantar-mantar-protest-ws-l-10381197.html
+            - text: "|"
+          - 'heading "Repeated Legal Violations, Social Media Incitement: Delhi Police On Why CJP Leaders Were Sent To Tihar" [level=2] [ref=e137]'
+          - generic [ref=e138]: Delhi Police cited alleged obstruction of police, legal violations and social media incitement as Sourav Das and Ashutosh Ranka were remanded to five-day judicial custody.
+          - figure [ref=e140]:
+            - img "Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka" [ref=e141]
+          - list [ref=e142]:
+            - listitem [ref=e143]:
+              - heading [level=3] [ref=e146]:
+                - 'link "Festive Break, Not Retreat: INDIA Bloc To Hit Pause On Anti-SIR, Anti-CEC Protests In Delhi" [ref=e147] [cursor=pointer]':
+                  - /url: /india/festive-break-not-retreat-india-bloc-to-hit-pause-on-anti-sir-anti-cec-protests-in-delhi-ws-l-10381179.html
+              - link [ref=e148] [cursor=pointer]:
+                - /url: /india/festive-break-not-retreat-india-bloc-to-hit-pause-on-anti-sir-anti-cec-protests-in-delhi-ws-l-10381179.html
+                - figure [ref=e149]:
+                  - img "Opposition parties have decided to scale back their daily demonstrations, with the festival calendar and the challenge of sustaining street mobilisation forcing a rethink." [ref=e150]
+              - generic [ref=e151]:
+                - generic [ref=e152]: India
+                - text: "|"
+                - link [ref=e153] [cursor=pointer]:
+                  - /url: /india/festive-break-not-retreat-india-bloc-to-hit-pause-on-anti-sir-anti-cec-protests-in-delhi-ws-l-10381179.html
+                - text: "|"
+            - listitem [ref=e157]:
+              - heading [level=3] [ref=e160]:
+                - 'link "''Friends Can Become Foes'': India Must Prepare For Geopolitical Shifts, Says Ashwini Vaishnaw" [ref=e161] [cursor=pointer]':
+                  - /url: /india/friends-can-become-foes-india-must-prepare-for-geopolitical-shifts-says-ashwini-vaishnaw-ws-l-10381311.html
+              - link [ref=e162] [cursor=pointer]:
+                - /url: /india/friends-can-become-foes-india-must-prepare-for-geopolitical-shifts-says-ashwini-vaishnaw-ws-l-10381311.html
+                - figure [ref=e163]:
+                  - img "Ashwini Vaishnaw was speaking at the Bloomberg New Economy Forum in New Delhi." [ref=e164]
+              - generic [ref=e165]:
+                - generic [ref=e166]: India
+                - text: "|"
+                - link [ref=e167] [cursor=pointer]:
+                  - /url: /india/friends-can-become-foes-india-must-prepare-for-geopolitical-shifts-says-ashwini-vaishnaw-ws-l-10381311.html
+                - text: "|"
+            - listitem [ref=e171]:
+              - heading [level=3] [ref=e174]:
+                - 'link "Markets Overly Pessimistic On Rupee: RBI Governor Sanjay Malhotra Tells Moneycontrol" [ref=e175] [cursor=pointer]':
+                  - /url: /business/economy/markets-overly-pessimistic-on-rupee-rbi-governor-sanjay-malhotra-tells-moneycontrol-10381054.html
+              - link [ref=e176] [cursor=pointer]:
+                - /url: /business/economy/markets-overly-pessimistic-on-rupee-rbi-governor-sanjay-malhotra-tells-moneycontrol-10381054.html
+                - figure [ref=e177]:
+                  - img "RBI Governor Sanjay Malhotra." [ref=e178]
+              - generic [ref=e179]:
+                - generic [ref=e180]: Economy
+                - text: "|"
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: /business/economy/markets-overly-pessimistic-on-rupee-rbi-governor-sanjay-malhotra-tells-moneycontrol-10381054.html
+                - text: "|"
+            - listitem [ref=e185]:
+              - heading [level=3] [ref=e188]:
+                - 'link "Harvard Community On SIR Protests: Undermining Institutional Credibility Through Unsubstantiated Accusations Not A Democratic Right" [ref=e189] [cursor=pointer]':
+                  - /url: /india/dissent-is-a-right-undermining-institutional-credibility-through-unsubstantiated-accusations-is-not-harvard-community-ws-lrt-10381112.html
+              - link [ref=e190] [cursor=pointer]:
+                - /url: /india/dissent-is-a-right-undermining-institutional-credibility-through-unsubstantiated-accusations-is-not-harvard-community-ws-lrt-10381112.html
+                - figure [ref=e191]:
+                  - img "Cockroach Janta Party (CJP) supporters during a protest in New Delhi. File image/PTI" [ref=e192]
+              - generic [ref=e193]:
+                - generic [ref=e194]: India
+                - text: "|"
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: /india/dissent-is-a-right-undermining-institutional-credibility-through-unsubstantiated-accusations-is-not-harvard-community-ws-lrt-10381112.html
+                - text: "|"
+            - listitem [ref=e199]:
+              - heading [level=3] [ref=e202]:
+                - link "Frankfurt-Delhi Air India Flight Makes Emergency Landing In Jaipur After Possible Mistaken Hijack Alert" [ref=e203] [cursor=pointer]:
+                  - /url: /india/bomb-threat-forces-air-india-flight-to-make-emergency-landing-at-jaipur-airport-ws-l-10381016.html
+              - link [ref=e204] [cursor=pointer]:
+                - /url: /india/bomb-threat-forces-air-india-flight-to-make-emergency-landing-at-jaipur-airport-ws-l-10381016.html
+                - figure [ref=e205]:
+                  - img "An Air India flight is seen. (File)" [ref=e206]
+              - generic [ref=e207]:
+                - generic [ref=e208]: India
+                - text: "|"
+                - link [ref=e209] [cursor=pointer]:
+                  - /url: /india/bomb-threat-forces-air-india-flight-to-make-emergency-landing-at-jaipur-airport-ws-l-10381016.html
+                - text: "|"
+        - generic [ref=e213]:
+          - generic [ref=e215]:
+            - link "live tv CNN News18" [ref=e216] [cursor=pointer]:
+              - /url: https://www.news18.com/LIVETV/
+              - heading "live tv" [level=2] [ref=e217]
+              - generic [ref=e218]: CNN News18
+            - generic [ref=e219]: More Channels
+          - list [ref=e228]:
+            - listitem [ref=e229]:
+              - heading [level=3] [ref=e232]:
+                - 'link "''US Donors Funding Abhijeet Dipke, CJP'': Singer Mary Millben Urges Young Indians To Back PM Modi" [ref=e233] [cursor=pointer]':
+                  - /url: /world/us-donors-funding-abhijeet-dipke-cjp-singer-mary-millben-urges-young-indians-to-back-pm-modi-ws-l-10381310.html
+              - link [ref=e234] [cursor=pointer]:
+                - /url: /world/us-donors-funding-abhijeet-dipke-cjp-singer-mary-millben-urges-young-indians-to-back-pm-modi-ws-l-10381310.html
+                - figure [ref=e235]:
+                  - img "PM Narendra Modi and American singer Mary Millben." [ref=e236]
+              - generic [ref=e237]:
+                - generic [ref=e238]: World
+                - text: "|"
+                - link [ref=e239] [cursor=pointer]:
+                  - /url: /world/us-donors-funding-abhijeet-dipke-cjp-singer-mary-millben-urges-young-indians-to-back-pm-modi-ws-l-10381310.html
+                - text: "|"
+            - listitem [ref=e243]:
+              - heading [level=3] [ref=e246]:
+                - 'link "Delhi CM Rekha Gupta: CJP Acting Like B-Team Of AAP, Why No Protest In Punjab Or Oppn-Ruled States?" [ref=e247] [cursor=pointer]':
+                  - /url: /india/delhi-cm-rekha-gupta-cjp-acting-like-b-team-of-aap-why-no-protest-in-punjab-or-opposition-ruled-states-ws-klr-10381287.html
+              - link [ref=e248] [cursor=pointer]:
+                - /url: /india/delhi-cm-rekha-gupta-cjp-acting-like-b-team-of-aap-why-no-protest-in-punjab-or-opposition-ruled-states-ws-klr-10381287.html
+                - figure [ref=e249]:
+                  - 'img "''SIR not happening for first time, why do they not protest in other states?'': Delhi CM Rekha Gupta calls CJP AAP''s ''B-Team''" [ref=e250]'
+              - generic [ref=e251]:
+                - generic [ref=e252]: India
+                - text: "|"
+                - link [ref=e253] [cursor=pointer]:
+                  - /url: /india/delhi-cm-rekha-gupta-cjp-acting-like-b-team-of-aap-why-no-protest-in-punjab-or-opposition-ruled-states-ws-klr-10381287.html
+                - text: "|"
+            - listitem [ref=e257]:
+              - heading [level=3] [ref=e260]:
+                - 'link "''Different Banners, One Cause'': Rahul Gandhi Backs CJP For The First Time, Calls For Unity Against BJP" [ref=e261] [cursor=pointer]':
+                  - /url: /india/rahul-gandhi-backs-cjp-for-the-first-time-calls-for-unity-against-bjp-jantar-mantar-ranka-ws-l-10381031.html
+              - link [ref=e262] [cursor=pointer]:
+                - /url: /india/rahul-gandhi-backs-cjp-for-the-first-time-calls-for-unity-against-bjp-jantar-mantar-ranka-ws-l-10381031.html
+                - figure [ref=e263]:
+                  - 'img "Leader of Opposition in the Lok Sabha Rahul Gandhi waves the national flag while standing atop police barricades during a protest march from Parliament towards the Election Commission of India (ECI) office, demanding the resignation of Chief Election Commissioner Gyanesh Kumar. (Source: PTI)" [ref=e264]'
+              - generic [ref=e265]:
+                - generic [ref=e266]: India
+                - text: "|"
+                - link [ref=e267] [cursor=pointer]:
+                  - /url: /india/rahul-gandhi-backs-cjp-for-the-first-time-calls-for-unity-against-bjp-jantar-mantar-ranka-ws-l-10381031.html
+                - text: "|"
+            - listitem [ref=e271]:
+              - heading [level=3] [ref=e274]:
+                - link "Emraan Hashmi Narrowly Escapes Accident As SUV Flips Mid-Air During Gunmaaster G9 Shoot | Video" [ref=e275] [cursor=pointer]:
+                  - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+              - link [ref=e276] [cursor=pointer]:
+                - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+                - figure [ref=e277]:
+                  - img "1. Gunmaaster G9 Video Shows SUV Flipping Near Emraan Hashmi During Stunt Shoot." [ref=e278]
+              - generic [ref=e279]:
+                - generic [ref=e280]: Bollywood
+                - text: "|"
+                - link [ref=e281] [cursor=pointer]:
+                  - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+                - text: "|"
+            - listitem [ref=e285]:
+              - heading [level=3] [ref=e288]:
+                - 'link "''Lady Hiding In Dehradun'': Who Was Rahul Gandhi Referring To At INDIA Bloc Press Conference" [ref=e289] [cursor=pointer]':
+                  - /url: /india/lady-hiding-in-dehradun-who-was-rahul-gandhi-referring-to-at-india-bloc-press-conference-ws-l-10381458.html
+              - link [ref=e290] [cursor=pointer]:
+                - /url: /india/lady-hiding-in-dehradun-who-was-rahul-gandhi-referring-to-at-india-bloc-press-conference-ws-l-10381458.html
+                - figure [ref=e291]:
+                  - img "Rahul Gandhi called the protests a movement that is evolving organically rather than according to a predetermined strategy." [ref=e292]
+              - generic [ref=e293]:
+                - generic [ref=e294]: India
+                - text: "|"
+                - link [ref=e295] [cursor=pointer]:
+                  - /url: /india/lady-hiding-in-dehradun-who-was-rahul-gandhi-referring-to-at-india-bloc-press-conference-ws-l-10381458.html
+                - text: "|"
+            - listitem [ref=e299]:
+              - heading [level=3] [ref=e302]:
+                - link "Are UP, Bihar Workers Being Forced Out Of Gujarat? The Truth Behind Surat’s ‘Gaon Chalo Andolan’" [ref=e303] [cursor=pointer]:
+                  - /url: /cities/surat/are-up-bihar-workers-being-forced-out-of-gujarat-the-truth-behind-surats-gaon-chalo-andolan-ws-l-10380900.html
+              - generic [ref=e304]:
+                - generic [ref=e305]: Surat
+                - text: "|"
+                - link [ref=e306] [cursor=pointer]:
+                  - /url: /cities/surat/are-up-bihar-workers-being-forced-out-of-gujarat-the-truth-behind-surats-gaon-chalo-andolan-ws-l-10380900.html
+                - text: "|"
+            - listitem [ref=e310]:
+              - heading [level=3] [ref=e313]:
+                - 'link "‘Partnership, Not Alliance’: Jaishankar On India-US Ties And The Bigger Shift Behind Tariffs" [ref=e314] [cursor=pointer]':
+                  - /url: /india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+              - generic [ref=e315]:
+                - generic [ref=e316]: India
+                - text: "|"
+                - link [ref=e317] [cursor=pointer]:
+                  - /url: /india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+                - text: "|"
+      - generic [ref=e321]:
+        - generic [ref=e322]: Advertisement
+        - list [ref=e324]:
+          - listitem [ref=e325]:
+            - heading [level=3] [ref=e327]:
+              - 'link "MC Interview: RBI Determined To Do What Is Necessary To Ensure Orderly Rupee Movement, Says RBI Governor Sanjay Malhotra" [ref=e328] [cursor=pointer]':
+                - /url: /business/economy/mc-interview-rbi-determined-to-do-what-is-necessary-to-ensure-orderly-rupee-movement-says-rbi-governor-sanjay-malhotra-ws-l-10381152.html
+            - generic [ref=e329]:
+              - generic [ref=e330]: Economy
+              - text: "|"
+              - link [ref=e331] [cursor=pointer]:
+                - /url: /business/economy/mc-interview-rbi-determined-to-do-what-is-necessary-to-ensure-orderly-rupee-movement-says-rbi-governor-sanjay-malhotra-ws-l-10381152.html
+              - text: "|"
+          - listitem [ref=e335]
+          - listitem [ref=e336]:
+            - heading [level=3] [ref=e338]:
+              - 'link "Kochi Synagogue Fire: NIA, Kerala ATS Examine Suspected Terror Links; $2,000 Payment Under Probe" [ref=e339] [cursor=pointer]':
+                - /url: /india/kochi-synagogue-fire-nia-kerala-ats-examine-suspected-terror-links-2000-payment-under-probe-ws-lr-10380986.html
+            - generic [ref=e340]:
+              - generic [ref=e341]: India
+              - text: "|"
+              - link [ref=e342] [cursor=pointer]:
+                - /url: /india/kochi-synagogue-fire-nia-kerala-ats-examine-suspected-terror-links-2000-payment-under-probe-ws-lr-10380986.html
+              - text: "|"
+        - list [ref=e346]:
+          - listitem [ref=e347]:
+            - heading [level=3] [ref=e349]:
+              - link "Marco Rubio To Begin 5-Day India Visit On Saturday; US-India Energy Cooperation On Agenda" [ref=e350] [cursor=pointer]:
+                - /url: /world/marco-rubio-to-begin-5-day-india-visit-on-saturday-us-india-energy-cooperation-on-agenda-ws-l-10380759.html
+            - generic [ref=e351]:
+              - generic [ref=e352]: World
+              - text: "|"
+              - link [ref=e353] [cursor=pointer]:
+                - /url: /world/marco-rubio-to-begin-5-day-india-visit-on-saturday-us-india-energy-cooperation-on-agenda-ws-l-10380759.html
+              - text: "|"
+          - listitem [ref=e357]:
+            - heading [level=3] [ref=e359]:
+              - 'link "''Reason I Quit My Old Job'': 29-Year-Old Lands ₹20.94 Lakh Pay Hike, Finds Former Boss Is New Manager" [ref=e360] [cursor=pointer]':
+                - /url: /viral/reason-i-quit-my-old-job-29-year-old-lands-20-94-lakh-pay-hike-finds-former-boss-is-new-manager-ws-l-10381284.html
+            - generic [ref=e361]:
+              - generic [ref=e362]: Viral
+              - text: "|"
+              - link [ref=e363] [cursor=pointer]:
+                - /url: /viral/reason-i-quit-my-old-job-29-year-old-lands-20-94-lakh-pay-hike-finds-former-boss-is-new-manager-ws-l-10381284.html
+              - text: "|"
+        - generic [ref=e367]: Advertisement
+    - generic [ref=e369]:
+      - generic [ref=e370]:
+        - link [ref=e371] [cursor=pointer]:
+          - /url: /videos/
+          - heading "Trending Videos" [level=2] [ref=e372]
+        - link "Trending Videos" [ref=e373] [cursor=pointer]:
+          - /url: /videos/
+      - generic [ref=e377]:
+        - link [ref=e379] [cursor=pointer]:
+          - /url: /videos/movies/bigg-boss-explosive-interview-rhiti-tiwari-on-ex-stepfather-mahhi-vij-and-more-i-exclusive-i-n18v-10369306.html
+          - figure [ref=e380]:
+            - 'img "Bigg Boss Explosive Interview: Rhiti Tiwari On Ex-Stepfather, Mahhi Vij And More I Exclusive I N18V" [ref=e381]'
+          - 'heading "Bigg Boss Explosive Interview: Rhiti Tiwari On Ex-Stepfather, Mahhi Vij And More I Exclusive I N18V" [level=3] [ref=e383]'
+        - link [ref=e385] [cursor=pointer]:
+          - /url: /videos/movies/the-social-reckoning-aaron-sorkin-hails-jeremy-strongs-thunderous-zuckerberg-performance-i-n18g-10368050.html
+          - figure [ref=e386]:
+            - 'img "The Social Reckoning: Aaron Sorkin Hails Jeremy Strong’s ‘Thunderous’ Zuckerberg Performance I N18G" [ref=e387]'
+          - 'heading "The Social Reckoning: Aaron Sorkin Hails Jeremy Strong’s ‘Thunderous’ Zuckerberg Performance I N18G" [level=3] [ref=e389]'
+        - link [ref=e391] [cursor=pointer]:
+          - /url: /videos/movies/avinash-mishra-proudly-flaunts-khatron-ke-khiladi-15-trophy-after-defeating-orry-and-rithvik-i-watch-10367888.html
+          - figure [ref=e392]:
+            - img "Avinash Mishra Proudly Flaunts Khatron Ke Khiladi 15 Trophy After Defeating Orry And Rithvik I WATCH" [ref=e393]
+          - heading "Avinash Mishra Proudly Flaunts Khatron Ke Khiladi 15 Trophy After Defeating Orry And Rithvik I WATCH" [level=3] [ref=e395]
+        - link [ref=e397] [cursor=pointer]:
+          - /url: /videos/movies/wicker-premiere-alexander-skarsgrd-olivia-colman-arrive-at-zurich-film-festival-2026-n18g-10359589.html
+          - figure [ref=e398]:
+            - 'img "‘Wicker’ Premiere: Alexander Skarsgård & Olivia Colman Arrive At Zurich Film Festival 2026 | N18G" [ref=e399]'
+          - 'heading "‘Wicker’ Premiere: Alexander Skarsgård & Olivia Colman Arrive At Zurich Film Festival 2026 | N18G" [level=3] [ref=e401]'
+        - link [ref=e403] [cursor=pointer]:
+          - /url: /videos/movies/florence-pugh-on-east-of-edens-intimate-scenes-by-the-end-i-was-feeling-a-little-bit-ugh-i-n18g-10359418.html
+          - figure [ref=e404]:
+            - 'img "Florence Pugh On East Of Eden’s Intimate Scenes: ‘By the End, I Was Feeling A Little Bit Ugh’ I N18G" [ref=e405]'
+          - 'heading "Florence Pugh On East Of Eden’s Intimate Scenes: ‘By the End, I Was Feeling A Little Bit Ugh’ I N18G" [level=3] [ref=e407]'
+        - link [ref=e409] [cursor=pointer]:
+          - /url: /videos/movies/sparsh-shrivastava-on-vibe-dupahiyaa-renuka-shahane-on-gondhals-oscar-entry-n18v-10359377.html
+          - figure [ref=e410]:
+            - img "Sparsh Shrivastava On VIBE, Dupahiyaa & Renuka Shahane On Gondhal’s Oscar Entry | N18V" [ref=e411]
+          - heading "Sparsh Shrivastava On VIBE, Dupahiyaa & Renuka Shahane On Gondhal’s Oscar Entry | N18V" [level=3] [ref=e413]
+        - link [ref=e415] [cursor=pointer]:
+          - /url: /videos/movies/tom-cruise-on-diggers-climate-crisis-theme-experiencing-good-cinema-together-i-n18g-10359207.html
+          - figure [ref=e416]:
+            - img "Tom Cruise On Digger’s Climate Crisis Theme & Experiencing Good Cinema Together I N18G" [ref=e417]
+          - heading "Tom Cruise On Digger’s Climate Crisis Theme & Experiencing Good Cinema Together I N18G" [level=3] [ref=e419]
+        - link [ref=e421] [cursor=pointer]:
+          - /url: /videos/movies/mame-khan-brinda-miller-on-rock-n-roots-kala-ghoda-the-changing-language-of-folk-music-i-n18v-10359076.html
+          - figure [ref=e422]:
+            - img "Mame Khan & Brinda Miller On Rock N Roots, Kala Ghoda & The Changing Language Of Folk Music I N18V" [ref=e423]
+          - heading "Mame Khan & Brinda Miller On Rock N Roots, Kala Ghoda & The Changing Language Of Folk Music I N18V" [level=3] [ref=e425]
+    - generic [ref=e427]:
+      - generic [ref=e428]:
+        - link [ref=e429] [cursor=pointer]:
+          - /url: /byline/consumer-trends-desk-28601.html
+          - heading "Deals of the day" [level=2] [ref=e430]
+        - link "More Deals" [ref=e431] [cursor=pointer]:
+          - /url: /byline/consumer-trends-desk-28601.html
+      - generic [ref=e435]:
+        - link [ref=e437] [cursor=pointer]:
+          - /url: /tech/best-instant-geysers-for-kitchen-3-litre-water-heaters-winter-m-amz-10380912.html
+          - figure [ref=e438]:
+            - img "Washing dishes at a kitchen sink" [ref=e439]
+          - 'heading "Best Instant Geysers For Kitchen: 3 Litre Water Heaters For Quick Hot Water This Winter" [level=3] [ref=e440]'
+        - link [ref=e442] [cursor=pointer]:
+          - /url: /lifestyle/beauty/consider-this-your-skins-festive-wardrobe-barrier-heroes-and-brightening-serums-to-know-m-amz-10379690.html
+          - figure [ref=e443]:
+            - img "Skin first, sparkle second. A thoughtful skincare ritual, built around hydration and barrier care, sets the stage for a festive glow." [ref=e444]
+          - 'heading "Consider This Your Skin’s Festive Wardrobe: Barrier Heroes And Brightening Serums To Know" [level=3] [ref=e445]'
+        - link [ref=e447] [cursor=pointer]:
+          - /url: /lifestyle/beauty/a-whiff-of-luxury-the-fragrances-that-make-festive-gifting-feel-more-personal-m-amz-10379655.html
+          - figure [ref=e448]:
+            - 'img "Smells Like a Celebration: Fragrances That Deserve a Place on Every Dressing Table" [ref=e449]'
+          - 'heading "A Whiff of Luxury: The Fragrances That Make Festive Gifting Feel More Personal" [level=3] [ref=e450]'
+        - link [ref=e452] [cursor=pointer]:
+          - /url: /lifestyle/fashion/the-art-of-looking-expensive-watches-that-bring-a-little-luxury-to-his-festive-wardrobe-m-amz-10379574.html
+          - figure [ref=e453]:
+            - img "The art of looking expensive is all in the details. From statement chronographs to polished steel bracelets, the right watch makes every festive look count." [ref=e454]
+          - 'heading "Beyond Telling Time: Five Luxury Automatic Watches Under ₹40,000 That Deserve a Place in Your Collection" [level=3] [ref=e455]'
+        - link [ref=e457] [cursor=pointer]:
+          - /url: /lifestyle/fashion/good-things-are-afoot-the-shoes-made-for-festive-season-m-amz-10379484.html
+          - figure [ref=e458]:
+            - img "Putting your best foot forward, one celebration at a time. From polished leather lace-ups to effortlessly smart loafers, these are the finishing touches your festive wardrobe has been waiting for." [ref=e459]
+          - 'heading "Good Things Are Afoot: The Shoes Made For Festive Season" [level=3] [ref=e460]'
+        - link [ref=e462] [cursor=pointer]:
+          - /url: /tech/best-titan-watches-men-women-amazon-sale-diwali-gifting-m-amz-10380910.html
+          - figure [ref=e463]:
+            - img "Analog wrist watch" [ref=e464]
+          - 'heading "Best Titan Watches For Men And Women On Amazon Sale: Top Analog, Smart And Gifting Picks This Diwali" [level=3] [ref=e465]'
+        - link [ref=e467] [cursor=pointer]:
+          - /url: /lifestyle/fashion/yami-gautams-1-01-lakh-red-anarkali-is-a-masterclass-in-indian-craftsmanship-and-festive-fashion-10380804.html
+          - figure [ref=e468]:
+            - img "Yami Gautam Stuns in a Red Anarkali by Pinkcity by Sarika for Nayyi Navelli Promotions" [ref=e469]
+          - heading "Yami Gautam’s ₹1.01 Lakh Red Anarkali Is a Masterclass in Indian Craftsmanship and Festive Fashion" [level=3] [ref=e470]
+        - link [ref=e472] [cursor=pointer]:
+          - /url: /tech/amazon-sale-buy-air-purifiers-under-rs-15000-from-xiaomi-philips-qubo-and-coway-m-amz-ws-l-10380714.html
+          - figure [ref=e473]:
+            - img "Xiaomi Mijia air purifier India launch date" [ref=e474]
+          - 'heading "Amazon Sale: Buy Air Purifiers Under Rs 15,000 from Xiaomi, Philips, Qubo and Coway" [level=3] [ref=e475]'
+        - link [ref=e477] [cursor=pointer]:
+          - /url: /tech/best-hybrid-solar-inverters-rooftop-solar-panels-under-60000-homes-m-amz-10379460.html
+          - figure [ref=e478]:
+            - img "Rooftop solar panels on homes in Mehsana, Gujarat" [ref=e479]
+          - heading "Top Hybrid Solar Inverters And Rooftop Solar Panels Under Rs. 60,000 For Modern Homes, Starting Under Rs. 8,000" [level=3] [ref=e480]
+        - link [ref=e482] [cursor=pointer]:
+          - /url: /lifestyle/fashion/a-bag-affair-5-designer-handbags-under-15000-that-deserve-a-spot-in-your-festive-wardrobe-m-amz-10379412.html
+          - figure [ref=e483]:
+            - img "A bag affair, indeed. From timeless leather totes to polished satchels, these designer-label handbags prove that a little festive indulgence doesn't have to come with a five-figure splurge." [ref=e484]
+          - 'heading "A Bag Affair: 5 Designer Handbags Under ₹15,000 That Deserve a Spot in Your Festive Wardrobe" [level=3] [ref=e485]'
+    - generic [ref=e487]:
+      - heading "Deals from Amazon" [level=2] [ref=e488]
+      - generic [ref=e489]:
+        - button "Washing Machine" [ref=e490] [cursor=pointer]
+        - button "Laptop" [ref=e491] [cursor=pointer]
+        - button "Refrigerator" [ref=e492] [cursor=pointer]
+        - button "TV" [ref=e493] [cursor=pointer]
+        - button "Watches" [ref=e494] [cursor=pointer]
+        - button "Shoes" [ref=e495] [cursor=pointer]
+        - button "Air Conditioner" [ref=e496] [cursor=pointer]
+        - button "Luggage" [ref=e497] [cursor=pointer]
+    - generic [ref=e521]:
+      - generic [ref=e522]:
+        - generic [ref=e523]:
+          - generic [ref=e524]:
+            - link [ref=e525] [cursor=pointer]:
+              - /url: /movies/
+              - heading [level=2] [ref=e526]:
+                - img "showsha" [ref=e527]
+            - link "More Entertainment News" [ref=e528] [cursor=pointer]:
+              - /url: /movies/
+          - generic [ref=e529]:
+            - link "Bollywood" [ref=e530] [cursor=pointer]:
+              - /url: /movies/bollywood/
+            - link "Regional Cinema" [ref=e531] [cursor=pointer]:
+              - /url: /movies/regional-cinema/
+            - link "OTT" [ref=e532] [cursor=pointer]:
+              - /url: /movies/web-series/
+            - link "Movies Reviews" [ref=e533] [cursor=pointer]:
+              - /url: /movies/movie-reviews/
+            - link "TV" [ref=e534] [cursor=pointer]:
+              - /url: /movies/television/
+            - link "Web Stories" [ref=e535] [cursor=pointer]:
+              - /url: /movies/web-stories/
+            - link "Hollywood" [ref=e536] [cursor=pointer]:
+              - /url: /movies/hollywood/
+            - link "Telugu Cinema" [ref=e537] [cursor=pointer]:
+              - /url: /movies/telugu-cinema/
+            - link "Tamil Cinema" [ref=e538] [cursor=pointer]:
+              - /url: /movies/tamil-cinema/
+            - link "Korean" [ref=e539] [cursor=pointer]:
+              - /url: /movies/korean/
+            - link "Malayalam Cinema" [ref=e540] [cursor=pointer]:
+              - /url: /movies/malayalam-cinema/
+          - generic [ref=e541]:
+            - link:
+              - /url: /movies/tamil-cinema/i-got-a-nicotine-high-vidya-balan-on-feeling-embarrassed-before-jailer-2-co-star-rajinikanth-exclusive-ws-l-10380722.html
+            - generic [ref=e542]:
+              - link "Tamil Cinema |" [ref=e543] [cursor=pointer]:
+                - /url: /movies/tamil-cinema/i-got-a-nicotine-high-vidya-balan-on-feeling-embarrassed-before-jailer-2-co-star-rajinikanth-exclusive-ws-l-10380722.html
+                - generic [ref=e544]: Tamil Cinema
+                - text: "|"
+              - link [ref=e545] [cursor=pointer]:
+                - /url: /movies/tamil-cinema/i-got-a-nicotine-high-vidya-balan-on-feeling-embarrassed-before-jailer-2-co-star-rajinikanth-exclusive-ws-l-10380722.html
+              - text: "|"
+            - 'heading "''I Got A Nicotine High'': Vidya Balan On Feeling ''Embarrassed'' Before Jailer 2 Co-Star Rajinikanth | Exclusive" [level=3] [ref=e549]'
+            - figure:
+              - img "Vidya Balan, Rajinikanth, Jailer 2"
+            - generic [ref=e550]:
+              - link:
+                - /url: /movies/telugu-cinema/who-is-the-buddha-south-director-who-asked-niti-taylor-to-sleep-with-him-netizens-decode-ws-lrt-10380937.html
+              - generic [ref=e551]:
+                - link "Telugu Cinema |" [ref=e552] [cursor=pointer]:
+                  - /url: /movies/telugu-cinema/who-is-the-buddha-south-director-who-asked-niti-taylor-to-sleep-with-him-netizens-decode-ws-lrt-10380937.html
+                  - generic [ref=e553]: Telugu Cinema
+                  - text: "|"
+                - link [ref=e554] [cursor=pointer]:
+                  - /url: /movies/telugu-cinema/who-is-the-buddha-south-director-who-asked-niti-taylor-to-sleep-with-him-netizens-decode-ws-lrt-10380937.html
+                - text: "|"
+              - heading "Who Is The 'Buddha' South Director Who Asked Niti Taylor To Sleep With Him? Netizens Decode" [level=3] [ref=e558]
+              - figure [ref=e559]:
+                - img "Niti Taylor" [ref=e560]
+              - link [ref=e561] [cursor=pointer]:
+                - /url: /photogallery/movies/bollywood/she-left-austria-with-one-suitcase-lost-a-son-husband-served-divorce-papers-as-anniversary-gift-celina-jaitlys-life-story-10380648.html
+              - generic [ref=e562]:
+                - link "Bollywood |" [ref=e563] [cursor=pointer]:
+                  - /url: /photogallery/movies/bollywood/she-left-austria-with-one-suitcase-lost-a-son-husband-served-divorce-papers-as-anniversary-gift-celina-jaitlys-life-story-10380648.html
+                  - generic [ref=e564]: Bollywood
+                  - text: "|"
+                - link [ref=e565] [cursor=pointer]:
+                  - /url: /photogallery/movies/bollywood/she-left-austria-with-one-suitcase-lost-a-son-husband-served-divorce-papers-as-anniversary-gift-celina-jaitlys-life-story-10380648.html
+                - text: "|"
+              - 'heading "She Left Austria With One Suitcase, Lost A Son, Husband Served Divorce Papers As Anniversary Gift: Celina Jaitly''s Life Story" [level=3] [ref=e569]'
+              - figure [ref=e570]:
+                - img "Celina Jaitly returned to Mumbai from Austria with one suitcase in October 2025 amid her ongoing separation from Peter Haag and custody battle." [ref=e571]
+              - link [ref=e573] [cursor=pointer]:
+                - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+              - generic [ref=e574]:
+                - link "Bollywood |" [ref=e575] [cursor=pointer]:
+                  - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+                  - generic [ref=e576]: Bollywood
+                  - text: "|"
+                - link [ref=e577] [cursor=pointer]:
+                  - /url: /movies/bollywood/emraan-hashmi-narrowly-escapes-accident-as-suv-flips-mid-air-during-gunmaaster-g9-shoot-video-10381063.html
+                - text: "|"
+              - heading "Emraan Hashmi Narrowly Escapes Accident As SUV Flips Mid-Air During Gunmaaster G9 Shoot | Video" [level=3] [ref=e581]
+              - figure [ref=e582]:
+                - img "1. Gunmaaster G9 Video Shows SUV Flipping Near Emraan Hashmi During Stunt Shoot." [ref=e583]
+              - link [ref=e584] [cursor=pointer]:
+                - /url: /movies/telugu-cinema/you-will-have-to-sleep-with-me-niti-taylor-reveals-what-buddha-south-director-told-her-ws-klrt-10380225.html
+              - generic [ref=e585]:
+                - link "Telugu Cinema |" [ref=e586] [cursor=pointer]:
+                  - /url: /movies/telugu-cinema/you-will-have-to-sleep-with-me-niti-taylor-reveals-what-buddha-south-director-told-her-ws-klrt-10380225.html
+                  - generic [ref=e587]: Telugu Cinema
+                  - text: "|"
+                - link [ref=e588] [cursor=pointer]:
+                  - /url: /movies/telugu-cinema/you-will-have-to-sleep-with-me-niti-taylor-reveals-what-buddha-south-director-told-her-ws-klrt-10380225.html
+                - text: "|"
+              - 'heading "''You Will Have To Sleep With Me'': Niti Taylor Reveals What ''Buddha'' South Director Told Her" [level=3] [ref=e592]'
+              - figure [ref=e593]:
+                - img "Niti Taylor" [ref=e594]
+          - generic [ref=e595]:
+            - generic [ref=e596]: in focus
+            - generic [ref=e597]:
+              - link "Ramayana Movie" [ref=e599] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/bollywood/ramayana-to-be-screened-at-rashtrapati-bhavan-ranbir-kapoor-yash-sai-pallavi-expected-to-join-report-ws-t-10381058.html
+              - link "Koffee With Karan" [ref=e601] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/bollywood/koffee-with-karan-season-9-when-and-where-to-watch-the-final-chapter-of-karan-johars-chat-show-ws-t-10380879.html
+              - link "Jailer 2" [ref=e603] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/tamil-cinema/i-got-a-nicotine-high-vidya-balan-on-feeling-embarrassed-before-jailer-2-co-star-rajinikanth-exclusive-ws-l-10380722.html
+              - link "Aneet Padda" [ref=e605] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/bollywood/inside-aneet-paddas-fairytale-themed-birthday-bash-ft-ahaan-pandays-special-gesture-alia-bhatts-appearance-10380858.html
+              - link "OTT Releases This Week" [ref=e607] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/web-series/ott-releases-this-week-october-12-2026-october-17-2026-koffee-with-karan-season-9-tyson-visionquest-and-more-ws-kl-10378458.html
+        - generic [ref=e608]:
+          - generic [ref=e609]:
+            - link [ref=e610] [cursor=pointer]:
+              - /url: /cricket/
+              - heading [level=2] [ref=e611]:
+                - img "cricketnext" [ref=e612]
+            - link "More Cricket News" [ref=e613] [cursor=pointer]:
+              - /url: /cricket/
+          - generic [ref=e614]:
+            - link [ref=e615] [cursor=pointer]:
+              - /url: /cricket/suryansh-shedge-set-to-earn-maiden-india-odi-call-up-for-5-match-series-in-new-zealand-ws-lr-10381405.html
+              - heading "Suryansh Shedge Set To Earn Maiden India ODI Call-Up For 5-Match Series In New Zealand" [level=3] [ref=e616]
+              - figure [ref=e617]:
+                - img "Suryansh Shedge set to earn maiden India ODI call-up" [ref=e618]
+            - list [ref=e619]:
+              - listitem [ref=e620]:
+                - heading [level=3] [ref=e622]:
+                  - link "India Selectors And Team Management Want Harshit Rana In Test & ODI Squads For New Zealand Series" [ref=e623] [cursor=pointer]:
+                    - /url: /cricket/india-selectors-and-team-management-want-harshit-rana-in-test-odi-squads-for-new-zealand-series-ws-l-10381346.html
+                - link [ref=e624] [cursor=pointer]:
+                  - /url: /cricket/india-selectors-and-team-management-want-harshit-rana-in-test-odi-squads-for-new-zealand-series-ws-l-10381346.html
+                  - figure [ref=e625]:
+                    - img "India selectors and team management want Harshit Rana in Test and ODI squads for New Zealand series" [ref=e626]
+              - listitem [ref=e627]:
+                - heading [level=3] [ref=e629]:
+                  - link "India To Play Warm-Up Match In New Zealand Ahead Of Test Series" [ref=e630] [cursor=pointer]:
+                    - /url: /cricket/india-to-play-warm-up-match-in-new-zealand-ahead-of-2-match-test-series-ws-l-10381030.html
+                - link [ref=e631] [cursor=pointer]:
+                  - /url: /cricket/india-to-play-warm-up-match-in-new-zealand-ahead-of-2-match-test-series-ws-l-10381030.html
+                  - figure [ref=e632]:
+                    - img "India to play warm-up match in New Zealand ahead of two-match Test series" [ref=e633]
+              - listitem [ref=e634]:
+                - heading [level=3] [ref=e636]:
+                  - 'link "0 For Jaiswal, 4 & 1 By KL Rahul: How India Test Stars Perform In First Group Matches Of Ranji Trophy" [ref=e637] [cursor=pointer]':
+                    - /url: /cricket/0-for-jaiswal-4-and-1-by-kl-rahul-how-india-test-stars-perform-in-first-group-matches-of-ranji-trophy-10380836.html
+                - link [ref=e638] [cursor=pointer]:
+                  - /url: /cricket/0-for-jaiswal-4-and-1-by-kl-rahul-how-india-test-stars-perform-in-first-group-matches-of-ranji-trophy-10380836.html
+                  - figure [ref=e639]:
+                    - img "How India Test stars perform in first group stage matches of Ranji Trophy 2026-27" [ref=e640]
+              - listitem [ref=e641]:
+                - heading [level=3] [ref=e643]:
+                  - link "Sahibzada Farhan Breaks Abhishek Sharma's Record During 3-Match T20I Series Against Sri Lanka" [ref=e644] [cursor=pointer]:
+                    - /url: /cricket/sahibzada-farhan-breaks-abhishek-sharmas-record-during-3-match-t20i-series-against-sri-lanka-ws-lr-10380913.html
+                - link [ref=e645] [cursor=pointer]:
+                  - /url: /cricket/sahibzada-farhan-breaks-abhishek-sharmas-record-during-3-match-t20i-series-against-sri-lanka-ws-lr-10380913.html
+                  - figure [ref=e646]:
+                    - img "Sahibzada Farhan breaks Abishek Sharma's record during 3-match T20I series against Sri Lanka" [ref=e647]
+          - generic [ref=e648]:
+            - generic [ref=e649]: in focus
+            - generic [ref=e650]:
+              - link "Ranji Trophy" [ref=e652] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/0-for-jaiswal-4-and-1-by-kl-rahul-how-india-test-stars-perform-in-first-group-matches-of-ranji-trophy-10380836.html
+              - link "IPL Review Meeting" [ref=e654] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/bcci-postpones-key-ipl-review-meeting-scheduled-for-october-15-10380502.html
+              - link "Virat Kohli Linkedin" [ref=e656] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/virat-kohli-on-linkedin-here-is-what-we-know-about-the-account-ws-t-10380064.html
+              - link "Rohit Sharma" [ref=e658] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/rohit-sharma-reveals-iconic-match-that-sparked-his-cricketing-dream-people-began-throwing-10380281.html
+        - generic [ref=e659]:
+          - generic [ref=e660]:
+            - link [ref=e661] [cursor=pointer]:
+              - /url: /viral/
+              - heading "Viral" [level=2] [ref=e662]
+            - link "Viral News" [ref=e663] [cursor=pointer]:
+              - /url: /viral/
+          - generic [ref=e664]:
+            - link [ref=e665] [cursor=pointer]:
+              - /url: /viral/my-husband-got-laid-off-techie-says-husband-is-now-competing-with-her-for-jobs-internet-reacts-ws-l-10381363.html
+              - 'heading "‘My Husband Got Laid Off’: Techie Says Husband Is Now Competing With Her For Jobs; Internet Reacts" [level=3] [ref=e666]'
+              - figure [ref=e667]:
+                - img "A woman’s account of her husband’s alleged behaviour after being laid off has sparked a heated online discussion (Image-AI)" [ref=e668]
+            - generic [ref=e669]:
+              - link [ref=e670] [cursor=pointer]:
+                - /url: /viral/korean-mom-visits-7-indian-cities-but-this-place-stole-her-heart-natural-beauty-was-truly-unforgettable-ws-l-10381181.html
+                - 'heading "Korean Mom Visits 7 Indian Cities, But This Place Stole Her Heart: ‘Natural Beauty Was Truly Unforgettable’" [level=3] [ref=e671]'
+                - figure [ref=e672]:
+                  - 'img "She also talked about how vast and culturally diverse cities in India are (Image: Instagram/@wonny_brothers)" [ref=e673]'
+              - link [ref=e674] [cursor=pointer]:
+                - /url: /viral/reason-i-quit-my-old-job-29-year-old-lands-20-94-lakh-pay-hike-finds-former-boss-is-new-manager-ws-l-10381284.html
+                - 'heading "''Reason I Quit My Old Job'': 29-Year-Old Lands ₹20.94 Lakh Pay Hike, Finds Former Boss Is New Manager" [level=3] [ref=e675]'
+                - figure [ref=e676]:
+                  - img "The employee had secured a senior position at a larger company with a $22,000 salary increase after months of job hunting (Image-AI)" [ref=e677]
+              - link [ref=e678] [cursor=pointer]:
+                - /url: /viral/16000-candidates-apply-for-entry-level-remote-it-job-25-are-senior-professionals-dystopian-reality-ws-l-10381189.html
+                - 'heading "16,000 Candidates Apply For Entry-Level Remote IT Job, 25% Are Senior Professionals: ‘Dystopian Reality’" [level=3] [ref=e679]'
+                - figure [ref=e680]:
+                  - 'img "They also pointed out that 25 per cent of the total applicants were already senior professionals (Image: Pexels)" [ref=e681]'
+              - link [ref=e682] [cursor=pointer]:
+                - /url: /viral/kolkata-cab-driver-lets-passengers-dog-ride-along-internet-thanks-him-for-kind-gesture-never-a-no-ws-l-10381343.html
+                - 'heading "Kolkata Cab Driver Lets Passenger’s Dog Ride Along, Internet Thanks Him For Kind Gesture: ‘Never A No’" [level=3] [ref=e683]'
+                - figure [ref=e684]:
+                  - 'img "He said a little fur can be cleaned but he did not want to upset anyone (Image: Instagram/@sabil___akhter)" [ref=e685]'
+          - generic [ref=e686]:
+            - generic [ref=e687]: in focus
+            - generic [ref=e688]:
+              - link "Bittu Tabahi" [ref=e690] [cursor=pointer]:
+                - /url: https://www.news18.com/viral/bittu-tabahi-finds-mps-ajnar-river-choked-with-garbage-again-my-8-months-of-hard-work-went-to-waste-ws-l-10380938.html
+              - link "Trumo White House Secretary" [ref=e692] [cursor=pointer]:
+                - /url: https://www.news18.com/viral/my-president-sorry-my-husband-trumps-new-white-house-press-secretary-katie-zacharias-awkward-debut-goes-viral-ws-l-10380985.html
+              - link "Neha Bora Viral Game" [ref=e694] [cursor=pointer]:
+                - /url: https://www.news18.com/viral/bhaag-neha-bhaag-indian-brothers-create-satirical-game-featuring-neha-bora-running-across-delhi-internet-reacts-ws-l-10381067.html
+              - link "Navratri Celebrations" [ref=e696] [cursor=pointer]:
+                - /url: https://www.news18.com/viral/navratri-celebration-at-new-yorks-times-square-goes-viral-internet-reacts-take-this-back-to-india-ws-l-10379736.html
+        - generic [ref=e697]:
+          - generic [ref=e698]:
+            - link [ref=e699] [cursor=pointer]:
+              - /url: /india/
+              - heading "India" [level=2] [ref=e700]
+            - link "India News" [ref=e701] [cursor=pointer]:
+              - /url: /india/
+          - link "‘Makhi Janta Party’ Emerges After CJI’s ‘Hammer To Kill A Fly’ Remark, Seeks Coordination With CJP The MJP has also expressed solidarity with the CJP and All India Students' Association (AISA) member Neha Bora, who has been protesting against CEC Gyanesh Kumar." [ref=e702] [cursor=pointer]:
+            - /url: /india/makhi-janta-party-emerges-after-cjis-hammer-to-kill-a-fly-remark-seeks-coordination-with-cjp-ws-r-10380417.html
+            - figure [ref=e703]:
+              - img "‘Makhi Janta Party’ Takes Shape After CJI’s Fly Remark, Seeks ‘Mutual Agreement’ With CJP" [ref=e704]
+            - generic [ref=e705]:
+              - heading "‘Makhi Janta Party’ Emerges After CJI’s ‘Hammer To Kill A Fly’ Remark, Seeks Coordination With CJP" [level=3] [ref=e706]
+              - generic [ref=e707]: The MJP has also expressed solidarity with the CJP and All India Students' Association (AISA) member Neha Bora, who has been protesting against CEC Gyanesh Kumar.
+          - list [ref=e708]:
+            - listitem [ref=e709]:
+              - link [ref=e710] [cursor=pointer]:
+                - /url: /india/pune-techie-dies-by-suicide-names-husband-in-laws-in-note-trishna-dowry-harassment-forced-to-surrender-entire-salary-10380479.html
+                - 'heading "Pune Techie Dies By Suicide, Names Husband & In-Laws In Note: ''Forced To Surrender Entire Salary''" [level=3] [ref=e712]'
+            - listitem [ref=e713]:
+              - link [ref=e714] [cursor=pointer]:
+                - /url: /india/that-is-a-surprise-rahul-gandhi-on-india-blocs-next-course-of-action-against-cec-ws-r-10380480.html
+                - 'heading "‘That Is A Surprise’: Rahul Gandhi On INDIA Bloc''s Next Course Of Action Against CEC" [level=3] [ref=e716]'
+            - listitem [ref=e717]:
+              - link [ref=e718] [cursor=pointer]:
+                - /url: /india/not-transferred-again-tukaram-mundhe-clarifies-amid-social-media-buzz-says-fda-crackdown-will-continue-ws-klrt-10380412.html
+                - heading "Tukaram Mundhe 'Transferred Again'? FDA Chief Gives Clarification Amid Social Media Buzz, Says Crackdown Will Go On" [level=3] [ref=e720]
+            - listitem [ref=e721]:
+              - link [ref=e722] [cursor=pointer]:
+                - /url: /cities/mumbai-news/weather-today-mumbai-stays-hot-rain-alerts-in-several-states-check-city-wise-forecast-ws-l-10381308.html
+                - 'heading "Weather Today: Mumbai Stays Hot, Rain Alerts In Several States; Check City-Wise Forecast" [level=3] [ref=e724]'
+          - generic [ref=e725]:
+            - generic [ref=e726]: in focus
+            - generic [ref=e727]:
+              - link "Delhi CJP News" [ref=e729] [cursor=pointer]:
+                - /url: https://www.news18.com/india/delhi-police-two-firs-against-cjp-jantar-mantar-protest-saurav-das-ashutosh-ranka-abhijeet-dipke-ws-l-10380926.html
+              - link "Rahul Gandhi" [ref=e731] [cursor=pointer]:
+                - /url: https://www.news18.com/india/rahul-gandhi-backs-cjp-for-the-first-time-calls-for-unity-against-bjp-jantar-mantar-ranka-ws-l-10381031.html
+              - link "Jantar Mantar Protest" [ref=e733] [cursor=pointer]:
+                - /url: https://www.news18.com/india/saurav-das-ashutosh-ranka-5-day-judicial-custody-jantar-mantar-protest-row-cockroach-janta-party-cjp-ws-l-10380892.html
+              - link "Neha Bora" [ref=e735] [cursor=pointer]:
+                - /url: https://www.news18.com/india/neha-bora-gets-the-gandhi-spotlight-but-can-she-avoid-the-kanhaiya-kumar-trap-ws-l-10380878.html
+              - link "EPFO Wage Hike" [ref=e737] [cursor=pointer]:
+                - /url: https://www.news18.com/india/epfo-wage-ceiling-hiked-to-rs-25000-ministries-asked-to-ensure-coverage-of-contract-workers-ws-blr-10380791.html
+              - link "India US Trade Deal" [ref=e739] [cursor=pointer]:
+                - /url: https://www.news18.com/india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+        - generic [ref=e740]:
+          - generic [ref=e741]:
+            - link [ref=e742] [cursor=pointer]:
+              - /url: /world/
+              - heading "World" [level=2] [ref=e743]
+            - link "World News" [ref=e744] [cursor=pointer]:
+              - /url: /world/
+          - generic [ref=e745]:
+            - link [ref=e746] [cursor=pointer]:
+              - /url: /world/pakistan-pledges-full-military-resources-to-defend-saudi-arabia-under-mecca-pact-exclusive-details-ws-lrt-10380631.html
+              - heading "Pakistan Pledges Full Military Resources To Defend Saudi Arabia Under Mecca Pact | Exclusive Details" [level=3] [ref=e747]
+              - figure [ref=e748]:
+                - img "Pakistan’s Defence Minister Khawaja Asif" [ref=e749]
+            - list [ref=e750]:
+              - listitem [ref=e751]:
+                - heading [level=3] [ref=e753]:
+                  - link "Pakistani Student Offering 'Prayers' On Road Killed In Australia Hit-And-Run; Convict Avoids Jail Term" [ref=e754] [cursor=pointer]:
+                    - /url: /world/pakistani-student-offering-prayers-on-road-killed-in-australia-hit-and-run-convict-avoids-jail-term-10380612.html
+                - link [ref=e755] [cursor=pointer]:
+                  - /url: /world/pakistani-student-offering-prayers-on-road-killed-in-australia-hit-and-run-convict-avoids-jail-term-10380612.html
+                  - figure [ref=e756]:
+                    - 'img "Samia Malik was hit by Ashton Friend''s car in May last year. (Image: X/@SilentBriefHQ1)" [ref=e757]'
+              - listitem [ref=e758]:
+                - heading [level=3] [ref=e760]:
+                  - 'link "$366 Million And Counting: How Elon Musk Is Bankrolling Republicans Ahead Of US Midterms" [ref=e761] [cursor=pointer]':
+                    - /url: /world/366-million-and-counting-how-elon-musk-is-bankrolling-republicans-ahead-of-us-midterms-10380587.html
+                - link [ref=e762] [cursor=pointer]:
+                  - /url: /world/366-million-and-counting-how-elon-musk-is-bankrolling-republicans-ahead-of-us-midterms-10380587.html
+                  - figure [ref=e763]:
+                    - img "Elon Musk (File photo)" [ref=e764]
+              - listitem [ref=e765]:
+                - heading [level=3] [ref=e767]:
+                  - 'link "Humanoid Robot Sexually Assaults 16-Year-Old Girl In Germany: ''Touched Buttocks, Made Thrusting Motions''" [ref=e768] [cursor=pointer]':
+                    - /url: /world/humanoid-robot-resembling-iron-man-sexually-assaults-16-year-old-in-germany-police-seize-bot-10380384.html
+                - link [ref=e769] [cursor=pointer]:
+                  - /url: /world/humanoid-robot-resembling-iron-man-sexually-assaults-16-year-old-in-germany-police-seize-bot-10380384.html
+                  - figure [ref=e770]:
+                    - img "Humanoid Robot Resembling 'Iron Man' Sexually Assaults 16-Year-Old In Germany, Police Seize Bot" [ref=e771]
+              - listitem [ref=e772]:
+                - heading [level=3] [ref=e774]:
+                  - link "Who Will Hold Generals Accountable?' ANP Chief's Questions On Pakistan's Terror Policy | Exclusive" [ref=e775] [cursor=pointer]:
+                    - /url: /world/who-will-hold-generals-accountable-anp-chiefs-questions-on-pakistans-terror-policy-exclusive-ws-l-10381438.html
+                - link [ref=e776] [cursor=pointer]:
+                  - /url: /world/who-will-hold-generals-accountable-anp-chiefs-questions-on-pakistans-terror-policy-exclusive-ws-l-10381438.html
+                  - figure [ref=e777]:
+                    - img "Awami National Party (ANP) chief Aimal Wali Khan" [ref=e778]
+          - generic [ref=e779]:
+            - generic [ref=e780]: in focus
+            - generic [ref=e781]:
+              - link "Saudi Houthis War" [ref=e783] [cursor=pointer]:
+                - /url: https://www.news18.com/world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+              - link "Pope Leo" [ref=e785] [cursor=pointer]:
+                - /url: https://www.news18.com/world/pope-leo-diagnosed-with-lung-cancer-after-surgery-to-remove-part-of-right-lung-10380784.html
+              - link "Netanyahu" [ref=e787] [cursor=pointer]:
+                - /url: https://www.news18.com/world/why-netanyahu-wants-saudi-arabia-to-let-israel-join-war-against-houthis-in-yemen-ws-l-10380951.html
+              - link "Strait Of Hormuz" [ref=e789] [cursor=pointer]:
+                - /url: https://www.news18.com/world/its-all-about-oil-how-iran-is-shifting-its-strait-of-hormuz-strategy-to-influence-us-elections-ws-l-10380814.html
+        - generic [ref=e790]:
+          - generic [ref=e791]:
+            - link [ref=e792] [cursor=pointer]:
+              - /url: /cities/
+              - heading "City News" [level=2] [ref=e793]
+            - generic [ref=e794] [cursor=pointer]: Choose City
+            - link "More City News" [ref=e796] [cursor=pointer]:
+              - /url: /cities/
+          - list [ref=e797]:
+            - listitem [ref=e798] [cursor=pointer]: Mumbai
+            - listitem [ref=e799] [cursor=pointer]: New Delhi
+            - listitem [ref=e800] [cursor=pointer]: Bengaluru
+            - listitem [ref=e801] [cursor=pointer]: Hyderabad
+            - listitem [ref=e802] [cursor=pointer]: Chennai
+            - listitem [ref=e803] [cursor=pointer]: Lucknow
+            - listitem [ref=e804] [cursor=pointer]: Kolkata
+            - listitem [ref=e805] [cursor=pointer]: Patna
+          - generic [ref=e806]:
+            - 'link "Weather Today: Mumbai Stays Hot, Rain Alerts In Several States; Check City-Wise Forecast Mumbai is set for hot, hazy weather as rain and thunderstorms threaten parts of north and south India. Pune’s rain outlook later this week remains uncertain" [ref=e807] [cursor=pointer]':
+              - /url: /cities/mumbai-news/weather-today-mumbai-stays-hot-rain-alerts-in-several-states-check-city-wise-forecast-ws-l-10381308.html
+              - figure [ref=e808]:
+                - img "Check the latest IMD district-level warnings and local administration advisories before travelling or making outdoor plans." [ref=e809]
+              - generic [ref=e810]:
+                - 'heading "Weather Today: Mumbai Stays Hot, Rain Alerts In Several States; Check City-Wise Forecast" [level=3] [ref=e811]'
+                - generic [ref=e812]: Mumbai is set for hot, hazy weather as rain and thunderstorms threaten parts of north and south India. Pune’s rain outlook later this week remains uncertain
+            - list [ref=e813]:
+              - listitem [ref=e814]:
+                - link [ref=e815] [cursor=pointer]:
+                  - /url: /cities/mumbai-news/mumbai-airport-terminal-1-revamp-set-for-january-2027-will-your-flight-be-affected-ws-l-10381146.html
+                  - 'heading "Mumbai Airport Terminal 1 Revamp Set For January 2027: Will Your Flight Be Affected?" [level=3] [ref=e817]'
+              - listitem [ref=e818]:
+                - link [ref=e819] [cursor=pointer]:
+                  - /url: /cities/bengaluru-news/mumbai-bengaluru-nh-48-disrupted-check-alternative-routes-via-satara-sangli-and-kolhapur-ws-l-10381032.html
+                  - 'heading "Mumbai-Bengaluru NH-48 Disrupted: Check Alternative Routes Via Satara, Sangli And Kolhapur" [level=3] [ref=e821]'
+              - listitem [ref=e822]:
+                - link [ref=e823] [cursor=pointer]:
+                  - /url: /photogallery/cities/bengaluru-news/heavy-rain-forecast-for-tamil-nadu-bengaluru-in-focus-could-mumbai-see-a-wet-spell-ws-l-10380850.html
+                  - heading "Heavy Rain Forecast For Tamil Nadu, Bengaluru In Focus; Could Mumbai See A Wet Spell?" [level=3] [ref=e825]
+              - listitem [ref=e826]:
+                - link [ref=e827] [cursor=pointer]:
+                  - /url: /india/not-transferred-again-tukaram-mundhe-clarifies-amid-social-media-buzz-says-fda-crackdown-will-continue-ws-klrt-10380412.html
+                  - heading "Tukaram Mundhe 'Transferred Again'? FDA Chief Gives Clarification Amid Social Media Buzz, Says Crackdown Will Go On" [level=3] [ref=e829]
+        - generic [ref=e830]:
+          - generic [ref=e831]:
+            - heading [level=2] [ref=e832]:
+              - link "Shows" [ref=e833] [cursor=pointer]:
+                - /url: /shows/
+            - link "More Shows" [ref=e834] [cursor=pointer]:
+              - /url: /shows/
+          - generic [ref=e837]:
+            - link "The Hard Facts Mon-Fri, 9 PM to 10 PM" [ref=e839] [cursor=pointer]:
+              - /url: /shows/the-hard-facts/
+              - figure [ref=e840]
+              - generic [ref=e841]: The Hard Facts
+              - time [ref=e842]: Mon-Fri, 9 PM to 10 PM
+            - link "The Right Stand Mon-Fri, 7 PM to 8 PM" [ref=e844] [cursor=pointer]:
+              - /url: /shows/the-right-stand/
+              - figure [ref=e845]
+              - generic [ref=e846]: The Right Stand
+              - time [ref=e847]: Mon-Fri, 7 PM to 8 PM
+            - link "The Breakfast Club Mon-Fri, 8 AM to 9 AM" [ref=e849] [cursor=pointer]:
+              - /url: /shows/the-breakfast-club/
+              - figure [ref=e850]
+              - generic [ref=e851]: The Breakfast Club
+              - time [ref=e852]: Mon-Fri, 8 AM to 9 AM
+            - link "Take Three Sat 8:30 PM, Sun 1:30 PM, Sun 9:30 PM" [ref=e854] [cursor=pointer]:
+              - /url: /shows/take-three/
+              - figure [ref=e855]
+              - generic [ref=e856]: Take Three
+              - time [ref=e857]: Sat 8:30 PM, Sun 1:30 PM, Sun 9:30 PM
+        - generic [ref=e858]:
+          - generic [ref=e859]:
+            - link [ref=e860] [cursor=pointer]:
+              - /url: /lifestyle/travel/
+              - heading "Travel" [level=2] [ref=e861]
+            - link "Travel News" [ref=e862] [cursor=pointer]:
+              - /url: /lifestyle/travel/
+          - generic [ref=e863]:
+            - link [ref=e864] [cursor=pointer]:
+              - /url: /lifestyle/travel/want-to-see-snow-in-india-this-winter-7-lesser-known-places-in-india-to-add-to-your-bucket-list-10379145.html
+              - heading "Want To See Snow In India This Winter? 7 Lesser-Known Places To Add To Your Bucket List" [level=3] [ref=e865]
+              - figure [ref=e866]
+            - generic [ref=e867]:
+              - link [ref=e868] [cursor=pointer]:
+                - /url: /lifestyle/travel/with-new-vande-bharat-train-route-you-can-travel-to-varanasi-from-delhi-in-4-hours-all-details-10377641.html
+                - 'heading "With New Vande Bharat Train Route You Can Travel To Varanasi From Delhi In 4 Hours: All Details" [level=3] [ref=e869]'
+                - figure [ref=e870]:
+                  - img "A second route for the Vande Bharat Sleeper train to be introduced between Mumbai and Bengaluru." [ref=e871]
+              - link [ref=e872] [cursor=pointer]:
+                - /url: /lifestyle/travel/navratri-2026-travel-guide-15-must-visit-destinations-to-feel-the-true-spirit-of-the-festival-10374600.html
+                - 'heading "Navratri 2026 Travel Guide: 11 Must-Visit Destinations to Feel the True Spirit of the Festival" [level=3] [ref=e873]'
+                - figure [ref=e874]:
+                  - 'img "Aaj Ka Panchang, October 11, 2026: Tithi, Muhurat and Rahu Kaal." [ref=e875]'
+              - link [ref=e876] [cursor=pointer]:
+                - /url: /lifestyle/spirituality/10-famous-durga-puja-pandals-around-mumbai-and-thane-to-visit-this-year-10364357.html
+                - heading "10 Famous Durga Puja Pandals Around Mumbai And Thane To Visit This Year" [level=3] [ref=e877]
+                - figure [ref=e878]:
+                  - img "At the heart of Mahishasuramardini is the ancient story of Goddess Durga and Mahishasura, the powerful shape-shifting demon who had received a boon that made him impossible for a man or god to defeat. Armed with this protection, Mahishasura waged war against the gods and drove them from heaven. To defeat him, the divine powers of Brahma, Vishnu, Shiva and other gods came together to create Durga, a warrior goddess who embodied their collective strength. Armed with divine weapons and riding a lion, she confronted Mahishasura in a fierce battle and ultimately killed him with her trident." [ref=e879]
+              - link [ref=e880] [cursor=pointer]:
+                - /url: /lifestyle/travel/tremors-from-afghanistan-earthquake-felt-in-kashmir-safety-precautions-travellers-should-take-10368812.html
+                - 'heading "Tremors From Afghanistan Earthquake Felt In Kashmir: Safety Precautions Travellers Should Take" [level=3] [ref=e881]'
+                - figure [ref=e882]:
+                  - 'img "Kashmir in autumn: Shikaras glide across Dal Lake as the Valley''s iconic Chinar trees turn shades of gold and orange." [ref=e883]'
+      - generic [ref=e884]:
+        - generic [ref=e885]: Advertisement
+        - generic [ref=e888]:
+          - link "News18 Specials" [ref=e889] [cursor=pointer]:
+            - /url: /topics/news18-specials/
+          - link [ref=e891] [cursor=pointer]:
+            - /url: /india/indias-op-sindoor-showed-new-zealands-commodore-dowling-underscores-need-for-defence-ties-with-new-delhi-ws-lrt-10381357.html
+            - figure [ref=e892]:
+              - img "Commodore Andy Dowling" [ref=e893]
+          - 'link "''India’s Op Sindoor Showed...'': New Zealand''s Commodore Dowling Underscores Need For Defence Ties With New Delhi" [ref=e894] [cursor=pointer]':
+            - /url: /india/indias-op-sindoor-showed-new-zealands-commodore-dowling-underscores-need-for-defence-ties-with-new-delhi-ws-lrt-10381357.html
+          - generic [ref=e896]: Driven by combat lessons of India’s recent military operations and impending FTA launch, NZ is shedding its historical distance to forge a high-tech defence alliance with New Delhi
+          - generic [ref=e897]:
+            - 'link "Delhi CM Rekha Gupta: CJP Acting Like B-Team Of AAP, Why No Protest In Punjab Or Oppn-Ruled States?" [ref=e898] [cursor=pointer]':
+              - /url: /india/delhi-cm-rekha-gupta-cjp-acting-like-b-team-of-aap-why-no-protest-in-punjab-or-opposition-ruled-states-ws-klr-10381287.html
+            - link "Can CJP’s Ashutosh Ranka, Saurav Das Be Jailed For 2-5 Years For Jantar Mantar Trespass? The Charges & Punishment Explained" [ref=e899] [cursor=pointer]:
+              - /url: /explainers/cjps-ashutosh-ranka-saurav-das-can-be-jailed-for-5-years-for-jantar-mantar-trespass-the-charges-punishments-explained-ws-klrt-10381120.html
+          - link "News18 Exclusives" [ref=e900] [cursor=pointer]:
+            - /url: /topics/news18-specials/
+        - generic [ref=e901]: Advertisement
+        - heading [level=2] [ref=e903]:
+          - link "Games" [ref=e904] [cursor=pointer]:
+            - /url: /games/
+        - generic [ref=e905]:
+          - link "4096 Game 4096 Game 193.5k" [ref=e906] [cursor=pointer]:
+            - /url: https://www.news18.com/games/game-4096/
+            - generic [ref=e907]:
+              - img "4096 Game" [ref=e908]
+              - text: 4096 Game
+              - generic [ref=e909]: 193.5k
+          - link "Tetromino Tetromino 129.6k" [ref=e910] [cursor=pointer]:
+            - /url: https://www.news18.com/games/tetromino/
+            - generic [ref=e911]:
+              - img "Tetromino" [ref=e912]
+              - text: Tetromino
+              - generic [ref=e913]: 129.6k
+          - link "Number Chain Number Chain 125.8k" [ref=e914] [cursor=pointer]:
+            - /url: https://www.news18.com/games/number-chain/
+            - generic [ref=e915]:
+              - img "Number Chain" [ref=e916]
+              - text: Number Chain
+              - generic [ref=e917]: 125.8k
+          - link "Chess Chess 61.5k" [ref=e918] [cursor=pointer]:
+            - /url: https://www.news18.com/games/chess/
+            - generic [ref=e919]:
+              - img "Chess" [ref=e920]
+              - text: Chess
+              - generic [ref=e921]: 61.5k
+          - link "View More Games" [ref=e922] [cursor=pointer]:
+            - /url: /games/
+        - generic [ref=e923]: Advertisement
+        - generic [ref=e925]:
+          - link [ref=e926] [cursor=pointer]:
+            - /url: /news/
+            - heading "Trending News" [level=2] [ref=e927]
+          - list [ref=e928]:
+            - listitem [ref=e929]:
+              - heading [level=3] [ref=e931]:
+                - 'link "Rasika Dugal On Her Drastic Transformation For Little Thomas After Mirzapur: ‘Interesting Challenge’" [ref=e932] [cursor=pointer]':
+                  - /url: /movies/bollywood/rasika-dugal-on-her-drastic-transformation-for-little-thomas-after-mirzapur-interesting-challenge-ws-lr-10381383.html
+              - link [ref=e933] [cursor=pointer]:
+                - /url: /movies/bollywood/rasika-dugal-on-her-drastic-transformation-for-little-thomas-after-mirzapur-interesting-challenge-ws-lr-10381383.html
+                - figure [ref=e934]:
+                  - img "Mirzapur, Rasika Dugal" [ref=e935]
+            - listitem [ref=e936]:
+              - heading [level=3] [ref=e938]:
+                - link "Shreyas Iyer Becomes World No. 4 T20I Batter, Matt Renshaw Jumps 147 Places In Test Rankings" [ref=e939] [cursor=pointer]:
+                  - /url: /cricket/shreyas-iyer-becomes-world-no-4-t20i-batter-matt-renshaw-jumps-147-places-in-test-rankings-ws-l-10381426.html
+              - link [ref=e940] [cursor=pointer]:
+                - /url: /cricket/shreyas-iyer-becomes-world-no-4-t20i-batter-matt-renshaw-jumps-147-places-in-test-rankings-ws-l-10381426.html
+                - figure [ref=e941]:
+                  - img "Shreyas Iyer becomes world No. 4 T20I batter" [ref=e942]
+            - listitem [ref=e943]:
+              - heading [level=3] [ref=e945]:
+                - 'link "‘No One Is Safe In Punjab’: BJP Chief Demands CBI Probe Into Anti-Drug Activist Murder | Exclusive" [ref=e946] [cursor=pointer]':
+                  - /url: /india/no-one-is-safe-in-punjab-bjp-chief-demands-cbi-probe-into-anti-drug-activist-murder-exclusive-ws-lr-10381459.html
+              - link [ref=e947] [cursor=pointer]:
+                - /url: /india/no-one-is-safe-in-punjab-bjp-chief-demands-cbi-probe-into-anti-drug-activist-murder-exclusive-ws-lr-10381459.html
+                - figure [ref=e948]:
+                  - 'img "File image of Anti-drug activist Parvinder Singh Jhota and the medical store where he was shot. (Source: X)" [ref=e949]'
+            - listitem [ref=e950]:
+              - heading [level=3] [ref=e952]:
+                - link "Man shot dead in northeast Delhi" [ref=e953] [cursor=pointer]:
+                  - /url: /agency-feeds/man-shot-dead-in-northeast-delhi-10381490.html
+              - link [ref=e954] [cursor=pointer]:
+                - /url: /agency-feeds/man-shot-dead-in-northeast-delhi-10381490.html
+                - figure [ref=e955]:
+                  - 'img "Representational image (Image: News18)" [ref=e956]'
+            - listitem [ref=e957]:
+              - heading [level=3] [ref=e959]:
+                - link "BHEL Q2 net profit jumps over two-fold to Rs 821 cr" [ref=e960] [cursor=pointer]:
+                  - /url: /agency-feeds/bhel-q2-net-profit-jumps-over-two-fold-to-rs-821-cr-10381488.html
+              - link [ref=e961] [cursor=pointer]:
+                - /url: /agency-feeds/bhel-q2-net-profit-jumps-over-two-fold-to-rs-821-cr-10381488.html
+                - figure [ref=e962]:
+                  - 'img "Representational image (Image: News18)" [ref=e963]'
+          - link "latest news" [ref=e964] [cursor=pointer]:
+            - /url: /news/
+        - generic [ref=e965]: Advertisement
+        - generic [ref=e968]:
+          - link [ref=e969] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+            - img "rapid read logo" [ref=e970]
+          - figure [ref=e971]
+          - link "More Rapid Read" [ref=e972] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+    - generic [ref=e973]:
+      - heading [level=2] [ref=e974]:
+        - link "Short Videos" [ref=e975] [cursor=pointer]:
+          - /url: /short-videos/
+        - link "Short Videos" [ref=e976] [cursor=pointer]:
+          - /url: /short-videos/
+      - generic [ref=e978]:
+        - link [ref=e979] [cursor=pointer]:
+          - /url: /short-videos/movies/malavikamohanan-stuns-in-a-chic-black-skirt-white-top-effortlessly-elegant-on-a-night-out-10260160.html
+          - heading "#MalavikaMohanan stuns in a chic black skirt & white top, effortlessly elegant on a night out!" [level=3] [ref=e982]
+        - link [ref=e983] [cursor=pointer]:
+          - /url: /short-videos/movies/pratibharanta-lights-up-the-city-with-her-natural-charm-as-shes-spotted-out-and-about-10259632.html
+          - heading "#PratibhaRanta lights up the city with her natural charm as she's spotted out and about." [level=3] [ref=e986]
+        - link [ref=e987] [cursor=pointer]:
+          - /url: /short-videos/movies/dapper-alert-sidharth-malhotra-snapped-arriving-for-a-shoot-in-bandra-10242558.html
+          - heading "Dapper alert! Sidharth Malhotra snapped arriving for a shoot in Bandra" [level=3] [ref=e990]
+        - link [ref=e991] [cursor=pointer]:
+          - /url: /short-videos/movies/parineeti-chopra-spotted-at-mumbai-airport-keeping-it-effortlessly-stylish-as-always-10242531.html
+          - heading "Parineeti Chopra spotted at Mumbai Airport, keeping it effortlessly stylish as always" [level=3] [ref=e994]
+        - link [ref=e995] [cursor=pointer]:
+          - /url: /short-videos/movies/sussanne-khan-makes-a-stylish-airport-appearance-as-she-heads-to-her-next-destination-10231623.html
+          - heading "Sussanne Khan makes a stylish airport appearance as she heads to her next destination" [level=3] [ref=e998]
+        - link [ref=e999] [cursor=pointer]:
+          - /url: /short-videos/movies/papped-alia-bhatt-keeps-it-chic-as-she-heads-to-her-next-destination-10231600.html
+          - heading "Papped! Alia Bhatt keeps it chic as she heads to her next destination." [level=3] [ref=e1002]
+        - link [ref=e1003] [cursor=pointer]:
+          - /url: /short-videos/movies/shura-khan-enjoys-quality-time-with-family-at-a-bandra-caf-10225339.html
+          - heading "Shura Khan Enjoys Quality Time with Family at a Bandra Café" [level=3] [ref=e1006]
+        - link [ref=e1007] [cursor=pointer]:
+          - /url: /short-videos/movies/mom-to-be-karishma-tanna-radiates-pregnancy-glow-with-husband-10224897.html
+          - heading "Mom-to-Be Karishma Tanna Radiates Pregnancy Glow with Husband" [level=3] [ref=e1010]
+        - link [ref=e1011] [cursor=pointer]:
+          - /url: /short-videos/movies/ananya-panday-airport-look-steals-the-spotlight-as-she-flies-out-10224841.html
+          - heading "Ananya Panday Airport Look Steals the Spotlight as She Flies Out" [level=3] [ref=e1014]
+        - link [ref=e1015] [cursor=pointer]:
+          - /url: /short-videos/movies/holiday-calling-rahul-vaidya-steps-out-for-a-family-trip-10216085.html
+          - heading "Holiday Calling! Rahul Vaidya Steps Out for a Family Trip" [level=3] [ref=e1018]
+        - link [ref=e1019] [cursor=pointer]:
+          - /url: /short-videos/movies/sonal-chauhan-makes-a-chic-appearance-at-mumbai-airport-10215512.html
+          - heading "Sonal Chauhan Makes a Chic Appearance at Mumbai Airport" [level=3] [ref=e1022]
+        - link [ref=e1023] [cursor=pointer]:
+          - /url: /short-videos/movies/rate-uorfi-javeds-new-look-fashion-game-on-point-or-not-10210862.html
+          - heading "Rate Uorfi Javed's new look! Fashion game on point or not?" [level=3] [ref=e1026]
+        - link [ref=e1027] [cursor=pointer]:
+          - /url: /short-videos/movies/soha-ali-khans-airport-look-is-simple-elegant-and-totally-on-point-10210492.html
+          - heading "Soha Ali Khan's airport look is simple, elegant, and totally on point!" [level=3] [ref=e1030]
+        - link [ref=e1031] [cursor=pointer]:
+          - /url: /short-videos/movies/family-goals-bharti-singh-spotted-with-hubby-haarsh-and-their-little-ones-10208536.html
+          - heading "Family goals! Bharti Singh spotted with hubby Haarsh and their little ones" [level=3] [ref=e1034]
+        - link [ref=e1035] [cursor=pointer]:
+          - /url: /short-videos/movies/effortless-chemistry-endless-couple-goals-alia-ranbir-steal-the-spotlight-10208490.html
+          - heading "Effortless chemistry, endless couple goals! Alia & Ranbir steal the spotlight" [level=3] [ref=e1038]
+        - link [ref=e1039] [cursor=pointer]:
+          - /url: /short-videos/movies/fitness-queen-alia-bhatt-seen-post-gym-workout-10203831.html
+          - heading "Fitness Queen Alia Bhatt Seen Post Gym Workout" [level=3] [ref=e1042]
+        - link [ref=e1043] [cursor=pointer]:
+          - /url: /short-videos/movies/neha-sharma-brings-her-signature-charm-as-she-steps-out-for-a-day-in-town-10195328.html
+          - heading "Neha Sharma brings her signature charm as she steps out for a day in town." [level=3] [ref=e1046]
+        - link [ref=e1047] [cursor=pointer]:
+          - /url: /short-videos/movies/blue-never-looked-this-pretty-kiara-advani-turns-heads-in-a-charming-blue-frock-10195261.html
+          - heading "Blue never looked this pretty! Kiara Advani turns heads in a charming blue frock!" [level=3] [ref=e1050]
+        - link [ref=e1051] [cursor=pointer]:
+          - /url: /short-videos/movies/sshura-khan-spotted-out-and-about-10188656.html
+          - heading "Sshura Khan spotted out and about!" [level=3] [ref=e1054]
+        - link [ref=e1055] [cursor=pointer]:
+          - /url: /short-videos/movies/mommy-to-be-karishma-tanna-keeps-it-fit-fabulous-10188645.html
+          - heading "Mommy to be Karishma Tanna keeps it fit & fabulous!" [level=3] [ref=e1058]
+    - generic [ref=e1059]:
+      - generic [ref=e1060]:
+        - generic [ref=e1061]:
+          - link [ref=e1062] [cursor=pointer]:
+            - /url: /lifestyle/
+            - heading "Lifestyle" [level=2] [ref=e1063]
+          - generic [ref=e1064]:
+            - generic [ref=e1065]:
+              - link "Health And Fitness" [ref=e1066] [cursor=pointer]:
+                - /url: /lifestyle/health-and-fitness/
+              - link "Food" [ref=e1067] [cursor=pointer]:
+                - /url: /lifestyle/food/
+              - link "Travel" [ref=e1068] [cursor=pointer]:
+                - /url: /lifestyle/travel/
+              - link "Fashion" [ref=e1069] [cursor=pointer]:
+                - /url: /lifestyle/fashion/
+              - link "Beauty" [ref=e1070] [cursor=pointer]:
+                - /url: /lifestyle/beauty/
+              - link "Relationship" [ref=e1071] [cursor=pointer]:
+                - /url: /lifestyle/relationship/
+              - link "Events" [ref=e1072] [cursor=pointer]:
+                - /url: /lifestyle/events/
+              - link "Parenting" [ref=e1073] [cursor=pointer]:
+                - /url: /lifestyle/parenting/
+              - link "Spirituality" [ref=e1074] [cursor=pointer]:
+                - /url: /lifestyle/spirituality/
+              - link "Home & Garden" [ref=e1075] [cursor=pointer]:
+                - /url: /lifestyle/home-garden/
+            - link [ref=e1076] [cursor=pointer]:
+              - /url: /lifestyle/fashion/rashmika-mandanna-goes-ivory-and-red-vijay-deverakonda-picks-custom-anamika-khanna-for-ranabaali-event-10381116.html
+              - heading "Rashmika Mandanna Goes Ivory And Red, Vijay Deverakonda Picks Custom Anamika Khanna For Ranabaali Event" [level=3] [ref=e1077]
+              - figure [ref=e1078]:
+                - img "Rashmika Mandanna Goes Ivory And Red, Vijay Deverakonda Picks Custom Anamika Khanna For Ranabaali Event" [ref=e1079]
+            - generic [ref=e1080]:
+              - link [ref=e1081] [cursor=pointer]:
+                - /url: /lifestyle/travel/kolkatas-durga-puja-gets-a-sustainable-twist-with-goddess-sculpture-made-from-13000-recycled-plastic-pens-ws-l-10381225.html
+                - heading "Kolkata’s Durga Puja Gets A Sustainable Twist With Goddess Sculpture Made From 13,000 Recycled Plastic Pens" [level=3] [ref=e1082]
+                - figure [ref=e1083]:
+                  - 'img "At Tridhara Sammilani, artist Chandra Nath Saha transforms 13,000 pens and an equal number of refills into a striking 5.5-foot sculpture of Goddess Durga.(Images: Instagram/@avijitsardar95official_)" [ref=e1084]'
+              - link [ref=e1085] [cursor=pointer]:
+                - /url: /lifestyle/health-and-fitness/persistent-cough-wheezing-doctors-explain-what-smog-does-to-your-lungs-and-why-the-toughest-months-may-still-be-ahead-10381234.html
+                - heading "Persistent Cough, Wheezing? Doctors Explain What Smog Does To Your Lungs And Why The Toughest Months May Still Be Ahead" [level=3] [ref=e1086]
+                - figure [ref=e1087]:
+                  - 'img "Delhi Pollution: Persistent Cough, Wheezing? Doctors Explain What PM2.5 Does To Your Lungs" [ref=e1088]'
+              - link [ref=e1089] [cursor=pointer]:
+                - /url: /lifestyle/food/priyanka-chopra-jonas-reveals-her-favourite-summer-drink-and-its-a-desi-classic-10380828.html
+                - heading "Priyanka Chopra Jonas Reveals Her Favourite Summer Drink, And It’s A Desi Classic" [level=3] [ref=e1090]
+                - figure [ref=e1091]:
+                  - img "“Own your choices. Have the courage of conviction.”" [ref=e1092]
+              - link [ref=e1093] [cursor=pointer]:
+                - /url: /lifestyle/fashion/backless-blouses-at-garba-nights-spark-debate-but-was-the-modern-blouse-always-part-of-indian-tradition-ws-l-10381448.html
+                - heading "Backless Blouses At Garba Nights Spark Debate, But Was The Modern Blouse Always Part Of Indian Tradition?" [level=3] [ref=e1094]
+                - figure [ref=e1095]:
+                  - img "Is a backless blouse any less traditional? From regional dressing practices to colonial-era influences, the history of this wardrobe staple is anything but simple." [ref=e1096]
+          - link "Lifestyle News" [ref=e1097] [cursor=pointer]:
+            - /url: /lifestyle/
+          - generic [ref=e1098]:
+            - generic [ref=e1099]: in focus
+            - generic [ref=e1100]:
+              - link "Festivals in 2026" [ref=e1102] [cursor=pointer]:
+                - /url: https://www.news18.com/lifestyle/events/indian-festivals-calendar-2026-full-list-major-festivals-holidays-in-india-this-year-aa-ws-ekl-9787919.html
+              - link "Weight Loss Tips" [ref=e1104] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/weight-loss/
+              - link "Skincare Tips" [ref=e1106] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/skin-care/
+              - link "Hair Care Tips" [ref=e1108] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/hair-care/
+              - link "Yoga Asanas" [ref=e1110] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/yoga-poses/
+              - link "Best Destinations To Visit" [ref=e1112] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/tourist-places-to-visit-in-india/
+        - generic [ref=e1113]:
+          - link [ref=e1114] [cursor=pointer]:
+            - /url: /movies/movie-reviews/
+            - heading "Movie Reviews" [level=2] [ref=e1115]
+          - generic [ref=e1116]:
+            - link [ref=e1117] [cursor=pointer]:
+              - /url: /movies/bollywood/reporting-live-review-parineeti-chopra-and-deven-bhojanis-audacious-thriller-gets-lost-in-a-cliched-script-ws-l-10373253.html
+              - 'heading "Reporting Live Review: Parineeti Chopra And Deven Bhojani''s Audacious Thriller Gets Lost In A Cliched Script" [level=3] [ref=e1119]'
+              - figure [ref=e1120]:
+                - 'img "Reporting Live Review: Parineeti Chopra And Deven Bhojani''s Audacious Thriller Gets Lost In A Cliched Script" [ref=e1121]'
+            - list [ref=e1122]:
+              - listitem [ref=e1123]:
+                - heading [level=3] [ref=e1125]:
+                  - 'link "Prem Keetanu Review: Veer Pahariya''s Boyish Charm, Aafiya Sayed''s Natural Ease Impress In Delightful Film" [ref=e1126] [cursor=pointer]':
+                    - /url: /movies/bollywood/prem-keetanu-review-veer-pahariyas-boyish-charm-aafiya-sayeds-natural-ease-impress-in-delightful-film-ws-l-10363991.html
+                - link [ref=e1127] [cursor=pointer]:
+                  - /url: /movies/bollywood/prem-keetanu-review-veer-pahariyas-boyish-charm-aafiya-sayeds-natural-ease-impress-in-delightful-film-ws-l-10363991.html
+                  - figure [ref=e1128]:
+                    - 'img "Prem Keetanu Movie Review: This is a fun, light-hearted watch." [ref=e1129]'
+              - listitem [ref=e1130]:
+                - heading [level=3] [ref=e1132]:
+                  - 'link "Drishyam 3 Review: Ajay Devgn''s Film Isn''t Bad But Fails To Offer A Grand Conclusion" [ref=e1133] [cursor=pointer]':
+                    - /url: /movies/bollywood/drishyam-3-review-ajay-devgn-film-isnt-bad-but-fails-to-offer-grand-conclusion-ws-lr-10363756.html
+                - link [ref=e1134] [cursor=pointer]:
+                  - /url: /movies/bollywood/drishyam-3-review-ajay-devgn-film-isnt-bad-but-fails-to-offer-grand-conclusion-ws-lr-10363756.html
+                  - figure [ref=e1135]:
+                    - img "Drishyam 3" [ref=e1136]
+              - listitem [ref=e1137]:
+                - heading [level=3] [ref=e1139]:
+                  - 'link "Pooja Meri Jaan Review: Mrunal Thakur, Huma Qureshi''s Film Is An Important, Unembellished Watch" [ref=e1140] [cursor=pointer]':
+                    - /url: /movies/bollywood/pooja-meri-jaan-review-mrunal-thakur-huma-qureshis-film-is-an-important-unembellished-watch-ws-l-10363399.html
+                - link [ref=e1141] [cursor=pointer]:
+                  - /url: /movies/bollywood/pooja-meri-jaan-review-mrunal-thakur-huma-qureshis-film-is-an-important-unembellished-watch-ws-l-10363399.html
+                  - figure [ref=e1142]:
+                    - 'img "Pooja Meri Jaan Review: Mrunal Thakur and Huma Qureshi do well." [ref=e1143]'
+              - listitem [ref=e1144]:
+                - heading [level=3] [ref=e1146]:
+                  - 'link "Dupahiya Season 2 Review: Sparsh Shrivastava Steals The Show In This Warm, Witty Rural Comedy" [ref=e1147] [cursor=pointer]':
+                    - /url: /movies/reviews/dupahiya-season-2-review-sparsh-shrivastava-steals-the-show-in-this-warm-witty-rural-comedy-ws-klrt-10361766.html
+                - link [ref=e1148] [cursor=pointer]:
+                  - /url: /movies/reviews/dupahiya-season-2-review-sparsh-shrivastava-steals-the-show-in-this-warm-witty-rural-comedy-ws-klrt-10361766.html
+                  - figure [ref=e1149]:
+                    - img "Gajraj Rao, Sparsh Shrivastava and Shivani Raghuvanshi in Dupahiya Season 2 set in Dhadakpur" [ref=e1150]
+          - link "Movie Reviews" [ref=e1151] [cursor=pointer]:
+            - /url: /movies/movie-reviews/
+      - generic [ref=e1152]:
+        - generic [ref=e1153]:
+          - link [ref=e1154] [cursor=pointer]:
+            - /url: /business/
+            - heading "Business" [level=2] [ref=e1155]
+          - generic [ref=e1156]:
+            - generic [ref=e1157]:
+              - link "Markets" [ref=e1158] [cursor=pointer]:
+                - /url: /business/markets/
+              - link "Economy" [ref=e1159] [cursor=pointer]:
+                - /url: /business/economy/
+              - link "Tax" [ref=e1160] [cursor=pointer]:
+                - /url: /business/tax/
+              - link "Cryptocurrency" [ref=e1161] [cursor=pointer]:
+                - /url: /business/cryptocurrency/
+              - link "Banking Finance" [ref=e1162] [cursor=pointer]:
+                - /url: /business/banking-finance/
+              - link "Savings And Investments" [ref=e1163] [cursor=pointer]:
+                - /url: /business/savings-and-investments/
+              - link "IPO" [ref=e1164] [cursor=pointer]:
+                - /url: /business/ipo/
+            - link [ref=e1165] [cursor=pointer]:
+              - /url: /business/markets/market-update-sensex-falls-173-points-nifty-below-22700-vix-jumps-4-it-fmcg-stocks-buck-trend-10381413.html
+              - 'heading "Market Update: Sensex Falls 173 Points In Afternoon Trade, Nifty Below 22,700, VIX Jumps 4%" [level=3] [ref=e1167]'
+              - figure [ref=e1168]:
+                - img "Key Factors Behind Share Market Fall Today, September 24." [ref=e1169]
+            - list [ref=e1170]:
+              - listitem [ref=e1171]:
+                - heading [level=3] [ref=e1173]:
+                  - 'link "MC Interview: RBI Determined To Do What Is Necessary To Ensure Orderly Rupee Movement, Says RBI Governor Sanjay Malhotra" [ref=e1174] [cursor=pointer]':
+                    - /url: /business/economy/mc-interview-rbi-determined-to-do-what-is-necessary-to-ensure-orderly-rupee-movement-says-rbi-governor-sanjay-malhotra-ws-l-10381152.html
+              - listitem [ref=e1175]:
+                - heading [level=3] [ref=e1177]:
+                  - link "WPI Inflation Rises To 11.39% In September From 9.92% In August; Fuel, Manufactured Products Drive Surge" [ref=e1178] [cursor=pointer]:
+                    - /url: /business/economy/wpi-inflation-rises-to-11-39-in-september-from-9-92-in-august-fuel-manufactured-products-drive-surge-ws-l-10381222.html
+              - listitem [ref=e1179]:
+                - heading [level=3] [ref=e1181]:
+                  - 'link "Rupee Rally Continues: Currency Opens 36 Paise Higher At 94.92 Vs US Dollar, Gains 179 Paise In Three Sessions" [ref=e1182] [cursor=pointer]':
+                    - /url: /business/economy/rupee-rally-continues-currency-opens-36-paise-higher-at-94-92-vs-us-dollar-gains-179-paise-in-three-sessions-10380925.html
+              - listitem [ref=e1183]:
+                - heading [level=3] [ref=e1185]:
+                  - 'link "HD Fire Protect IPO Day 2: GMP, Price Band, Lot Size, Subscription Status; All You Need To Know" [ref=e1186] [cursor=pointer]':
+                    - /url: /business/ipo/hd-fire-protect-ipo-day-2-gmp-price-band-lot-size-subscription-status-all-you-need-to-know-10380847.html
+          - link "Business News" [ref=e1187] [cursor=pointer]:
+            - /url: /business/
+          - generic [ref=e1188]:
+            - generic [ref=e1189]: in focus
+            - generic [ref=e1190]:
+              - link "8th Pay Commission" [ref=e1192] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/8th-pay-commission/
+              - link "Gold Prices" [ref=e1194] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/gold-price/
+              - link "New Income Tax Rules" [ref=e1196] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/income-tax-rules/
+              - link "Income Tax" [ref=e1198] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/income-tax-budget/
+              - link "Silver Rates" [ref=e1200] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/silver-price/
+              - link "Best Long Term Stocks for 2026" [ref=e1202] [cursor=pointer]:
+                - /url: https://www.news18.com/business/markets/from-bharti-airtel-to-sbi-motilal-oswal-names-10-long-term-stock-picks-for-2026-9799725.html
+        - generic [ref=e1203]:
+          - link [ref=e1204] [cursor=pointer]:
+            - /url: /explainers/
+            - heading "Explainers" [level=2] [ref=e1205]
+          - generic [ref=e1206]:
+            - link [ref=e1207] [cursor=pointer]:
+              - /url: /explainers/elder-abuse-property-grab-can-land-you-in-jail-under-keralas-senior-citizens-bill-ws-lr-10381328.html
+              - heading "Elder Abuse, Property Grab Can Land You In Jail Under Kerala's Senior Citizens Bill" [level=3] [ref=e1208]
+              - figure [ref=e1209]:
+                - img "The Keralam Senior Citizens (Care and Protection of Rights) Bill, 2026, was introduced in the state Assembly by Chief Minister VD Satheesan on October 13. (AI generated image)" [ref=e1210]
+            - generic [ref=e1211]:
+              - link [ref=e1212] [cursor=pointer]:
+                - /url: /explainers/cjps-ashutosh-ranka-saurav-das-can-be-jailed-for-5-years-for-jantar-mantar-trespass-the-charges-punishments-explained-ws-klrt-10381120.html
+                - heading "Can CJP’s Ashutosh Ranka, Saurav Das Be Jailed For 2-5 Years For Jantar Mantar Trespass? The Charges & Punishment Explained" [level=3] [ref=e1213]
+                - figure [ref=e1214]:
+                  - 'img "**EDS: THIRD PARTY IMAGE** In this image received on Oct. 13, 2026, Cockroach Janta Party (CJP) chief spokesperson Saurav Das, national spokesperson Ashutosh Ranka, and other supporters inside a police bus after being detained for entering Jantar Mantar despite heavy barricading and a strong security presence, in New Delhi. (Handout via PTI Photo)(PTI10_13_2026_000038B)" [ref=e1215]'
+              - link [ref=e1216] [cursor=pointer]:
+                - /url: /cities/surat/are-up-bihar-workers-being-forced-out-of-gujarat-the-truth-behind-surats-gaon-chalo-andolan-ws-l-10380900.html
+                - heading "Are UP, Bihar Workers Being Forced Out Of Gujarat? The Truth Behind Surat’s ‘Gaon Chalo Andolan’" [level=3] [ref=e1217]
+                - figure [ref=e1218]:
+                  - img "Surat is experiencing an early festive-season movement of migrant workers against the backdrop of a genuine labour dispute. (X/@bornauthority)" [ref=e1219]
+              - link [ref=e1220] [cursor=pointer]:
+                - /url: /explainers/china-is-aggressively-buying-gold-as-prices-fall-should-indian-buyers-be-worried-or-hopeful-shil-ws-l-10380902.html
+                - heading "China Is Aggressively Buying Gold As Prices Fall. Should Indian Buyers Be Worried Or Hopeful?" [level=3] [ref=e1221]
+                - figure [ref=e1222]:
+                  - img "A falling price may make gold more attractive to a central bank seeking to increase its holdings, even when traders are selling. (AFP File Photo)" [ref=e1223]
+                  - img "img" [ref=e1225]
+              - link [ref=e1226] [cursor=pointer]:
+                - /url: /explainers/not-a-or-b-she-team-in-chaniya-choli-protects-gujarats-women-every-step-of-the-way-amid-garba-crowds-ws-kl-10380158.html
+                - 'heading "Dressed In Chaniya Choli, But Not For Garba: This ‘SHE’ Team Protects Gujarat’s Women ‘Every Step’ Of The Way" [level=3] [ref=e1227]'
+                - figure [ref=e1228]:
+                  - img "SHE team of Gujarat Police at work. (X)" [ref=e1229]
+          - link "Explainers" [ref=e1230] [cursor=pointer]:
+            - /url: /explainers/
+      - generic [ref=e1231]:
+        - generic [ref=e1232]:
+          - link [ref=e1233] [cursor=pointer]:
+            - /url: /education-career/
+            - heading "Education & Career" [level=2] [ref=e1234]
+          - generic [ref=e1235]:
+            - link [ref=e1236] [cursor=pointer]:
+              - /url: /education-career/ap-dsc-notification-2026-released-2721-teacher-vacancies-announced-applications-from-november-3-10381285.html
+              - 'heading "AP DSC Notification 2026 Released: 2,721 Teacher Vacancies Announced; Applications From November 3" [level=3] [ref=e1238]'
+              - figure [ref=e1239]:
+                - img "AP DSC notification" [ref=e1240]
+            - list [ref=e1241]:
+              - listitem [ref=e1242]:
+                - heading [level=3] [ref=e1244]:
+                  - 'link "UK Universities Face Funding Crisis: Nottingham Proposes 609 Job Cuts, Edinburgh Plans £140 Million Cuts" [ref=e1245] [cursor=pointer]':
+                    - /url: /education-career/uk-universities-face-funding-crisis-nottingham-proposes-609-job-cuts-edinburgh-plans-140-million-cuts-10381118.html
+                - link [ref=e1246] [cursor=pointer]:
+                  - /url: /education-career/uk-universities-face-funding-crisis-nottingham-proposes-609-job-cuts-edinburgh-plans-140-million-cuts-10381118.html
+                  - figure [ref=e1247]:
+                    - img "study abroad" [ref=e1248]
+              - listitem [ref=e1249]:
+                - heading [level=3] [ref=e1251]:
+                  - 'link "India Post GDS Result 2026: UP Cutoff Hits 100%, Bihar Records 99%; Check State-Wise Marks" [ref=e1252] [cursor=pointer]':
+                    - /url: /education-career/india-post-gds-result-2026-up-cutoff-hits-100-bihar-records-99-check-state-wise-marks-10381027.html
+                - link [ref=e1253] [cursor=pointer]:
+                  - /url: /education-career/india-post-gds-result-2026-up-cutoff-hits-100-bihar-records-99-check-state-wise-marks-10381027.html
+                  - figure [ref=e1254]:
+                    - img "India Post GDS Result 2026" [ref=e1255]
+              - listitem [ref=e1256]:
+                - heading [level=3] [ref=e1258]:
+                  - 'link "Tamil Nadu Special TET Result Declared: 62% Of Graduate Teachers Fail; December Exam Likely" [ref=e1259] [cursor=pointer]':
+                    - /url: /education-career/tamil-nadu-special-tet-result-declared-62-of-graduate-teachers-fail-december-exam-likely-ws-e-10381025.html
+                - link [ref=e1260] [cursor=pointer]:
+                  - /url: /education-career/tamil-nadu-special-tet-result-declared-62-of-graduate-teachers-fail-december-exam-likely-ws-e-10381025.html
+                  - figure [ref=e1261]:
+                    - img "tn tet result" [ref=e1262]
+              - listitem [ref=e1263]:
+                - heading [level=3] [ref=e1265]:
+                  - 'link "Kolkata Police Constable Result 2026 Out: 47,943 Candidates Shortlisted For PMT, PET" [ref=e1266] [cursor=pointer]':
+                    - /url: /education-career/kolkata-police-constable-result-2026-out-47943-candidates-shortlisted-for-pmt-pet-10380999.html
+                - link [ref=e1267] [cursor=pointer]:
+                  - /url: /education-career/kolkata-police-constable-result-2026-out-47943-candidates-shortlisted-for-pmt-pet-10380999.html
+                  - figure [ref=e1268]:
+                    - img "The preliminary written examination for Kolkata Police Constable and Lady Constable recruitment was held on December 21, 2025. (Representational image)" [ref=e1269]
+          - link "Career News" [ref=e1270] [cursor=pointer]:
+            - /url: /education-career/
+          - generic [ref=e1271]:
+            - generic [ref=e1272]: in focus
+            - generic [ref=e1273]:
+              - link "Top 10 Engineering Colleges 2026" [ref=e1275] [cursor=pointer]:
+                - /url: https://www.news18.com/photogallery/education-career/top-10-private-engineering-colleges-in-india-as-per-nirf-ranking-2025-bits-pilani-srm-vit-cu-kiit-9558692.html
+              - link "Top 10 Medical Colleges 2026" [ref=e1277] [cursor=pointer]:
+                - /url: https://www.news18.com/photogallery/education-career/nirf-rankings-2025-top-10-medical-colleges-in-india-ws-l-9548647.html
+              - link "QS Rankings List 2026" [ref=e1279] [cursor=pointer]:
+                - /url: https://www.news18.com/education-career/qs-university-rankings-2026-list-of-top-universities-in-the-world-9393789.html
+        - generic [ref=e1280]:
+          - link [ref=e1281] [cursor=pointer]:
+            - /url: /politics/
+            - heading "Politics" [level=2] [ref=e1282]
+          - generic [ref=e1283]:
+            - link [ref=e1284] [cursor=pointer]:
+              - /url: /politics/bjps-punjab-dilemma-revival-of-an-old-ally-vs-neutralising-a-greater-political-threat-ws-lrt-10380327.html
+              - 'heading "BJP’s Punjab Dilemma: Revival Of An Old Ally Vs Neutralising A Greater Political Threat" [level=3] [ref=e1286]'
+              - figure [ref=e1287]:
+                - img "BJP-SAD alliance revival at final stage; BJP eyes 'big brother' role for 2027 Punjab polls" [ref=e1288]
+            - list [ref=e1289]:
+              - listitem [ref=e1290]:
+                - heading [level=3] [ref=e1292]:
+                  - 'link "‘Net Is Closing Around Them’: Rahul Gandhi Vows To Continue Fight Against CEC, Reclaim Jantar Mantar" [ref=e1293] [cursor=pointer]':
+                    - /url: /india/net-is-closing-around-them-rahul-gandhi-vows-to-continue-fight-against-ec-reclaim-jantar-mantar-10380333.html
+              - listitem [ref=e1294]:
+                - heading [level=3] [ref=e1296]:
+                  - 'link "''I Wish To Return To The Grassroots'': L Murugan Resigns From Union Cabinet, Thanks PM Modi" [ref=e1297] [cursor=pointer]':
+                    - /url: /india/i-wish-to-return-to-the-grassroots-l-murugan-resigns-from-union-cabinet-thanks-pm-modi-10380302.html
+              - listitem [ref=e1298]:
+                - heading [level=3] [ref=e1300]:
+                  - link "Karnataka BJP Claims 25 Congress MLAs Ready To Join Party, Shivakumar Says ‘Take Them Now’" [ref=e1301] [cursor=pointer]:
+                    - /url: /india/karnataka-bjp-claims-25-congress-mlas-ready-to-join-party-shivakumar-says-take-them-now-ws-r-10380103.html
+              - listitem [ref=e1302]:
+                - heading [level=3] [ref=e1304]:
+                  - 'link "‘Black Day’: Eknath Shinde Slams Opposition’s Protest Outside SC, Alleges Plot to Defame India" [ref=e1305] [cursor=pointer]':
+                    - /url: /india/black-day-eknath-shinde-slams-oppositions-protest-outside-sc-alleges-plot-to-defame-india-ws-lr-10380554.html
+          - link "Politics News" [ref=e1306] [cursor=pointer]:
+            - /url: /politics/
+    - generic [ref=e1307]:
+      - generic [ref=e1308]:
+        - generic [ref=e1309]:
+          - link [ref=e1310] [cursor=pointer]:
+            - /url: /opinion/
+            - heading "Opinion" [level=2] [ref=e1311]
+          - link "Opinion news" [ref=e1312] [cursor=pointer]:
+            - /url: /opinion/
+        - generic [ref=e1313]:
+          - 'link "Opinion | Cursed TechGen: Data-Drugged, Distant And Dead Inside Smartphones have reached an estimated 97 per cent of Indian youth, with similar trends evident across the world." [ref=e1314] [cursor=pointer]':
+            - /url: /opinion/opinion-cursed-techgen-data-drugged-distant-and-dead-inside-ws-bl-10381437.html
+            - generic [ref=e1315]:
+              - 'heading "Opinion | Cursed TechGen: Data-Drugged, Distant And Dead Inside" [level=3] [ref=e1316]'
+              - generic [ref=e1317]: Smartphones have reached an estimated 97 per cent of Indian youth, with similar trends evident across the world.
+            - figure [ref=e1318]:
+              - img "Dead to outside world and dead inside with cameras recording a dying injured on street rather than saving, a new world has emerged, a disturbing one." [ref=e1319]
+          - list [ref=e1322]:
+            - listitem [ref=e1323]:
+              - heading [level=3] [ref=e1325]:
+                - link "Opinion | The Holy Grail Of AI Is Trust And India Has The Edge" [ref=e1326] [cursor=pointer]:
+                  - /url: /opinion/opinion-the-holy-grail-of-ai-is-trust-and-india-has-the-edge-ws-l-10381340.html
+              - link [ref=e1327] [cursor=pointer]:
+                - /url: /opinion/opinion-the-holy-grail-of-ai-is-trust-and-india-has-the-edge-ws-l-10381340.html
+                - figure [ref=e1328]:
+                  - img "The decisive race in AI will not be for the biggest chip or model. It will be for trust." [ref=e1329]
+            - listitem [ref=e1330]:
+              - heading [level=3] [ref=e1332]:
+                - 'link "Global Watch | Imran Khan-Phobia: How Pakistan’s Hybrid Regime Pulled The Plug On KP" [ref=e1333] [cursor=pointer]':
+                  - /url: /opinion/global-watch-imran-khan-phobia-how-pakistans-hybrid-regime-pulled-the-plug-on-kp-ws-l-10380822.html
+              - link [ref=e1334] [cursor=pointer]:
+                - /url: /opinion/global-watch-imran-khan-phobia-how-pakistans-hybrid-regime-pulled-the-plug-on-kp-ws-l-10380822.html
+                - figure [ref=e1335]:
+                  - 'img "Supporters of former Pakistani Prime Minister Imran Khan''s party, PTI, take part in a protest march lead by Sohail Afridi, CM of Khyber Pakhtunkhwa province, demanding Khan''s release. (Image: Reuters)" [ref=e1336]'
+            - listitem [ref=e1337]:
+              - heading [level=3] [ref=e1339]:
+                - link "Opinion | Denied A ‘Hindu Vs Christian’ Button, Media Mute Manipur’s Kuki-Naga Conflict" [ref=e1340] [cursor=pointer]:
+                  - /url: /opinion/opinion-denied-a-hindu-vs-christian-button-media-mute-manipurs-kuki-naga-conflict-ws-l-10380790.html
+              - link [ref=e1341] [cursor=pointer]:
+                - /url: /opinion/opinion-denied-a-hindu-vs-christian-button-media-mute-manipurs-kuki-naga-conflict-ws-l-10380790.html
+                - figure [ref=e1342]:
+                  - img "Security personnel during a protest rally against the participation of three Kuki-Zo-Hmar MLAs in the formation of a popular government in the state, in Churachandpur district of Manipur, Friday, Feb. 6, 2026. (PTI Photo)" [ref=e1343]
+            - listitem [ref=e1344]:
+              - heading [level=3] [ref=e1346]:
+                - link "Opinion | Canada-India Security Cooperation Will Fail Unless Ottawa Closes Khalistan Asylum Loophole" [ref=e1347] [cursor=pointer]:
+                  - /url: /opinion/opinion-canada-india-security-cooperation-will-fail-unless-ottawa-closes-khalistan-asylum-loophole-ws-blrt-10380520.html
+              - link [ref=e1348] [cursor=pointer]:
+                - /url: /opinion/opinion-canada-india-security-cooperation-will-fail-unless-ottawa-closes-khalistan-asylum-loophole-ws-blrt-10380520.html
+                - figure [ref=e1349]:
+                  - img "Ajit Doval during a meeting with David Morrison" [ref=e1350]
+      - generic [ref=e1351]:
+        - generic [ref=e1352]:
+          - link [ref=e1353] [cursor=pointer]:
+            - /url: /sports/
+            - heading "Sports" [level=2] [ref=e1354]
+          - link "Sports news" [ref=e1355] [cursor=pointer]:
+            - /url: /sports/
+        - generic [ref=e1356]:
+          - link "Barcelona Secure Comeback Win Over Galatasaray To Take No. 1 Position In UCL Points Table The 4-1 win on Tuesday lifted Barcelona to the top of the Champions League table with two wins. Galatasaray are pointless and near the foot of the standings." [ref=e1357] [cursor=pointer]:
+            - /url: /sports/football/barcelona-secure-comeback-win-over-galatasaray-to-take-no-1-position-in-ucl-points-table-ws-l-10380760.html
+            - generic [ref=e1358]:
+              - heading "Barcelona Secure Comeback Win Over Galatasaray To Take No. 1 Position In UCL Points Table" [level=3] [ref=e1359]
+              - generic [ref=e1360]: The 4-1 win on Tuesday lifted Barcelona to the top of the Champions League table with two wins. Galatasaray are pointless and near the foot of the standings.
+            - figure [ref=e1361]:
+              - img "Barcelona defeat Galatasaray 4-1 in UEFA Champions League" [ref=e1362]
+          - list [ref=e1365]:
+            - listitem [ref=e1366]:
+              - heading [level=3] [ref=e1368]:
+                - link "Iga Swiatek Wins All-Polish Battle In Straight Sets To Reach R16 At Wuhan Open" [ref=e1369] [cursor=pointer]:
+                  - /url: /sports/tennis/iga-swiatek-wins-all-polish-battle-in-straight-sets-to-reach-r16-at-wuhan-open-ws-l-10381121.html
+            - listitem [ref=e1370]:
+              - heading [level=3] [ref=e1372]:
+                - link "Netflix Buys FIFA World Cup 2030 Broadcast Rights In Co-hosts Spain" [ref=e1373] [cursor=pointer]:
+                  - /url: /sports/football/netflix-buys-fifa-world-cup-2030-broadcast-rights-in-co-hosts-spain-ws-l-10380886.html
+            - listitem [ref=e1374]:
+              - heading [level=3] [ref=e1376]:
+                - link "10-Man Bayern Munich Concede In 90th Minute To Play 3-3 Draw With Norway's Viking" [ref=e1377] [cursor=pointer]:
+                  - /url: /sports/football/10-man-bayern-munich-concede-in-90th-minute-to-play-3-3-draw-with-norways-viking-ws-l-10380764.html
+            - listitem [ref=e1378]:
+              - heading [level=3] [ref=e1380]:
+                - 'link "Luis Enrique Feels Man City ''Deserve'' To Keep Titles: ''Trophies That You Win On Pitch Remains...''" [ref=e1381] [cursor=pointer]':
+                  - /url: /sports/football/luis-enrique-feels-man-city-deserve-to-keep-titles-trophies-that-you-win-on-pitch-remains-ws-l-10380774.html
+    - generic [ref=e1382]:
+      - heading [level=2] [ref=e1383]:
+        - link "Photogalleries" [ref=e1384] [cursor=pointer]:
+          - /url: /photogallery/
+        - link "Photo Galleries" [ref=e1385] [cursor=pointer]:
+          - /url: /photogallery/
+      - generic [ref=e1386]:
+        - link "Movie" [ref=e1387] [cursor=pointer]:
+          - /url: /movies/photos/
+        - link "Lifestyle" [ref=e1388] [cursor=pointer]:
+          - /url: /photogallery/lifestyle/
+        - link "Cricket" [ref=e1389] [cursor=pointer]:
+          - /url: /cricket/photogallery/
+        - link "Auto" [ref=e1390] [cursor=pointer]:
+          - /url: /photogallery/auto/
+        - link "Education" [ref=e1391] [cursor=pointer]:
+          - /url: /photogallery/education/
+        - link "Business" [ref=e1392] [cursor=pointer]:
+          - /url: /photogallery/business/
+        - link "Viral" [ref=e1393] [cursor=pointer]:
+          - /url: /photogallery/viral/
+        - link "India" [ref=e1394] [cursor=pointer]:
+          - /url: /photogallery/india/
+        - link "Cities" [ref=e1395] [cursor=pointer]:
+          - /url: /photogallery/cities/
+        - link "World" [ref=e1396] [cursor=pointer]:
+          - /url: /photogallery/world/
+        - link "Tech" [ref=e1397] [cursor=pointer]:
+          - /url: /photogallery/tech/
+        - link "Astrology" [ref=e1398] [cursor=pointer]:
+          - /url: /photogallery/astrology/
+        - link "Sports" [ref=e1399] [cursor=pointer]:
+          - /url: /photogallery/sports/
+      - generic [ref=e1400]:
+        - link [ref=e1402] [cursor=pointer]:
+          - /url: /photogallery/lifestyle/beauty/navratri-mehndi-designs-2026-garba-durga-puja-styles-ws-l-10379719.html
+          - 'img "From Arabic to Rajasthani: 6 Navratri Mehndi Designs to Bookmark" [ref=e1404]'
+          - 'heading "Navratri Mehndi Designs: 6 Beautiful Ideas For Garba And Dandiya Nights" [level=3] [ref=e1406]'
+        - generic [ref=e1407]:
+          - link [ref=e1409] [cursor=pointer]:
+            - /url: /photogallery/lifestyle/health-and-fitness/health-benefits-of-drinking-lukewarm-water-first-thing-in-morning-ws-l-10380251.html
+            - img "Why Drinking Lukewarm Water First Thing in the Morning Boosts Health" [ref=e1411]
+            - 'heading "Ayurvedic Morning Rituals: 6 Benefits Of Drinking Water On An Empty Stomach" [level=3] [ref=e1413]'
+          - link [ref=e1415] [cursor=pointer]:
+            - /url: /photogallery/business/banking-finance/missed-personal-loan-emi-penalties-credit-score-impact-ws-l-10379652.html
+            - img "Missed an EMI? Here's How It Could Affect Your Credit Score and Finances" [ref=e1417]
+            - heading "Missed A Personal Loan EMI? Know The Penalties And Impact On Your Credit Score" [level=3] [ref=e1419]
+          - link [ref=e1421] [cursor=pointer]:
+            - /url: /photogallery/viral/think-weekend-mean-saturdays-and-sundays-off-everywhere-places-where-the-same-rule-doesnt-apply-ws-l-10380267.html
+            - 'img "For most people worldwide, weekends mean Saturdays and Sundays off. But that is not true everywhere. Some countries have Friday and Saturday as weekly holidays, while others follow different schedules, including split weekends and three-day breaks. (Image: Pexels)" [ref=e1423]'
+            - heading "Think Weekend Mean Saturdays And Sundays Off Everywhere? Places Where The Same Rule Doesn’t Apply" [level=3] [ref=e1425]
+          - link [ref=e1427] [cursor=pointer]:
+            - /url: /photogallery/lifestyle/beauty/radhika-merchants-sculpted-glam-to-kriti-sanons-smoky-eyes-festive-makeup-to-bookmark-from-swadesh-event-ws-l-10378918.html
+            - img "Looking for festive makeup inspiration? From Radhika Merchant’s sculpted glam to Kriti Sanon’s smoky eyes, these celebrity looks are worth saving." [ref=e1429]
+            - heading "Radhika Merchant’s Sculpted Glam To Kriti Sanon's Smoky Eyes, Festive Makeup To Bookmark From Swadesh Event" [level=3] [ref=e1431]
+    - generic [ref=e1432]:
+      - generic [ref=e1433]:
+        - generic [ref=e1434]:
+          - link [ref=e1435] [cursor=pointer]:
+            - /url: /elections/
+            - heading "Elections" [level=2] [ref=e1436]
+          - generic [ref=e1437]:
+            - link [ref=e1438] [cursor=pointer]:
+              - /url: /india/sugarcane-woes-joblessness-and-anger-but-yogi-adityanath-still-has-the-edge-in-western-up-l-ground-report-ws-l-10380848.html
+              - heading "Sugarcane Woes, Joblessness And Anger, But Yogi Still Has The Edge In Western UP | Ground Report" [level=3] [ref=e1439]
+              - figure [ref=e1440]:
+                - img "Jats account for an estimated 17% of the population in western UP. (News18)" [ref=e1441]
+            - generic [ref=e1442]:
+              - link [ref=e1443] [cursor=pointer]:
+                - /url: /elections/133-seats-in-focus-bjp-rss-to-hold-huddle-in-pm-modis-varanasi-for-2027-up-polls-ws-klrt-10378779.html
+                - 'heading "133 Seats In Focus: BJP, RSS To Hold Huddle In PM Modi’s Varanasi For 2027 UP Polls" [level=3] [ref=e1444]'
+                - figure [ref=e1445]:
+                  - img "Prime Minister Narendra Modi and Uttar Pradesh Chief Minister Yogi Adityanath. (PTI Photo/File)" [ref=e1446]
+              - link [ref=e1447] [cursor=pointer]:
+                - /url: /elections/ajay-rai-supporters-greet-new-up-congress-chief-aradhana-mishra-with-misogynistic-abuse-in-viral-spat-ws-klr-10378345.html
+                - heading "Ajay Rai Supporters Greet New UP Congress Chief Aradhana Mishra With Misogynistic Abuse In Viral Spat" [level=3] [ref=e1448]
+                - figure [ref=e1449]:
+                  - 'img "Newly appointed Uttar Pradesh Congress Committee (UPCC) President Aradhana Mishra ''Mona'' is welcomed by party office-bearers and workers after assuming her new responsibility, in Lucknow. (IMAGE: PTI)" [ref=e1450]'
+              - link [ref=e1451] [cursor=pointer]:
+                - /url: /elections/fight-from-gorakhpur-owaisi-dares-akhilesh-to-contest-from-yogis-stronghold-says-people-will-defeat-you-ws-lr-10377536.html
+                - 'heading "''Come To Gorakhpur'': Owaisi Dares Akhilesh To Contest From Yogi''s Stronghold, Says ''People Will Defeat You''" [level=3] [ref=e1452]'
+                - figure [ref=e1453]:
+                  - 'img "Owaisi challenges Akhilesh Yadav to contest from Gorakhpur and Yogi Adityanath from Sambhal, while accusing the Samajwadi Party of failing Muslim voters. (IMAGE: PTI)" [ref=e1454]'
+              - link [ref=e1455] [cursor=pointer]:
+                - /url: /india/if-you-vote-for-sp-likes-of-atiq-mukhtar-will-be-back-bjps-purvanchal-battle-cry-ground-report-ws-kl-10377396.html
+                - 'heading "''If You Vote For SP, Likes Of Atiq-Mukhtar Will Be Back'': BJP’s Purvanchal Battle Cry | Ground Report" [level=3] [ref=e1456]'
+                - figure [ref=e1457]:
+                  - img "Atiq Ahmed's destroyed home and office in Prayagraj's Chakia. (News18)" [ref=e1458]
+          - link "Elections News" [ref=e1459] [cursor=pointer]:
+            - /url: /elections/
+        - generic [ref=e1460]:
+          - link [ref=e1461] [cursor=pointer]:
+            - /url: /tech/
+            - heading "Tech" [level=2] [ref=e1462]
+          - generic [ref=e1463]:
+            - link [ref=e1464] [cursor=pointer]:
+              - /url: /tech/google-play-lets-users-build-private-ai-apps-for-android-without-publishing-them-10381178.html
+              - heading "Google Play Lets Users Build Private AI Apps For Android Without Publishing Them" [level=3] [ref=e1466]
+              - figure [ref=e1467]:
+                - img "Google’s new feature is designed to remove that barrier for personal projects." [ref=e1468]
+            - list [ref=e1469]:
+              - listitem [ref=e1470]:
+                - heading [level=3] [ref=e1472]:
+                  - link "FBI Arrests OpenAI Employee Accused Of Hiding Recording Device In Conference Room" [ref=e1473] [cursor=pointer]:
+                    - /url: /tech/fbi-arrests-openai-employee-accused-of-hiding-recording-device-in-conference-room-10381160.html
+                - link [ref=e1474] [cursor=pointer]:
+                  - /url: /tech/fbi-arrests-openai-employee-accused-of-hiding-recording-device-in-conference-room-10381160.html
+                  - figure [ref=e1475]:
+                    - img "OpenAI said it alerted law enforcement after discovering the device." [ref=e1476]
+              - listitem [ref=e1477]:
+                - heading [level=3] [ref=e1479]:
+                  - link "Infinix GT 50 Pro Key Specifications And Features Confirmed Ahead Of October 27 Launch" [ref=e1480] [cursor=pointer]:
+                    - /url: /tech/infinix-gt-50-pro-key-specifications-and-features-confirmed-ahead-of-october-27-launch-cx-amz-10381155.html
+                - link [ref=e1481] [cursor=pointer]:
+                  - /url: /tech/infinix-gt-50-pro-key-specifications-and-features-confirmed-ahead-of-october-27-launch-cx-amz-10381155.html
+                  - figure [ref=e1482]:
+                    - img "Infinix GT 50 Pro is set to launch in India on October 27, 2026." [ref=e1483]
+              - listitem [ref=e1484]:
+                - heading [level=3] [ref=e1486]:
+                  - 'link "Gemini 4 Argon Is Here: Check Features, Pricing And How To Access It On Your Devices" [ref=e1487] [cursor=pointer]':
+                    - /url: /tech/gemini-4-argon-is-here-check-features-pricing-and-how-to-access-it-on-your-devices-10380995.html
+                - link [ref=e1488] [cursor=pointer]:
+                  - /url: /tech/gemini-4-argon-is-here-check-features-pricing-and-how-to-access-it-on-your-devices-10380995.html
+                  - figure [ref=e1489]:
+                    - img "Google has rolled out its latest AI model, Gemini Argon 4 globally." [ref=e1490]
+              - listitem [ref=e1491]:
+                - heading [level=3] [ref=e1493]:
+                  - 'link "Best Titan Watches For Men And Women On Amazon Sale: Top Analog, Smart And Gifting Picks This Diwali" [ref=e1494] [cursor=pointer]':
+                    - /url: /tech/best-titan-watches-men-women-amazon-sale-diwali-gifting-m-amz-10380910.html
+                - link [ref=e1495] [cursor=pointer]:
+                  - /url: /tech/best-titan-watches-men-women-amazon-sale-diwali-gifting-m-amz-10380910.html
+                  - figure [ref=e1496]:
+                    - img "Analog wrist watch" [ref=e1497]
+          - link "Tech News" [ref=e1498] [cursor=pointer]:
+            - /url: /tech/
+      - generic [ref=e1499]:
+        - generic [ref=e1500]:
+          - link [ref=e1501] [cursor=pointer]:
+            - /url: /auto/
+            - heading "Auto" [level=2] [ref=e1502]
+          - generic [ref=e1503]:
+            - link [ref=e1504] [cursor=pointer]:
+              - /url: /cities/mumbai-news/india-longest-elevated-metro-thane-line-4-viral-coach-dust-video-missed-deadline-10129381.html
+              - heading "India's Longest Elevated Metro — If Thane's Line 4 Can Get Past Dusty Rakes, Missed Deadlines" [level=3] [ref=e1506]
+              - figure [ref=e1507]:
+                - img "On social media, the viral videos of dust-covered rakes have drawn sharp reactions, with several users calling the September 2025 trial run an 'election gimmick' (Instagram/@gbrconnect)" [ref=e1508]
+            - list [ref=e1509]:
+              - listitem [ref=e1510]:
+                - heading [level=3] [ref=e1512]:
+                  - link "'Aur Ek Maar Ke Dikhaun Kya?' Mumbai Woman 'Slapped' By Uber Driver Over Rs 40 Toll Row" [ref=e1513] [cursor=pointer]:
+                    - /url: /cities/mumbai-news/aur-ek-maar-ke-dikhaun-kya-mumbai-woman-slapped-by-uber-driver-over-rs-40-toll-row-ws-l-10127634.html
+              - listitem [ref=e1514]:
+                - heading [level=3] [ref=e1516]:
+                  - link "New Bengaluru-Vijayawada Expressway To Cut Travel Time By 4 Hours, Link NH-44 With NH-16" [ref=e1517] [cursor=pointer]:
+                    - /url: /cities/bengaluru-news/new-bengaluru-vijayawada-expressway-to-cut-travel-time-by-4-hours-link-nh-44-with-nh-16-ws-l-10125672.html
+              - listitem [ref=e1518]:
+                - heading [level=3] [ref=e1520]:
+                  - link "Can Bengaluru-Mangaluru Vande Bharat Conquer Karnataka's Western Ghats? Key Trial Begins" [ref=e1521] [cursor=pointer]:
+                    - /url: /photogallery/cities/bengaluru-news/can-bengaluru-mangaluru-vande-bharat-conquer-karnatakas-western-ghats-key-trial-begins-ws-l-10125544.html
+              - listitem [ref=e1522]:
+                - heading [level=3] [ref=e1524]:
+                  - 'link "Mumbai Airport Terminal 1 Revamp Set For January 2027: Will Your Flight Be Affected?" [ref=e1525] [cursor=pointer]':
+                    - /url: /cities/mumbai-news/mumbai-airport-terminal-1-revamp-set-for-january-2027-will-your-flight-be-affected-ws-l-10381146.html
+          - link "Auto News" [ref=e1526] [cursor=pointer]:
+            - /url: /auto/
+        - generic [ref=e1527]:
+          - link [ref=e1528] [cursor=pointer]:
+            - /url: /astrology/
+            - heading "Astrology" [level=2] [ref=e1529]
+          - generic [ref=e1530]:
+            - link [ref=e1531] [cursor=pointer]:
+              - /url: /astrology/horoscope/pisces-daily-horoscope-today-meena-rashifal-astrological-predictions-on-october-14-2026-10380546.html
+              - heading "Pisces Horoscope Today, October 14, 2026" [level=3] [ref=e1532]
+              - figure [ref=e1533]:
+                - img "Pisces daily Horoscope today meena rashifal astrological predictions for August 18 2026." [ref=e1534]
+            - generic [ref=e1535]:
+              - link [ref=e1536] [cursor=pointer]:
+                - /url: /astrology/horoscope/chinese-horoscope-today-14-october-2026-ws-el-10380604.html
+                - heading "Chinese Horoscope Today, 14 October 2026" [level=3] [ref=e1537]
+                - figure [ref=e1538]:
+                  - img "Chinese Horoscope Today, 14 October 2026" [ref=e1539]
+              - link [ref=e1540] [cursor=pointer]:
+                - /url: /astrology/horoscope/aquarius-daily-horoscope-today-kumbha-rashifal-astrological-predictions-on-october-14-2026-10380545.html
+                - heading "Aquarius Horoscope Today, October 14, 2026" [level=3] [ref=e1541]
+                - figure [ref=e1542]:
+                  - img "aquarius daily Horoscope today kumbha rashifal astrological predictions for September 29 2026." [ref=e1543]
+              - link [ref=e1544] [cursor=pointer]:
+                - /url: /astrology/horoscope/sagittarius-daily-horoscope-today-dhanu-rashifal-astrological-predictions-on-october-14-2026-ws-l-10380549.html
+                - heading "Sagittarius Horoscope Today, October 14, 2026" [level=3] [ref=e1545]
+                - figure [ref=e1546]:
+                  - img "Sagittarius Daily Horoscope today Dhanu Rashifal astrological predictions for October 14, 2026" [ref=e1547]
+              - link [ref=e1548] [cursor=pointer]:
+                - /url: /astrology/horoscope/cancer-horoscope-today-october-14-ws-l-10380037.html
+                - heading "Cancer Horoscope Today, October 14" [level=3] [ref=e1549]
+                - figure [ref=e1550]:
+                  - img "For Cancer natives, Mercury's transit opens fresh career avenues. Working professionals may receive key project responsibilities, while business owners benefit from old professional connections, allowing pending deals to move forward and business expansion plans to take off." [ref=e1551]
+          - link "Astrology Predictions" [ref=e1552] [cursor=pointer]:
+            - /url: /astrology/
+      - generic [ref=e1553]:
+        - generic [ref=e1554]:
+          - link [ref=e1555] [cursor=pointer]:
+            - /url: /lifestyle/health-and-fitness/
+            - heading "Health & Fitness" [level=2] [ref=e1556]
+          - generic [ref=e1557]:
+            - link [ref=e1558] [cursor=pointer]:
+              - /url: /lifestyle/health-and-fitness/persistent-cough-wheezing-doctors-explain-what-smog-does-to-your-lungs-and-why-the-toughest-months-may-still-be-ahead-10381234.html
+              - heading "Persistent Cough, Wheezing? Doctors Explain What Smog Does To Your Lungs And Why The Toughest Months May Still Be Ahead" [level=3] [ref=e1560]
+              - figure [ref=e1561]:
+                - 'img "Delhi Pollution: Persistent Cough, Wheezing? Doctors Explain What PM2.5 Does To Your Lungs" [ref=e1562]'
+            - list [ref=e1563]:
+              - listitem [ref=e1564]:
+                - heading [level=3] [ref=e1566]:
+                  - link "Dizziness, Racing Heart During Garba Or Just Adrenaline? Warning Signs You Should Not Ignore" [ref=e1567] [cursor=pointer]:
+                    - /url: /lifestyle/health-and-fitness/dizziness-racing-heart-during-garba-or-just-adrenaline-warning-signs-you-should-not-ignore-ws-el-10380703.html
+                - link [ref=e1568] [cursor=pointer]:
+                  - /url: /lifestyle/health-and-fitness/dizziness-racing-heart-during-garba-or-just-adrenaline-warning-signs-you-should-not-ignore-ws-el-10380703.html
+                  - figure [ref=e1569]:
+                    - 'img "If someone collapses, is unresponsive and is not breathing normally, call emergency services, begin CPR if you are able and ask someone to get an automated external defibrillator (AED), if available. (Image: AFP)" [ref=e1570]'
+              - listitem [ref=e1571]:
+                - heading [level=3] [ref=e1573]:
+                  - 'link "Delhi’s AQI Hits 157 As Smog Returns: Can Just 3 Years Of Air Pollution Do Irreparable Damage To Your Lungs?" [ref=e1574] [cursor=pointer]':
+                    - /url: /lifestyle/health-and-fitness/delhis-aqi-hits-157-as-smog-returns-can-just-3-years-of-air-pollution-do-irreparable-damage-to-your-lungs-ws-l-10380036.html
+                - link [ref=e1575] [cursor=pointer]:
+                  - /url: /lifestyle/health-and-fitness/delhis-aqi-hits-157-as-smog-returns-can-just-3-years-of-air-pollution-do-irreparable-damage-to-your-lungs-ws-l-10380036.html
+                  - figure [ref=e1576]:
+                    - 'img "Air pollution may not always initiate the genetic changes linked to cancer. It may also help create conditions in which existing abnormal cells are more likely to develop into tumours. (Image: AFP)" [ref=e1577]'
+              - listitem [ref=e1578]:
+                - heading [level=3] [ref=e1580]:
+                  - 'link "Breaking Bad Actor RJ Mitte Dies At 34: Understanding Cerebral Palsy And Mental Health" [ref=e1581] [cursor=pointer]':
+                    - /url: /lifestyle/health-and-fitness/breaking-bad-actor-rj-mitte-dies-at-34-understanding-cerebral-palsy-and-mental-health-10379386.html
+                - link [ref=e1582] [cursor=pointer]:
+                  - /url: /lifestyle/health-and-fitness/breaking-bad-actor-rj-mitte-dies-at-34-understanding-cerebral-palsy-and-mental-health-10379386.html
+                  - figure [ref=e1583]:
+                    - 'img "Breaking Bad Actor RJ Mitte Dies At 34: Understanding Cerebral Palsy And Mental Health" [ref=e1584]'
+              - listitem [ref=e1585]:
+                - heading [level=3] [ref=e1587]:
+                  - link "Lancet Identifies 17 Major Threats To Global Health; India Faces All Of Them" [ref=e1588] [cursor=pointer]:
+                    - /url: /lifestyle/health-and-fitness/lancet-identifies-17-major-threats-to-global-health-india-faces-all-of-them-ws-l-10378843.html
+                - link [ref=e1589] [cursor=pointer]:
+                  - /url: /lifestyle/health-and-fitness/lancet-identifies-17-major-threats-to-global-health-india-faces-all-of-them-ws-l-10378843.html
+                  - figure [ref=e1590]:
+                    - img "From obesity and antimicrobial resistance to climate change, nuclear conflict and the malicious use of artificial intelligence, a new Lancet Commission identifies 17 interconnected threats that could cause catastrophic health losses by 2100." [ref=e1591]
+          - link "health & fitness tips" [ref=e1592] [cursor=pointer]:
+            - /url: /lifestyle/health-and-fitness/
+        - generic [ref=e1593]:
+          - link [ref=e1594] [cursor=pointer]:
+            - /url: /
+            - heading "good news" [level=2] [ref=e1595]
+          - generic [ref=e1596]:
+            - link [ref=e1597] [cursor=pointer]:
+              - /url: /cities/mumbai-news/mumbai-airport-t2s-touchless-washrooms-draw-attention-how-do-the-smart-taps-and-doors-work-watch-ws-l-10375980.html
+              - 'heading "Mumbai Airport T2’s Touchless Washrooms Draw Attention: How Do The Smart Taps And Doors Work? | WATCH" [level=3] [ref=e1599]'
+              - figure [ref=e1600]:
+                - img "Mumbai Airport Terminal 2 is upgrading 41 washroom blocks with touchless features to enhance hygiene and save water. (Instagram/@thekaur_)" [ref=e1601]
+            - list [ref=e1602]:
+              - listitem [ref=e1603]:
+                - heading [level=3] [ref=e1605]:
+                  - 'link "Shivraj Singh Chouhan Becomes Grandfather Again: Grandson Arrives Months After Granddaughter Ila" [ref=e1606] [cursor=pointer]':
+                    - /url: /cities/new-delhi-news/shivraj-singh-chouhan-becomes-grandfather-again-grandson-arrives-months-after-granddaughter-ila-ws-l-10372595.html
+              - listitem [ref=e1607]:
+                - heading [level=3] [ref=e1609]:
+                  - 'link "Navjot Singh Sidhu Becomes Grandfather: Baby Girl Gets A Special Sanskrit Name; Know What It Means" [ref=e1610] [cursor=pointer]':
+                    - /url: /cities/chandigarh/navjot-singh-sidhu-becomes-grandfather-baby-girl-gets-a-special-sanskrit-name-know-what-it-means-ws-l-10364531.html
+              - listitem [ref=e1611]:
+                - heading [level=3] [ref=e1613]:
+                  - 'link "Janmashtami 2026 Date: City-Wise Muhurat, Fasting Rules And Rituals" [ref=e1614] [cursor=pointer]':
+                    - /url: /lifestyle/spirituality/when-is-janmashtami-2026-date-city-wise-muhurat-fasting-rules-and-rituals-aa-ws-kl-9798574.html
+              - listitem [ref=e1615]:
+                - heading [level=3] [ref=e1617]:
+                  - 'link "Onam 2026 Date: When Is Thiruvonam? Timings, History And Significance" [ref=e1618] [cursor=pointer]':
+                    - /url: /lifestyle/events/onam-2026-thiruvonam-date-timings-kerala-festival-guide-aa-ws-ekl-9792870.html
+          - link "good news" [ref=e1619] [cursor=pointer]:
+            - /url: /
+    - generic [ref=e1620]:
+      - generic [ref=e1621]:
+        - link [ref=e1622] [cursor=pointer]:
+          - /url: /astrology/
+          - heading "Astrology" [level=2] [ref=e1623]
+        - link "Astrology Predictions" [ref=e1624] [cursor=pointer]:
+          - /url: /astrology/
+      - generic [ref=e1625]:
+        - link "Gemstone" [ref=e1626] [cursor=pointer]:
+          - /url: /astrology/gemstone/
+        - link "Numerology" [ref=e1627] [cursor=pointer]:
+          - /url: /astrology/numerology/
+      - generic [ref=e1628]:
+        - generic [ref=e1629]:
+          - img [ref=e1631]:
+            - generic [ref=e1654]:
+              - generic [ref=e1655] [cursor=pointer]
+              - generic [ref=e1656] [cursor=pointer]
+              - generic [ref=e1657]:
+                - generic [ref=e1658] [cursor=pointer]
+                - generic [ref=e1659] [cursor=pointer]
+                - generic [ref=e1660] [cursor=pointer]
+                - generic [ref=e1661] [cursor=pointer]
+                - generic [ref=e1662] [cursor=pointer]
+          - generic [ref=e1838]:
+            - generic [ref=e1839]: October 14, 2026
+            - generic [ref=e1841] [cursor=pointer]: Choose Zodiac
+          - list [ref=e1844]:
+            - listitem [ref=e1845]: Today
+            - listitem [ref=e1846]: Weekly
+            - listitem [ref=e1847]: Monthly
+            - listitem [ref=e1848]: Yearly
+          - generic [ref=e1849]:
+            - text: ...
+            - link "read more" [ref=e1850] [cursor=pointer]:
+              - /url: /astrology/
+        - generic [ref=e1851]:
+          - list
+    - generic [ref=e1852]: Advertisement
+  - contentinfo [ref=e1856]:
+    - generic [ref=e1857]:
+      - generic [ref=e1858]:
+        - heading "Trending Topics" [level=3] [ref=e1859]
+        - generic [ref=e1860] [cursor=pointer]: more
+        - list [ref=e1861]:
+          - listitem [ref=e1862]:
+            - link "Election Results Live" [ref=e1863] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-election-results-2026-live-updates-by-election-results-today-tamil-nadu-west-bengal-assam-puducherry-vote-counting-winners-list-liveblog-ws-l-10373910.html
+          - listitem [ref=e1864]:
+            - link "Tamil Nadu Election Results" [ref=e1865] [cursor=pointer]:
+              - /url: https://www.news18.com/india/tamil-nadu-election-results-2026-live-updates-tn-by-election-results-today-dharapuram-madurantakam-bypolls-vote-counting-winners-list-liveblog-ws-kl-10373931.html
+          - listitem [ref=e1866]:
+            - link "Dharapuram By Election Results 2026" [ref=e1867] [cursor=pointer]:
+              - /url: https://www.news18.com/india/dharapuram-election-results-2026-live-updates-tamil-nadu-by-poll-results-sathyabama-tvk-suganya-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-l-10373656.html
+          - listitem [ref=e1868]:
+            - link "Bypoll Results 2026" [ref=e1869] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-results-2026-bjp-leads-in-nandigram-rejinagar-nagaon-vijays-tvk-ahead-in-tamil-nadu-ws-l-10373823.html
+          - listitem [ref=e1870]:
+            - link "Nandigram By Election Results 2026" [ref=e1871] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nandigram-election-results-2026-live-updates-west-bengal-bypoll-results-hasirani-rath-bjp-milan-pradhan-congress-winner-seat-margin-eci-latest-news-2-liveblog-10373650.html
+          - listitem [ref=e1872]:
+            - link "Assam Election Results 2026" [ref=e1873] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/nagaon-bypoll-result-2026-live-updates-lok-sabha-debashish-sharma-sibamoni-bora-badruddin-ajmal-liveblog-ws-kl-10373638.html
+          - listitem [ref=e1874]:
+            - link "Madurantakam By Election Results 2026" [ref=e1875] [cursor=pointer]:
+              - /url: https://www.news18.com/india/madurantakam-election-results-2026-live-updates-tamil-nadu-bypoll-results-maragatham-kumaravel-tvk-paranthamen-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-kl-10373652.html
+          - listitem [ref=e1876]:
+            - link "West Bengal Election Results 2026" [ref=e1877] [cursor=pointer]:
+              - /url: https://www.news18.com/india/rejinagar-election-results-2026-live-updates-bypolls-west-bengal-eci-latest-news-vote-counting-golam-nabi-azad-ajup-sakharav-sarkar-bjp-tmc-congress-votes-winner-liveblog-ws-l-10373660.html
+          - listitem [ref=e1878]:
+            - link "UPI Charges" [ref=e1879] [cursor=pointer]:
+              - /url: https://www.news18.com/business/banking-finance/upi-mdr-charges-npci-steering-committee-to-meet-today-decision-on-january-2027-deferment-likely-10373669.html
+          - listitem [ref=e1880]:
+            - link "IND vs AUS Live Score" [ref=e1881] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/india-a-vs-australia-a-2nd-unofficial-odi-live-score-commentary-timeline-ind-aus-2026-puducherry-liveblog-10373772.html
+          - listitem [ref=e1882]:
+            - link "Virat Kohli" [ref=e1883] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/virat-kohli-batting-better-than-his-peak-a-side-of-him-that-people-dont-know-ws-blrt-10373659.html
+          - listitem [ref=e1884]:
+            - link "IND vs WI Playing 11" [ref=e1885] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/prince-in-mayank-out-indias-likely-playing-xi-for-2nd-t20i-against-west-indies-10373392.html
+      - generic [ref=e1886]:
+        - heading "Hot On Social" [level=3] [ref=e1887]
+        - generic [ref=e1888] [cursor=pointer]: more
+        - list [ref=e1889]:
+          - listitem [ref=e1890]:
+            - link "Nana Patekar Death" [ref=e1891] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/nana-patekar-death-live-updates-veteran-actor-dies-at-75-goa-tributes-last-rites-liveblog-10371964.html
+          - listitem [ref=e1892]:
+            - link "Nana Patekar Son" [ref=e1893] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/who-is-malhar-patekar-know-all-about-nana-patekars-son-who-stayed-away-from-the-limelight-10372357.html
+          - listitem [ref=e1894]:
+            - link "Amazon Sale 2026" [ref=e1895] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-how-to-maximise-savings-bank-cards-exchange-prime-10372092.html
+          - listitem [ref=e1896]:
+            - link "iPhone Price Deals" [ref=e1897] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/iphone-17-pro-max-gets-a-price-cut-on-croma-can-be-yours-at-rs-rs-107990-10372786.html
+          - listitem [ref=e1898]:
+            - link "Nana Patekar Cause Of Death" [ref=e1899] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nana-patekar-dies-doctor-details-cardiac-arrest-cpr-goa-ws-l-10372022.html
+          - listitem [ref=e1900]:
+            - link "Smart Tv Deals Amazon" [ref=e1901] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-day-1-best-smart-tv-deals-under-25000-10372073.html
+          - listitem [ref=e1902]:
+            - link "Navratri Colours" [ref=e1903] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-colours-2026-day-wise-list-dates-goddesses-ws-er-10369878.html
+          - listitem [ref=e1904]:
+            - link "Maa Durga Names" [ref=e1905] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-2026-9-forms-maa-durga-names-significance-10370136.html
+          - listitem [ref=e1906]:
+            - link "Navratri Fasting" [ref=e1907] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/food/navratri-fasting-rules-2026-what-to-eat-avoid-during-vrat-ws-er-10370085.html
+          - listitem [ref=e1908]:
+            - link "OTT Releases This Week" [ref=e1909] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/web-series/ott-releases-this-week-reporting-live-mortal-kombat-ii-carrie-and-more-ws-kl-10368175.html
+      - generic [ref=e1910]:
+        - heading "Popular Categories" [level=3] [ref=e1911]
+        - generic [ref=e1912] [cursor=pointer]: more
+        - list [ref=e1913]:
+          - listitem [ref=e1914]:
+            - link "Latest News" [ref=e1915] [cursor=pointer]:
+              - /url: https://www.news18.com/news/
+          - listitem [ref=e1916]:
+            - link "India" [ref=e1917] [cursor=pointer]:
+              - /url: https://www.news18.com/india/
+          - listitem [ref=e1918]:
+            - link "Movies" [ref=e1919] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=e1920]:
+            - link "World" [ref=e1921] [cursor=pointer]:
+              - /url: https://www.news18.com/world/
+          - listitem [ref=e1922]:
+            - link "Politics" [ref=e1923] [cursor=pointer]:
+              - /url: https://www.news18.com/politics/
+          - listitem [ref=e1924]:
+            - link "Viral" [ref=e1925] [cursor=pointer]:
+              - /url: https://www.news18.com/viral/
+          - listitem [ref=e1926]:
+            - link "Auto" [ref=e1927] [cursor=pointer]:
+              - /url: https://www.news18.com/auto/
+          - listitem [ref=e1928]:
+            - link "Tech" [ref=e1929] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/
+          - listitem [ref=e1930]:
+            - link "Videos" [ref=e1931] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - listitem [ref=e1932]:
+            - link "Photos" [ref=e1933] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - listitem [ref=e1934]:
+            - link "Web Stories" [ref=e1935] [cursor=pointer]:
+              - /url: https://www.news18.com/web-stories/
+          - listitem [ref=e1936]:
+            - link "Cricket" [ref=e1937] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/
+          - listitem [ref=e1938]:
+            - link "Explainers" [ref=e1939] [cursor=pointer]:
+              - /url: https://www.news18.com/explainers/
+          - listitem [ref=e1940]:
+            - link "Showsha" [ref=e1941] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=e1942]:
+            - link "Opinion" [ref=e1943] [cursor=pointer]:
+              - /url: https://www.news18.com/opinion/
+          - listitem [ref=e1944]:
+            - link "Lifestyle" [ref=e1945] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/
+          - listitem [ref=e1946]:
+            - link "Business" [ref=e1947] [cursor=pointer]:
+              - /url: https://www.news18.com/business/
+          - listitem [ref=e1948]:
+            - link "Education-Career" [ref=e1949] [cursor=pointer]:
+              - /url: https://www.news18.com/education-career/
+          - listitem [ref=e1950]:
+            - link "Sports" [ref=e1951] [cursor=pointer]:
+              - /url: https://www.news18.com/sports/
+          - listitem [ref=e1952]:
+            - link "City News" [ref=e1953] [cursor=pointer]:
+              - /url: https://www.news18.com/cities/
+          - listitem [ref=e1954]:
+            - link "Elections" [ref=e1955] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/
+      - generic [ref=e1956]:
+        - heading "Language Sites" [level=3] [ref=e1957]
+        - generic [ref=e1958] [cursor=pointer]: more
+        - list [ref=e1959]:
+          - listitem [ref=e1960]:
+            - link "Marathi News" [ref=e1961] [cursor=pointer]:
+              - /url: https://news18marathi.com/
+          - listitem [ref=e1962]:
+            - link "Gujarati News" [ref=e1963] [cursor=pointer]:
+              - /url: https://gujarati.news18.com/
+          - listitem [ref=e1964]:
+            - link "Bengali News" [ref=e1965] [cursor=pointer]:
+              - /url: https://bengali.news18.com/
+          - listitem [ref=e1966]:
+            - link "Tamil News" [ref=e1967] [cursor=pointer]:
+              - /url: https://tamil.news18.com/
+          - listitem [ref=e1968]:
+            - link "Telugu News" [ref=e1969] [cursor=pointer]:
+              - /url: https://telugu.news18.com/
+          - listitem [ref=e1970]:
+            - link "Malayalam News" [ref=e1971] [cursor=pointer]:
+              - /url: https://malayalam.news18.com/
+          - listitem [ref=e1972]:
+            - link "Punjabi News" [ref=e1973] [cursor=pointer]:
+              - /url: https://punjab.news18.com/
+          - listitem [ref=e1974]:
+            - link "Urdu News" [ref=e1975] [cursor=pointer]:
+              - /url: https://urdu.news18.com/
+          - listitem [ref=e1976]:
+            - link "Assam News" [ref=e1977] [cursor=pointer]:
+              - /url: https://assam.news18.com/
+          - listitem [ref=e1978]:
+            - link "Odia News" [ref=e1979] [cursor=pointer]:
+              - /url: https://odia.news18.com/
+          - listitem [ref=e1980]:
+            - link "Kannada News" [ref=e1981] [cursor=pointer]:
+              - /url: https://kannada.news18.com/
+      - generic [ref=e1982]:
+        - heading "Network18 Group Sites" [level=3] [ref=e1983]
+        - generic [ref=e1984] [cursor=pointer]: more
+        - list [ref=e1985]:
+          - listitem [ref=e1986]:
+            - link "Moneycontrol" [ref=e1987] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/
+          - listitem [ref=e1988]:
+            - link "Firstpost" [ref=e1989] [cursor=pointer]:
+              - /url: https://www.firstpost.com/
+          - listitem [ref=e1990]:
+            - link "CNBCTV18" [ref=e1991] [cursor=pointer]:
+              - /url: https://www.cnbctv18.com/
+          - listitem [ref=e1992]:
+            - link "History India" [ref=e1993] [cursor=pointer]:
+              - /url: https://www.historyindia.com/
+          - listitem [ref=e1994]:
+            - link "MTV India" [ref=e1995] [cursor=pointer]:
+              - /url: https://www.mtvindia.com/
+    - generic [ref=e1996]:
+      - img "News18" [ref=e1997]
+      - generic [ref=e1998]:
+        - generic [ref=e1999]: Follow Us On
+        - generic [ref=e2000]:
+          - link [ref=e2001] [cursor=pointer]:
+            - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+          - link [ref=e2002] [cursor=pointer]:
+            - /url: https://www.facebook.com/cnnnews18/
+          - link [ref=e2003] [cursor=pointer]:
+            - /url: https://twitter.com/CNNnews18
+          - link [ref=e2004] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC3prwMn9aU2z5Y158ZdGyyA
+          - link [ref=e2005] [cursor=pointer]:
+            - /url: https://news18.co/n18egpi
+          - link [ref=e2006] [cursor=pointer]:
+            - /url: https://www.instagram.com/cnnnews18
+      - generic [ref=e2007]:
+        - generic [ref=e2008]: News18 App
+        - link [ref=e2009] [cursor=pointer]:
+          - /url: https://onelink.to/eng-web-other
+          - generic [ref=e2010]:
+            - img "app download" [ref=e2012]
+            - text: Download Now
+      - list [ref=e2014]:
+        - listitem [ref=e2015]:
+          - link "About Us" [ref=e2016] [cursor=pointer]:
+            - /url: https://www.news18.com/about_us/
+        - listitem [ref=e2017]:
+          - link "Cookie Policy" [ref=e2018] [cursor=pointer]:
+            - /url: https://www.news18.com/cookie-policy.html
+        - listitem [ref=e2019]:
+          - link "Disclaimer" [ref=e2020] [cursor=pointer]:
+            - /url: https://www.news18.com/disclaimer/
+        - listitem [ref=e2021]:
+          - link "Contact Us" [ref=e2022] [cursor=pointer]:
+            - /url: https://www.news18.com/contact-us.html
+        - listitem [ref=e2023]:
+          - link "RSS" [ref=e2024] [cursor=pointer]:
+            - /url: https://www.news18.com/rss/
+        - listitem [ref=e2025]:
+          - link "Complaint Redressal" [ref=e2026] [cursor=pointer]:
+            - /url: https://www.news18.com/complaint/
+        - listitem [ref=e2027]:
+          - link "Advertise with Us" [ref=e2028] [cursor=pointer]:
+            - /url: https://adwise.nw18.com/
+        - listitem [ref=e2029]:
+          - link "Sitemap" [ref=e2030] [cursor=pointer]:
+            - /url: https://www.news18.com/sitemap/
+        - listitem [ref=e2031]:
+          - link "Privacy Policy" [ref=e2032] [cursor=pointer]:
+            - /url: https://www.news18.com/privacy_policy/
+    - generic [ref=e2033]:
+      - generic [ref=e2034]: CNN name, logo and all associated elements ® and © 2026 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2026. All rights reserved.
+      - link [ref=e2035] [cursor=pointer]:
+        - /url: https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf
+        - img "bsi logo" [ref=e2036]

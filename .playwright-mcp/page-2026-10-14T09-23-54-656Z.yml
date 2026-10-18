@@ -1,0 +1,625 @@
+- generic [ref=f1e2]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - generic [ref=f1e6]:
+          - link [ref=f1e7] [cursor=pointer]:
+            - /url: https://www.news18.com/
+          - generic [ref=f1e21]:
+            - generic [ref=f1e22] [cursor=pointer]: English Edition
+            - generic [ref=f1e24]: Wed, Oct 14, 2026 | 02:51 PM
+        - generic [ref=f1e25]:
+          - link "Download News18 APP" [ref=f1e26] [cursor=pointer]:
+            - /url: https://onelink.to/eng-web-other
+          - link "Watch LIVE TV" [ref=f1e32] [cursor=pointer]:
+            - /url: /livetv/
+          - link [ref=f1e36] [cursor=pointer]:
+            - /url: https://www.news18.com/for-you/
+      - generic [ref=f1e38]:
+        - navigation [ref=f1e39]:
+          - list [ref=f1e40]:
+            - listitem [ref=f1e41]:
+              - link "Home" [ref=f1e42] [cursor=pointer]:
+                - /url: https://www.news18.com/
+            - listitem [ref=f1e43]:
+              - link "India" [ref=f1e44] [cursor=pointer]:
+                - /url: https://www.news18.com/india/
+            - listitem [ref=f1e45]:
+              - link "World" [ref=f1e46] [cursor=pointer]:
+                - /url: https://www.news18.com/world/
+            - listitem [ref=f1e47]:
+              - link "Explainers" [ref=f1e48] [cursor=pointer]:
+                - /url: https://www.news18.com/explainers/
+            - listitem [ref=f1e49]:
+              - link "DataPop" [ref=f1e50] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/data-graphics/
+            - listitem [ref=f1e51]:
+              - link "Cricket" [ref=f1e53] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/
+            - listitem [ref=f1e54]:
+              - link "Cities" [ref=f1e56] [cursor=pointer]:
+                - /url: https://www.news18.com/cities/
+            - listitem [ref=f1e57]:
+              - link "Movies" [ref=f1e59] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/
+            - listitem [ref=f1e60]:
+              - link "Lifestyle" [ref=f1e62] [cursor=pointer]:
+                - /url: https://www.news18.com/lifestyle/
+            - listitem [ref=f1e63]:
+              - link "Business" [ref=f1e65] [cursor=pointer]:
+                - /url: https://www.news18.com/business/
+            - listitem [ref=f1e66]:
+              - link "Tech2" [ref=f1e67] [cursor=pointer]:
+                - /url: https://www.tech2.com/
+            - listitem [ref=f1e68]:
+              - link "Latest" [ref=f1e69] [cursor=pointer]:
+                - /url: https://www.news18.com/news/
+            - listitem [ref=f1e70]:
+              - generic [ref=f1e71]: More
+        - link [ref=f1e73] [cursor=pointer]:
+          - /url: https://www.news18.com/notifications/
+        - generic [ref=f1e78] [cursor=pointer]:
+          - img "ask search icon" [ref=f1e79]
+          - generic [ref=f1e80]: ask news18
+        - button "Sign in" [ref=f1e81] [cursor=pointer]
+  - generic [ref=f1e83]:
+    - generic [ref=f1e84]: "TRENDING:"
+    - list [ref=f1e89]:
+      - listitem [ref=f1e90]:
+        - link "Jantar Mantar Protest" [ref=f1e91] [cursor=pointer]:
+          - /url: https://www.news18.com/india/saurav-das-ashutosh-ranka-5-day-judicial-custody-jantar-mantar-protest-row-cockroach-janta-party-cjp-ws-l-10380892.html
+      - listitem [ref=f1e92]:
+        - link "Rahul Gandhi" [ref=f1e93] [cursor=pointer]:
+          - /url: https://www.news18.com/india/resistance-will-continue-rahul-gandhi-tells-india-bloc-to-stay-ready-to-mobilise-in-24-hours-ws-lrs-10380826.html
+      - listitem [ref=f1e94]:
+        - link "India US Trade Deal" [ref=f1e95] [cursor=pointer]:
+          - /url: https://www.news18.com/india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+      - listitem [ref=f1e96]:
+        - link "Delhi CJP News" [ref=f1e97] [cursor=pointer]:
+          - /url: https://www.news18.com/india/delhi-police-two-firs-against-cjp-jantar-mantar-protest-saurav-das-ashutosh-ranka-abhijeet-dipke-ws-l-10380926.html
+      - listitem [ref=f1e98]:
+        - link "Saudi Houthis War" [ref=f1e99] [cursor=pointer]:
+          - /url: https://www.news18.com/world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+      - listitem [ref=f1e100]:
+        - link "#NiveshKaSahiKadam" [ref=f1e101] [cursor=pointer]:
+          - /url: https://www.news18features.com/niveshkasahikadam/
+      - listitem [ref=f1e102]:
+        - link "#ReelAwards2026" [ref=f1e103] [cursor=pointer]:
+          - /url: https://www.news18features.com/reel-awards-2026/
+      - listitem [ref=f1e104]:
+        - link "Instant Loans" [ref=f1e105] [cursor=pointer]:
+          - /url: https://www.moneycontrolpay.com/?utm_source=TrendingEngWeb
+    - list [ref=f1e106]:
+      - listitem [ref=f1e107]: Follow Us
+      - listitem [ref=f1e108]:
+        - link [ref=f1e109] [cursor=pointer]:
+          - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+      - listitem [ref=f1e110]:
+        - link [ref=f1e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/cnnnews18/
+      - listitem [ref=f1e112]:
+        - link [ref=f1e113] [cursor=pointer]:
+          - /url: https://twitter.com/CNNnews18
+      - listitem [ref=f1e114]:
+        - link [ref=f1e115] [cursor=pointer]:
+          - /url: https://www.youtube.com/cnnnews18
+      - listitem [ref=f1e116]:
+        - link [ref=f1e117] [cursor=pointer]:
+          - /url: https://news18.co/n18egpi
+      - listitem [ref=f1e118]:
+        - link [ref=f1e119] [cursor=pointer]:
+          - /url: https://www.instagram.com/cnnnews18/
+  - generic [ref=f1e120]: Advertisement
+  - generic [ref=f1e122]:
+    - main [ref=f1e123]:
+      - generic [ref=f1e124]:
+        - generic [ref=f1e130]:
+          - generic [ref=f1e131]: "404"
+          - text: Page not found
+        - generic [ref=f1e132]: The page you're looking for is unavailable. You can use the search box below to get back on track - or take a break and play our 404 game.
+      - generic [ref=f1e136]:
+        - generic [ref=f1e137]:
+          - generic [ref=f1e138]:
+            - button [ref=f1e140] [cursor=pointer]:
+              - img "Close" [ref=f1e141]
+            - generic [ref=f1e142]: "404"
+            - generic [ref=f1e144]:
+              - button [ref=f1e145] [cursor=pointer]:
+                - img "How to Play" [ref=f1e146]
+              - button [ref=f1e147] [cursor=pointer]:
+                - img "Share" [ref=f1e148]
+              - button [ref=f1e149] [cursor=pointer]:
+                - img "Full Screen" [ref=f1e150]
+          - combobox [ref=f1e152]:
+            - option "Easy"
+            - option "Medium" [selected]
+            - option "Hard"
+        - generic [ref=f1e155]:
+          - generic [ref=f1e156]:
+            - generic [ref=f1e157]: "00"
+            - generic [ref=f1e158]: Your Score
+          - generic [ref=f1e159]:
+            - generic [ref=f1e160]: "00"
+            - generic [ref=f1e161]: computer score
+        - generic [ref=f1e166]:
+          - button "Restart Game" [ref=f1e167]
+          - button [ref=f1e168] [cursor=pointer]:
+            - img "Sound On" [ref=f1e169]
+          - button [ref=f1e170] [cursor=pointer]:
+            - img "Haptic On" [ref=f1e171]
+      - generic [ref=f1e174]:
+        - generic [ref=f1e176]:
+          - img "search icon" [ref=f1e177]
+          - generic [ref=f1e178]: ask news18
+        - generic [ref=f1e180]:
+          - textbox "Search News, Videos, Photos and More" [ref=f1e181]
+          - button [ref=f1e182]
+          - button [ref=f1e183] [cursor=pointer]
+        - generic:
+          - paragraph
+      - generic [ref=f1e186]:
+        - heading "Latest News" [level=2] [ref=f1e188]
+        - list [ref=f1e189]:
+          - listitem [ref=f1e190]:
+            - link [ref=f1e191] [cursor=pointer]:
+              - /url: /photogallery/cities/kolkata-news/100-kg-of-gold-jewellery-adorns-goddess-durga-idol-at-this-puja-pandal-ws-l-10381312.html
+              - figure [ref=f1e192]:
+                - img "Durga Idol Wearing 100 kg Gold Ornaments Wows Siliguri Crowds" [ref=f1e193]
+              - heading "100 Kg Of Gold Jewellery Adorns Goddess Durga Idol At This Puja Pandal" [level=3] [ref=f1e194]
+          - listitem [ref=f1e195]:
+            - link [ref=f1e196] [cursor=pointer]:
+              - /url: /agency-feeds/crude-oil-futures-rise-tracking-global-trends-10381528.html
+              - figure [ref=f1e197]:
+                - img "Crude oil futures rise tracking global trends" [ref=f1e198]
+              - heading "Crude oil futures rise tracking global trends" [level=3] [ref=f1e199]
+          - listitem [ref=f1e200]:
+            - link [ref=f1e201] [cursor=pointer]:
+              - /url: /agency-feeds/youth-held-for-roaming-around-with-sickle-at-hospital-in-maharashtras-beed-10381527.html
+              - figure [ref=f1e202]:
+                - img "Youth held for roaming around with sickle at hospital in Maharashtra's Beed" [ref=f1e203]
+              - heading "Youth held for roaming around with sickle at hospital in Maharashtra's Beed" [level=3] [ref=f1e204]
+          - listitem [ref=f1e205]:
+            - link [ref=f1e206] [cursor=pointer]:
+              - /url: /agency-feeds/man-arrested-for-robbing-senior-citizens-through-confidence-tricks-10381526.html
+              - figure [ref=f1e207]:
+                - img "Man arrested for robbing senior citizens through confidence tricks" [ref=f1e208]
+              - heading "Man arrested for robbing senior citizens through confidence tricks" [level=3] [ref=f1e209]
+          - listitem [ref=f1e210]:
+            - link [ref=f1e211] [cursor=pointer]:
+              - /url: /agency-feeds/pranavi-showed-tremendous-resilience-to-win-asiad-gold-rory-mcilroy-10381525.html
+              - figure [ref=f1e212]:
+                - 'img "Pranavi showed tremendous resilience to win Asiad gold: Rory McIlroy" [ref=f1e213]'
+              - 'heading "Pranavi showed tremendous resilience to win Asiad gold: Rory McIlroy" [level=3] [ref=f1e214]'
+          - listitem [ref=f1e215]:
+            - link [ref=f1e216] [cursor=pointer]:
+              - /url: /agency-feeds/from-sewer-to-space-genrobotics-bags-isro-robotics-development-contract-10381524.html
+              - figure [ref=f1e217]:
+                - 'img "From sewer to space: Genrobotics bags ISRO robotics development contract" [ref=f1e218]'
+              - 'heading "From sewer to space: Genrobotics bags ISRO robotics development contract" [level=3] [ref=f1e219]'
+          - listitem [ref=f1e220]:
+            - link [ref=f1e221] [cursor=pointer]:
+              - /url: /agency-feeds/gold-futures-decline-to-rs-147972-10gm-10381523.html
+              - figure [ref=f1e222]:
+                - img "Gold futures decline to Rs 1,47,972/10gm" [ref=f1e223]
+              - heading "Gold futures decline to Rs 1,47,972/10gm" [level=3] [ref=f1e224]
+          - listitem [ref=f1e225]:
+            - link [ref=f1e226] [cursor=pointer]:
+              - /url: /photogallery/india/solar-panels-not-generating-enough-power-dust-and-these-cleaning-mistakes-could-be-the-reason-shil-ws-l-10381493.html
+              - figure [ref=f1e227]:
+                - img "Solar panels on a rooftop" [ref=f1e228]
+                - img "img" [ref=f1e230]
+              - heading "Solar Panels Not Generating Enough Power? Dust And These Cleaning Mistakes Could Be The Reason" [level=3] [ref=f1e231]
+          - listitem [ref=f1e232]:
+            - link [ref=f1e233] [cursor=pointer]:
+              - /url: /viral/employee-fakes-family-emergency-to-visit-kolkata-for-durga-puja-managers-next-move-leaves-them-stuck-ws-l-10381508.html
+              - figure [ref=f1e234]:
+                - img "Employee Fakes Family Emergency To Visit Kolkata For Durga Puja, Manager’s Next Move Leaves Them Stuck" [ref=f1e235]
+              - heading "Employee Fakes Family Emergency To Visit Kolkata For Durga Puja, Manager’s Next Move Leaves Them Stuck" [level=3] [ref=f1e236]
+          - listitem [ref=f1e237]:
+            - link [ref=f1e238] [cursor=pointer]:
+              - /url: /cities/mumbai-news/weather-today-mumbai-stays-hot-rain-alerts-in-several-states-check-city-wise-forecast-ws-l-10381308.html
+              - figure [ref=f1e239]:
+                - img "Check the latest IMD district-level warnings and local administration advisories before travelling or making outdoor plans." [ref=f1e240]
+              - 'heading "Weather Today: Mumbai Stays Hot, Rain Alerts In Several States; Check City-Wise Forecast" [level=3] [ref=f1e241]'
+          - listitem [ref=f1e242]:
+            - link [ref=f1e243] [cursor=pointer]:
+              - /url: /movies/bollywood/rasika-dugal-on-her-drastic-transformation-for-little-thomas-after-mirzapur-interesting-challenge-ws-lr-10381383.html
+              - figure [ref=f1e244]:
+                - img "Mirzapur, Rasika Dugal" [ref=f1e245]
+              - 'heading "Rasika Dugal On Her Drastic Transformation For Little Thomas After Mirzapur: ‘Interesting Challenge’" [level=3] [ref=f1e246]'
+          - listitem [ref=f1e247]:
+            - link [ref=f1e248] [cursor=pointer]:
+              - /url: /cricket/shreyas-iyer-becomes-world-no-4-t20i-batter-matt-renshaw-jumps-147-places-in-test-rankings-ws-l-10381426.html
+              - figure [ref=f1e249]:
+                - img "Shreyas Iyer becomes world No. 4 T20I batter" [ref=f1e250]
+              - heading "Shreyas Iyer Becomes World No. 4 T20I Batter, Matt Renshaw Jumps 147 Places In Test Rankings" [level=3] [ref=f1e251]
+          - listitem [ref=f1e252]:
+            - link [ref=f1e253] [cursor=pointer]:
+              - /url: /india/no-one-is-safe-in-punjab-bjp-chief-demands-cbi-probe-into-anti-drug-activist-murder-exclusive-ws-lr-10381459.html
+              - figure [ref=f1e254]:
+                - 'img "File image of Anti-drug activist Parvinder Singh Jhota and the medical store where he was shot. (Source: X)" [ref=f1e255]'
+              - 'heading "‘No One Is Safe In Punjab’: BJP Chief Demands CBI Probe Into Anti-Drug Activist Murder | Exclusive" [level=3] [ref=f1e256]'
+          - listitem [ref=f1e257]:
+            - link [ref=f1e258] [cursor=pointer]:
+              - /url: /videos/breaking-news/kerala-synagogue-case-phone-chats-reveal-possible-target-nia-probes-link-arson-incident-news18-10381532.html
+              - figure [ref=f1e259]:
+                - 'img "Kerala Synagogue Case: Phone Chats Reveal Possible Target, NIA Probes Link | Arson Incident | News18" [ref=f1e260]'
+              - 'heading "Kerala Synagogue Case: Phone Chats Reveal Possible Target, NIA Probes Link | Arson Incident | News18" [level=3] [ref=f1e261]'
+          - listitem [ref=f1e262]:
+            - link [ref=f1e263] [cursor=pointer]:
+              - /url: /agency-feeds/man-shot-dead-in-northeast-delhi-10381490.html
+              - figure [ref=f1e264]:
+                - img "Man shot dead in northeast Delhi" [ref=f1e265]
+              - heading "Man shot dead in northeast Delhi" [level=3] [ref=f1e266]
+          - listitem [ref=f1e267]:
+            - link [ref=f1e268] [cursor=pointer]:
+              - /url: /agency-feeds/bhel-q2-net-profit-jumps-over-two-fold-to-rs-821-cr-10381488.html
+              - figure [ref=f1e269]:
+                - img "BHEL Q2 net profit jumps over two-fold to Rs 821 cr" [ref=f1e270]
+              - heading "BHEL Q2 net profit jumps over two-fold to Rs 821 cr" [level=3] [ref=f1e271]
+          - listitem [ref=f1e272]:
+            - link [ref=f1e273] [cursor=pointer]:
+              - /url: /agency-feeds/iyer-moves-up-three-places-to-career-high-4th-in-icc-t20i-rankings-for-batters-10381489.html
+              - figure [ref=f1e274]:
+                - img "Iyer moves up three places to career-high 4th in ICC T20I rankings for batters" [ref=f1e275]
+              - heading "Iyer moves up three places to career-high 4th in ICC T20I rankings for batters" [level=3] [ref=f1e276]
+          - listitem [ref=f1e277]:
+            - link [ref=f1e278] [cursor=pointer]:
+              - /url: /agency-feeds/new-bridge-linking-china-north-korea-will-open-more-than-decade-late-10381486.html
+              - figure [ref=f1e279]:
+                - img "New bridge linking China, North Korea will open more than decade late" [ref=f1e280]
+              - heading "New bridge linking China, North Korea will open more than decade late" [level=3] [ref=f1e281]
+          - listitem [ref=f1e282]:
+            - link [ref=f1e283] [cursor=pointer]:
+              - /url: /agency-feeds/lalduhoma-urges-youths-on-tour-of-mizoram-to-strengthen-national-unity-10381485.html
+              - figure [ref=f1e284]:
+                - img "Lalduhoma urges youths on tour of Mizoram to strengthen national unity" [ref=f1e285]
+              - heading "Lalduhoma urges youths on tour of Mizoram to strengthen national unity" [level=3] [ref=f1e286]
+          - listitem [ref=f1e287]:
+            - link [ref=f1e288] [cursor=pointer]:
+              - /url: /agency-feeds/lanka-court-orders-police-to-seek-interpol-red-notice-against-basil-rajapaksa-10381483.html
+              - figure [ref=f1e289]:
+                - img "Lanka court orders police to seek Interpol Red Notice against Basil Rajapaksa" [ref=f1e290]
+              - heading "Lanka court orders police to seek Interpol Red Notice against Basil Rajapaksa" [level=3] [ref=f1e291]
+      - generic [ref=f1e292]:
+        - link "1" [ref=f1e293] [cursor=pointer]:
+          - /url: /news/
+        - link "2" [ref=f1e294] [cursor=pointer]:
+          - /url: /news/page-2/
+        - link "3" [ref=f1e295] [cursor=pointer]:
+          - /url: /news/page-3/
+        - link "4" [ref=f1e296] [cursor=pointer]:
+          - /url: /news/page-4/
+        - link "5" [ref=f1e297] [cursor=pointer]:
+          - /url: /news/page-5/
+        - link "Next page" [ref=f1e298] [cursor=pointer]:
+          - /url: /news/page-2/
+    - complementary [ref=f1e299]:
+      - generic [ref=f1e300]:
+        - generic [ref=f1e301]: Advertisement
+        - generic [ref=f1e305]:
+          - link [ref=f1e306] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+            - img "rapid read logo" [ref=f1e307]
+          - figure [ref=f1e308]
+          - link "More Rapid Read" [ref=f1e309] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+        - generic [ref=f1e312]:
+          - generic [ref=f1e313]:
+            - heading [level=2] [ref=f1e314]:
+              - link "live tv" [ref=f1e315] [cursor=pointer]:
+                - /url: https://www.news18.com/livetv/
+            - generic [ref=f1e316] [cursor=pointer]: CNN News18
+          - generic [ref=f1e317] [cursor=pointer]: Channels
+        - generic [ref=f1e326]: Advertisement
+        - generic [ref=f1e328]:
+          - heading [level=2] [ref=f1e330]:
+            - link "Astrology" [ref=f1e331] [cursor=pointer]:
+              - /url: https://www.news18.com/astrology/
+          - generic [ref=f1e332]:
+            - generic [ref=f1e333]:
+              - img [ref=f1e335]:
+                - generic [ref=f1e358]:
+                  - generic [ref=f1e359] [cursor=pointer]
+                  - generic [ref=f1e360] [cursor=pointer]
+                  - generic [ref=f1e361]:
+                    - generic [ref=f1e362] [cursor=pointer]
+                    - generic [ref=f1e363] [cursor=pointer]
+                    - generic [ref=f1e364] [cursor=pointer]
+                    - generic [ref=f1e365] [cursor=pointer]
+                    - generic [ref=f1e366] [cursor=pointer]
+              - generic [ref=f1e542]:
+                - generic [ref=f1e543]: Oct 14, 2026
+                - generic [ref=f1e546] [cursor=pointer]:
+                  - generic: Choose Zodiac
+                  - img "zodiac icon" [ref=f1e547]
+              - list [ref=f1e548]:
+                - listitem [ref=f1e549]: Today
+                - listitem [ref=f1e550]: Weekly
+                - listitem [ref=f1e551]: Monthly
+                - listitem [ref=f1e552]: Yearly
+              - generic [ref=f1e553]:
+                - text: ...
+                - link "read more" [ref=f1e554] [cursor=pointer]:
+                  - /url: https://www.news18.com/astrology/
+            - generic [ref=f1e555]:
+              - list
+          - link "More Astrology News" [ref=f1e556] [cursor=pointer]:
+            - /url: https://www.news18.com/astrology/
+        - generic [ref=f1e557]:
+          - heading [level=2] [ref=f1e559]:
+            - link "Trending Videos" [ref=f1e560] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - link "More Trending Videos" [ref=f1e561] [cursor=pointer]:
+            - /url: https://www.news18.com/videos/
+        - generic [ref=f1e562]:
+          - heading [level=2] [ref=f1e563]:
+            - paragraph [ref=f1e564]: Latest Blogs
+          - link [ref=f1e566] [cursor=pointer]:
+            - /url: ""
+            - figure [ref=f1e567]
+        - generic [ref=f1e569]:
+          - heading [level=2] [ref=f1e570]:
+            - link "Photogalleries" [ref=f1e571] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - generic [ref=f1e574]:
+            - emphasis
+          - link "More Photogalleries" [ref=f1e578] [cursor=pointer]:
+            - /url: https://www.news18.com/photogallery/
+        - generic [ref=f1e580]: Advertisement
+  - contentinfo [ref=f1e583]:
+    - generic [ref=f1e584]:
+      - generic [ref=f1e585]:
+        - heading "Trending Topics" [level=3] [ref=f1e586]
+        - generic [ref=f1e587] [cursor=pointer]: more
+        - list [ref=f1e588]:
+          - listitem [ref=f1e589]:
+            - link "Election Results Live" [ref=f1e590] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-election-results-2026-live-updates-by-election-results-today-tamil-nadu-west-bengal-assam-puducherry-vote-counting-winners-list-liveblog-ws-l-10373910.html
+          - listitem [ref=f1e591]:
+            - link "Tamil Nadu Election Results" [ref=f1e592] [cursor=pointer]:
+              - /url: https://www.news18.com/india/tamil-nadu-election-results-2026-live-updates-tn-by-election-results-today-dharapuram-madurantakam-bypolls-vote-counting-winners-list-liveblog-ws-kl-10373931.html
+          - listitem [ref=f1e593]:
+            - link "Dharapuram By Election Results 2026" [ref=f1e594] [cursor=pointer]:
+              - /url: https://www.news18.com/india/dharapuram-election-results-2026-live-updates-tamil-nadu-by-poll-results-sathyabama-tvk-suganya-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-l-10373656.html
+          - listitem [ref=f1e595]:
+            - link "Bypoll Results 2026" [ref=f1e596] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-results-2026-bjp-leads-in-nandigram-rejinagar-nagaon-vijays-tvk-ahead-in-tamil-nadu-ws-l-10373823.html
+          - listitem [ref=f1e597]:
+            - link "Nandigram By Election Results 2026" [ref=f1e598] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nandigram-election-results-2026-live-updates-west-bengal-bypoll-results-hasirani-rath-bjp-milan-pradhan-congress-winner-seat-margin-eci-latest-news-2-liveblog-10373650.html
+          - listitem [ref=f1e599]:
+            - link "Assam Election Results 2026" [ref=f1e600] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/nagaon-bypoll-result-2026-live-updates-lok-sabha-debashish-sharma-sibamoni-bora-badruddin-ajmal-liveblog-ws-kl-10373638.html
+          - listitem [ref=f1e601]:
+            - link "Madurantakam By Election Results 2026" [ref=f1e602] [cursor=pointer]:
+              - /url: https://www.news18.com/india/madurantakam-election-results-2026-live-updates-tamil-nadu-bypoll-results-maragatham-kumaravel-tvk-paranthamen-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-kl-10373652.html
+          - listitem [ref=f1e603]:
+            - link "West Bengal Election Results 2026" [ref=f1e604] [cursor=pointer]:
+              - /url: https://www.news18.com/india/rejinagar-election-results-2026-live-updates-bypolls-west-bengal-eci-latest-news-vote-counting-golam-nabi-azad-ajup-sakharav-sarkar-bjp-tmc-congress-votes-winner-liveblog-ws-l-10373660.html
+          - listitem [ref=f1e605]:
+            - link "UPI Charges" [ref=f1e606] [cursor=pointer]:
+              - /url: https://www.news18.com/business/banking-finance/upi-mdr-charges-npci-steering-committee-to-meet-today-decision-on-january-2027-deferment-likely-10373669.html
+          - listitem [ref=f1e607]:
+            - link "IND vs AUS Live Score" [ref=f1e608] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/india-a-vs-australia-a-2nd-unofficial-odi-live-score-commentary-timeline-ind-aus-2026-puducherry-liveblog-10373772.html
+          - listitem [ref=f1e609]:
+            - link "Virat Kohli" [ref=f1e610] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/virat-kohli-batting-better-than-his-peak-a-side-of-him-that-people-dont-know-ws-blrt-10373659.html
+          - listitem [ref=f1e611]:
+            - link "IND vs WI Playing 11" [ref=f1e612] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/prince-in-mayank-out-indias-likely-playing-xi-for-2nd-t20i-against-west-indies-10373392.html
+      - generic [ref=f1e613]:
+        - heading "Hot On Social" [level=3] [ref=f1e614]
+        - generic [ref=f1e615] [cursor=pointer]: more
+        - list [ref=f1e616]:
+          - listitem [ref=f1e617]:
+            - link "Nana Patekar Death" [ref=f1e618] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/nana-patekar-death-live-updates-veteran-actor-dies-at-75-goa-tributes-last-rites-liveblog-10371964.html
+          - listitem [ref=f1e619]:
+            - link "Nana Patekar Son" [ref=f1e620] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/who-is-malhar-patekar-know-all-about-nana-patekars-son-who-stayed-away-from-the-limelight-10372357.html
+          - listitem [ref=f1e621]:
+            - link "Amazon Sale 2026" [ref=f1e622] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-how-to-maximise-savings-bank-cards-exchange-prime-10372092.html
+          - listitem [ref=f1e623]:
+            - link "iPhone Price Deals" [ref=f1e624] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/iphone-17-pro-max-gets-a-price-cut-on-croma-can-be-yours-at-rs-rs-107990-10372786.html
+          - listitem [ref=f1e625]:
+            - link "Nana Patekar Cause Of Death" [ref=f1e626] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nana-patekar-dies-doctor-details-cardiac-arrest-cpr-goa-ws-l-10372022.html
+          - listitem [ref=f1e627]:
+            - link "Smart Tv Deals Amazon" [ref=f1e628] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-day-1-best-smart-tv-deals-under-25000-10372073.html
+          - listitem [ref=f1e629]:
+            - link "Navratri Colours" [ref=f1e630] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-colours-2026-day-wise-list-dates-goddesses-ws-er-10369878.html
+          - listitem [ref=f1e631]:
+            - link "Maa Durga Names" [ref=f1e632] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-2026-9-forms-maa-durga-names-significance-10370136.html
+          - listitem [ref=f1e633]:
+            - link "Navratri Fasting" [ref=f1e634] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/food/navratri-fasting-rules-2026-what-to-eat-avoid-during-vrat-ws-er-10370085.html
+          - listitem [ref=f1e635]:
+            - link "OTT Releases This Week" [ref=f1e636] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/web-series/ott-releases-this-week-reporting-live-mortal-kombat-ii-carrie-and-more-ws-kl-10368175.html
+      - generic [ref=f1e637]:
+        - heading "Popular Categories" [level=3] [ref=f1e638]
+        - generic [ref=f1e639] [cursor=pointer]: more
+        - list [ref=f1e640]:
+          - listitem [ref=f1e641]:
+            - link "Latest News" [ref=f1e642] [cursor=pointer]:
+              - /url: https://www.news18.com/news/
+          - listitem [ref=f1e643]:
+            - link "India" [ref=f1e644] [cursor=pointer]:
+              - /url: https://www.news18.com/india/
+          - listitem [ref=f1e645]:
+            - link "Movies" [ref=f1e646] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f1e647]:
+            - link "World" [ref=f1e648] [cursor=pointer]:
+              - /url: https://www.news18.com/world/
+          - listitem [ref=f1e649]:
+            - link "Politics" [ref=f1e650] [cursor=pointer]:
+              - /url: https://www.news18.com/politics/
+          - listitem [ref=f1e651]:
+            - link "Viral" [ref=f1e652] [cursor=pointer]:
+              - /url: https://www.news18.com/viral/
+          - listitem [ref=f1e653]:
+            - link "Auto" [ref=f1e654] [cursor=pointer]:
+              - /url: https://www.news18.com/auto/
+          - listitem [ref=f1e655]:
+            - link "Tech" [ref=f1e656] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/
+          - listitem [ref=f1e657]:
+            - link "Videos" [ref=f1e658] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - listitem [ref=f1e659]:
+            - link "Photos" [ref=f1e660] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - listitem [ref=f1e661]:
+            - link "Web Stories" [ref=f1e662] [cursor=pointer]:
+              - /url: https://www.news18.com/web-stories/
+          - listitem [ref=f1e663]:
+            - link "Cricket" [ref=f1e664] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/
+          - listitem [ref=f1e665]:
+            - link "Explainers" [ref=f1e666] [cursor=pointer]:
+              - /url: https://www.news18.com/explainers/
+          - listitem [ref=f1e667]:
+            - link "Showsha" [ref=f1e668] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f1e669]:
+            - link "Opinion" [ref=f1e670] [cursor=pointer]:
+              - /url: https://www.news18.com/opinion/
+          - listitem [ref=f1e671]:
+            - link "Lifestyle" [ref=f1e672] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/
+          - listitem [ref=f1e673]:
+            - link "Business" [ref=f1e674] [cursor=pointer]:
+              - /url: https://www.news18.com/business/
+          - listitem [ref=f1e675]:
+            - link "Education-Career" [ref=f1e676] [cursor=pointer]:
+              - /url: https://www.news18.com/education-career/
+          - listitem [ref=f1e677]:
+            - link "Sports" [ref=f1e678] [cursor=pointer]:
+              - /url: https://www.news18.com/sports/
+          - listitem [ref=f1e679]:
+            - link "City News" [ref=f1e680] [cursor=pointer]:
+              - /url: https://www.news18.com/cities/
+          - listitem [ref=f1e681]:
+            - link "Elections" [ref=f1e682] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/
+      - generic [ref=f1e683]:
+        - heading "Language Sites" [level=3] [ref=f1e684]
+        - generic [ref=f1e685] [cursor=pointer]: more
+        - list [ref=f1e686]:
+          - listitem [ref=f1e687]:
+            - link "Marathi News" [ref=f1e688] [cursor=pointer]:
+              - /url: https://news18marathi.com/
+          - listitem [ref=f1e689]:
+            - link "Gujarati News" [ref=f1e690] [cursor=pointer]:
+              - /url: https://gujarati.news18.com/
+          - listitem [ref=f1e691]:
+            - link "Bengali News" [ref=f1e692] [cursor=pointer]:
+              - /url: https://bengali.news18.com/
+          - listitem [ref=f1e693]:
+            - link "Tamil News" [ref=f1e694] [cursor=pointer]:
+              - /url: https://tamil.news18.com/
+          - listitem [ref=f1e695]:
+            - link "Telugu News" [ref=f1e696] [cursor=pointer]:
+              - /url: https://telugu.news18.com/
+          - listitem [ref=f1e697]:
+            - link "Malayalam News" [ref=f1e698] [cursor=pointer]:
+              - /url: https://malayalam.news18.com/
+          - listitem [ref=f1e699]:
+            - link "Punjabi News" [ref=f1e700] [cursor=pointer]:
+              - /url: https://punjab.news18.com/
+          - listitem [ref=f1e701]:
+            - link "Urdu News" [ref=f1e702] [cursor=pointer]:
+              - /url: https://urdu.news18.com/
+          - listitem [ref=f1e703]:
+            - link "Assam News" [ref=f1e704] [cursor=pointer]:
+              - /url: https://assam.news18.com/
+          - listitem [ref=f1e705]:
+            - link "Odia News" [ref=f1e706] [cursor=pointer]:
+              - /url: https://odia.news18.com/
+          - listitem [ref=f1e707]:
+            - link "Kannada News" [ref=f1e708] [cursor=pointer]:
+              - /url: https://kannada.news18.com/
+      - generic [ref=f1e709]:
+        - heading "Network18 Group Sites" [level=3] [ref=f1e710]
+        - generic [ref=f1e711] [cursor=pointer]: more
+        - list [ref=f1e712]:
+          - listitem [ref=f1e713]:
+            - link "Moneycontrol" [ref=f1e714] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/
+          - listitem [ref=f1e715]:
+            - link "Firstpost" [ref=f1e716] [cursor=pointer]:
+              - /url: https://www.firstpost.com/
+          - listitem [ref=f1e717]:
+            - link "CNBCTV18" [ref=f1e718] [cursor=pointer]:
+              - /url: https://www.cnbctv18.com/
+          - listitem [ref=f1e719]:
+            - link "History India" [ref=f1e720] [cursor=pointer]:
+              - /url: https://www.historyindia.com/
+          - listitem [ref=f1e721]:
+            - link "MTV India" [ref=f1e722] [cursor=pointer]:
+              - /url: https://www.mtvindia.com/
+    - generic [ref=f1e723]:
+      - img "News18" [ref=f1e724]
+      - generic [ref=f1e725]:
+        - generic [ref=f1e726]: Follow Us On
+        - generic [ref=f1e727]:
+          - link [ref=f1e728] [cursor=pointer]:
+            - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+          - link [ref=f1e729] [cursor=pointer]:
+            - /url: https://www.facebook.com/cnnnews18/
+          - link [ref=f1e730] [cursor=pointer]:
+            - /url: https://twitter.com/CNNnews18
+          - link [ref=f1e731] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC3prwMn9aU2z5Y158ZdGyyA
+          - link [ref=f1e732] [cursor=pointer]:
+            - /url: https://news18.co/n18egpi
+          - link [ref=f1e733] [cursor=pointer]:
+            - /url: https://www.instagram.com/cnnnews18
+      - generic [ref=f1e734]:
+        - generic [ref=f1e735]: News18 App
+        - link [ref=f1e736] [cursor=pointer]:
+          - /url: https://onelink.to/eng-web-other
+          - generic [ref=f1e737]:
+            - img "app download" [ref=f1e739]
+            - text: Download Now
+      - list [ref=f1e741]:
+        - listitem [ref=f1e742]:
+          - link "About Us" [ref=f1e743] [cursor=pointer]:
+            - /url: https://www.news18.com/about_us/
+        - listitem [ref=f1e744]:
+          - link "Cookie Policy" [ref=f1e745] [cursor=pointer]:
+            - /url: https://www.news18.com/cookie-policy.html
+        - listitem [ref=f1e746]:
+          - link "Disclaimer" [ref=f1e747] [cursor=pointer]:
+            - /url: https://www.news18.com/disclaimer/
+        - listitem [ref=f1e748]:
+          - link "Contact Us" [ref=f1e749] [cursor=pointer]:
+            - /url: https://www.news18.com/contact-us.html
+        - listitem [ref=f1e750]:
+          - link "RSS" [ref=f1e751] [cursor=pointer]:
+            - /url: https://www.news18.com/rss/
+        - listitem [ref=f1e752]:
+          - link "Complaint Redressal" [ref=f1e753] [cursor=pointer]:
+            - /url: https://www.news18.com/complaint/
+        - listitem [ref=f1e754]:
+          - link "Advertise with Us" [ref=f1e755] [cursor=pointer]:
+            - /url: https://adwise.nw18.com/
+        - listitem [ref=f1e756]:
+          - link "Sitemap" [ref=f1e757] [cursor=pointer]:
+            - /url: https://www.news18.com/sitemap/
+        - listitem [ref=f1e758]:
+          - link "Privacy Policy" [ref=f1e759] [cursor=pointer]:
+            - /url: https://www.news18.com/privacy_policy/
+    - generic [ref=f1e760]:
+      - generic [ref=f1e761]: CNN name, logo and all associated elements ® and © 2026 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2026. All rights reserved.
+      - link [ref=f1e762] [cursor=pointer]:
+        - /url: https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf
+        - img "bsi logo" [ref=f1e763]

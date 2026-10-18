@@ -1,0 +1,746 @@
+- generic [ref=f52e2]:
+  - banner [ref=f52e3]:
+    - generic [ref=f52e4]:
+      - generic [ref=f52e5]:
+        - generic [ref=f52e6]:
+          - link [ref=f52e7] [cursor=pointer]:
+            - /url: https://www.news18.com/
+          - generic [ref=f52e21]:
+            - generic [ref=f52e22] [cursor=pointer]: English Edition
+            - generic [ref=f52e24]: Wed, Oct 14, 2026 | 02:36 PM
+        - generic [ref=f52e25]:
+          - link "Download News18 APP" [ref=f52e26] [cursor=pointer]:
+            - /url: https://onelink.to/eng-web-other
+          - link "Watch LIVE TV" [ref=f52e32] [cursor=pointer]:
+            - /url: /livetv/
+          - link [ref=f52e36] [cursor=pointer]:
+            - /url: https://www.news18.com/for-you/
+      - generic [ref=f52e38]:
+        - navigation [ref=f52e39]:
+          - list [ref=f52e40]:
+            - listitem [ref=f52e41]:
+              - link "Home" [ref=f52e42] [cursor=pointer]:
+                - /url: https://www.news18.com/
+            - listitem [ref=f52e43]:
+              - link "India" [ref=f52e44] [cursor=pointer]:
+                - /url: https://www.news18.com/india/
+            - listitem [ref=f52e45]:
+              - link "World" [ref=f52e46] [cursor=pointer]:
+                - /url: https://www.news18.com/world/
+            - listitem [ref=f52e47]:
+              - link "Explainers" [ref=f52e48] [cursor=pointer]:
+                - /url: https://www.news18.com/explainers/
+            - listitem [ref=f52e49]:
+              - link "DataPop" [ref=f52e50] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/data-graphics/
+            - listitem [ref=f52e51]:
+              - link "Cricket" [ref=f52e53] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/
+            - listitem [ref=f52e54]:
+              - link "Cities" [ref=f52e56] [cursor=pointer]:
+                - /url: https://www.news18.com/cities/
+            - listitem [ref=f52e57]:
+              - link "Movies" [ref=f52e59] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/
+            - listitem [ref=f52e60]:
+              - link "Lifestyle" [ref=f52e62] [cursor=pointer]:
+                - /url: https://www.news18.com/lifestyle/
+            - listitem [ref=f52e63]:
+              - link "Business" [ref=f52e65] [cursor=pointer]:
+                - /url: https://www.news18.com/business/
+            - listitem [ref=f52e66]:
+              - link "Tech2" [ref=f52e67] [cursor=pointer]:
+                - /url: https://www.tech2.com/
+            - listitem [ref=f52e68]:
+              - link "Latest" [ref=f52e69] [cursor=pointer]:
+                - /url: https://www.news18.com/news/
+            - listitem [ref=f52e70]:
+              - generic [ref=f52e71]: More
+        - link [ref=f52e73] [cursor=pointer]:
+          - /url: https://www.news18.com/notifications/
+        - generic [ref=f52e78] [cursor=pointer]:
+          - img "ask search icon" [ref=f52e79]
+          - generic [ref=f52e80]: ask news18
+        - button "Sign in" [ref=f52e81] [cursor=pointer]
+  - generic [ref=f52e83]:
+    - generic [ref=f52e84]: "TRENDING:"
+    - list [ref=f52e89]:
+      - listitem [ref=f52e90]:
+        - link "Jantar Mantar Protest" [ref=f52e91] [cursor=pointer]:
+          - /url: https://www.news18.com/india/saurav-das-ashutosh-ranka-5-day-judicial-custody-jantar-mantar-protest-row-cockroach-janta-party-cjp-ws-l-10380892.html
+      - listitem [ref=f52e92]:
+        - link "Rahul Gandhi" [ref=f52e93] [cursor=pointer]:
+          - /url: https://www.news18.com/india/resistance-will-continue-rahul-gandhi-tells-india-bloc-to-stay-ready-to-mobilise-in-24-hours-ws-lrs-10380826.html
+      - listitem [ref=f52e94]:
+        - link "India US Trade Deal" [ref=f52e95] [cursor=pointer]:
+          - /url: https://www.news18.com/india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+      - listitem [ref=f52e96]:
+        - link "Delhi CJP News" [ref=f52e97] [cursor=pointer]:
+          - /url: https://www.news18.com/india/delhi-police-two-firs-against-cjp-jantar-mantar-protest-saurav-das-ashutosh-ranka-abhijeet-dipke-ws-l-10380926.html
+      - listitem [ref=f52e98]:
+        - link "Saudi Houthis War" [ref=f52e99] [cursor=pointer]:
+          - /url: https://www.news18.com/world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+      - listitem [ref=f52e100]:
+        - link "#NiveshKaSahiKadam" [ref=f52e101] [cursor=pointer]:
+          - /url: https://www.news18features.com/niveshkasahikadam/
+      - listitem [ref=f52e102]:
+        - link "#ReelAwards2026" [ref=f52e103] [cursor=pointer]:
+          - /url: https://www.news18features.com/reel-awards-2026/
+      - listitem [ref=f52e104]:
+        - link "Instant Loans" [ref=f52e105] [cursor=pointer]:
+          - /url: https://www.moneycontrolpay.com/?utm_source=TrendingEngWeb
+    - list [ref=f52e106]:
+      - listitem [ref=f52e107]: Follow Us
+      - listitem [ref=f52e108]:
+        - link [ref=f52e109] [cursor=pointer]:
+          - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+      - listitem [ref=f52e110]:
+        - link [ref=f52e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/cnnnews18/
+      - listitem [ref=f52e112]:
+        - link [ref=f52e113] [cursor=pointer]:
+          - /url: https://twitter.com/CNNnews18
+      - listitem [ref=f52e114]:
+        - link [ref=f52e115] [cursor=pointer]:
+          - /url: https://www.youtube.com/cnnnews18
+      - listitem [ref=f52e116]:
+        - link [ref=f52e117] [cursor=pointer]:
+          - /url: https://news18.co/n18egpi
+      - listitem [ref=f52e118]:
+        - link [ref=f52e119] [cursor=pointer]:
+          - /url: https://www.instagram.com/cnnnews18/
+  - generic [ref=f52e120]: Advertisement
+  - generic [ref=f52e123]:
+    - main [ref=f52e124]:
+      - generic [ref=f52e125]:
+        - generic [ref=f52e126]:
+          - generic [ref=f52e127]:
+            - link "home /" [ref=f52e128] [cursor=pointer]:
+              - /url: /
+            - generic [ref=f52e129]: world
+          - heading "World News" [level=1] [ref=f52e131]
+          - heading "Stay informed with our latest breaking news coverage on global affairs" [level=3] [ref=f52e132]
+          - link [ref=f52e133] [cursor=pointer]:
+            - /url: /world/pakistan-pledges-full-military-resources-to-defend-saudi-arabia-under-mecca-pact-exclusive-details-ws-lrt-10380631.html
+            - figure [ref=f52e134]:
+              - img "Pakistan Pledges Full Military Resources To Defend Saudi Arabia Under Mecca Pact | Exclusive Details" [ref=f52e135]
+            - heading "Pakistan Pledges Full Military Resources To Defend Saudi Arabia Under Mecca Pact | Exclusive Details" [level=2] [ref=f52e137]
+          - list [ref=f52e139]:
+            - listitem [ref=f52e140]:
+              - link [ref=f52e141] [cursor=pointer]:
+                - /url: /world/pakistani-student-offering-prayers-on-road-killed-in-australia-hit-and-run-convict-avoids-jail-term-10380612.html
+                - heading "Pakistani Student Offering 'Prayers' On Road Killed In Australia Hit-And-Run; Convict Avoids Jail Term" [level=3] [ref=f52e143]
+            - listitem [ref=f52e144]:
+              - link [ref=f52e145] [cursor=pointer]:
+                - /url: /world/366-million-and-counting-how-elon-musk-is-bankrolling-republicans-ahead-of-us-midterms-10380587.html
+                - 'heading "$366 Million And Counting: How Elon Musk Is Bankrolling Republicans Ahead Of US Midterms" [level=3] [ref=f52e147]'
+            - listitem [ref=f52e148]:
+              - link [ref=f52e149] [cursor=pointer]:
+                - /url: /world/humanoid-robot-resembling-iron-man-sexually-assaults-16-year-old-in-germany-police-seize-bot-10380384.html
+                - 'heading "Humanoid Robot Sexually Assaults 16-Year-Old Girl In Germany: ''Touched Buttocks, Made Thrusting Motions''" [level=3] [ref=f52e151]'
+        - generic [ref=f52e152]:
+          - heading "Latest world News" [level=2] [ref=f52e154]
+          - list [ref=f52e155]:
+            - listitem [ref=f52e156]:
+              - link [ref=f52e157] [cursor=pointer]:
+                - /url: /world/who-will-hold-generals-accountable-anp-chiefs-questions-on-pakistans-terror-policy-exclusive-ws-l-10381438.html
+                - figure [ref=f52e158]:
+                  - img "Awami National Party (ANP) chief Aimal Wali Khan" [ref=f52e159]
+                - heading "Who Will Hold Generals Accountable?' ANP Chief's Questions On Pakistan's Terror Policy | Exclusive" [level=3] [ref=f52e160]
+            - listitem [ref=f52e161]:
+              - link [ref=f52e162] [cursor=pointer]:
+                - /url: /world/better-late-than-never-china-north-korea-to-open-long-delayed-bridge-after-12-years-ws-l-10381406.html
+                - figure [ref=f52e163]:
+                  - img "Better Late Than Never? China, North Korea To Open Long-Delayed Bridge After 12 Years" [ref=f52e164]
+                - heading "Better Late Than Never? China, North Korea To Open Long-Delayed Bridge After 12 Years" [level=3] [ref=f52e165]
+            - listitem [ref=f52e166]:
+              - link [ref=f52e167] [cursor=pointer]:
+                - /url: /explainers/elder-abuse-property-grab-can-land-you-in-jail-under-keralas-senior-citizens-bill-ws-lr-10381328.html
+                - figure [ref=f52e168]:
+                  - img "Elder Abuse, Property Grab Can Land You In Jail Under Kerala's Senior Citizens Bill" [ref=f52e169]
+                - heading "Elder Abuse, Property Grab Can Land You In Jail Under Kerala's Senior Citizens Bill" [level=3] [ref=f52e170]
+            - listitem [ref=f52e171]:
+              - link [ref=f52e172] [cursor=pointer]:
+                - /url: /videos/originals/saudi-arabias-missile-alert-silence-before-riyadh-airport-attacks-raises-questions-10381380.html
+                - figure [ref=f52e173]:
+                  - img "Saudi Arabia’s Missile Alert Silence Before Riyadh Airport Attacks Raises Questions" [ref=f52e174]
+                - heading "Saudi Arabia’s Missile Alert Silence Before Riyadh Airport Attacks Raises Questions" [level=3] [ref=f52e176]
+            - listitem [ref=f52e177]:
+              - link [ref=f52e178] [cursor=pointer]:
+                - /url: /videos/originals/greta-thunberg-joins-france-student-protests-tear-gas-fired-as-macron-faces-pressure-10381378.html
+                - figure [ref=f52e179]:
+                  - 'img "Greta Thunberg Joins France Student Protests: Tear Gas Fired As Macron Faces Pressure" [ref=f52e180]'
+                - 'heading "Greta Thunberg Joins France Student Protests: Tear Gas Fired As Macron Faces Pressure" [level=3] [ref=f52e182]'
+            - listitem [ref=f52e183]:
+              - link [ref=f52e184] [cursor=pointer]:
+                - /url: /videos/originals/yemen-escalation-sanaa-hit-by-explosions-houthis-threaten-painful-retaliation-against-riyadh-10381373.html
+                - figure [ref=f52e185]:
+                  - 'img "Yemen Escalation: Sanaa Hit By Explosions, Houthis Threaten ‘Painful’ Retaliation Against Riyadh" [ref=f52e186]'
+                - 'heading "Yemen Escalation: Sanaa Hit By Explosions, Houthis Threaten ‘Painful’ Retaliation Against Riyadh" [level=3] [ref=f52e188]'
+            - listitem [ref=f52e189]:
+              - link [ref=f52e190] [cursor=pointer]:
+                - /url: /videos/originals/fatal-six-flags-rollercoaster-ride-what-happens-next-after-9-coasters-are-shut-down-10381359.html
+                - figure [ref=f52e191]:
+                  - 'img "Fatal Six Flags Rollercoaster Ride: What Happens Next After 9 Coasters Are Shut Down?" [ref=f52e192]'
+                - 'heading "Fatal Six Flags Rollercoaster Ride: What Happens Next After 9 Coasters Are Shut Down?" [level=3] [ref=f52e194]'
+            - listitem [ref=f52e195]:
+              - link [ref=f52e196] [cursor=pointer]:
+                - /url: /world/us-donors-funding-abhijeet-dipke-cjp-singer-mary-millben-urges-young-indians-to-back-pm-modi-ws-l-10381310.html
+                - figure [ref=f52e197]:
+                  - 'img "''US Donors Funding Abhijeet Dipke, CJP'': Singer Mary Millben Urges Young Indians To Back PM Modi" [ref=f52e198]'
+                - 'heading "''US Donors Funding Abhijeet Dipke, CJP'': Singer Mary Millben Urges Young Indians To Back PM Modi" [level=3] [ref=f52e199]'
+            - listitem [ref=f52e200]:
+              - link [ref=f52e201] [cursor=pointer]:
+                - /url: /world/protests-continue-in-pakistans-khyber-pakhtunkhwa-against-emergency-15-injured-in-police-crackdown-ws-l-10381176.html
+                - figure [ref=f52e202]:
+                  - img "Protests continue in Khyber Pakhtunkhwa." [ref=f52e203]
+                - heading "Protests Continue In Pakistan's Khyber Pakhtunkhwa Against Emergency, 15 Injured In Police Crackdown" [level=3] [ref=f52e204]
+            - listitem [ref=f52e205]:
+              - link [ref=f52e206] [cursor=pointer]:
+                - /url: /world/us-ends-automatic-work-permit-extensions-immigrants-us-department-of-homeland-security-ws-l-10381134.html
+                - figure [ref=f52e207]:
+                  - img "US Ends Automatic Work Permit Extensions For Immigrants" [ref=f52e208]
+                - heading "US Ends Automatic Work Permit Extensions For Immigrants; H-1B Spouses, Asylum Seekers Affected" [level=3] [ref=f52e209]
+            - listitem [ref=f52e210]:
+              - link [ref=f52e211] [cursor=pointer]:
+                - /url: /world/pakistan-curbs-media-freedom-restricts-live-coverage-of-riots-protests-over-khyber-pakhtunkhwa-ws-l-10381088.html
+                - figure [ref=f52e212]:
+                  - 'img "Police officers detain a supporters of imprisoned former Prime Minister Imran Khan''s party during a protest against the Pakistani president declared a state of emergency in northwestern Khyber Pakhtunkhwa province and suspended its government. (Image: AP)" [ref=f52e213]'
+                - heading "Pakistan Curbs Media Freedom, Restricts Live Coverage Of Riots, Protests Over Khyber Pakhtunkhwa" [level=3] [ref=f52e214]
+            - listitem [ref=f52e215]:
+              - link [ref=f52e216] [cursor=pointer]:
+                - /url: /viral/man-says-hes-working-from-home-but-his-laptop-location-gets-him-fired-from-company-ws-l-10381083.html
+                - figure [ref=f52e217]:
+                  - img "Man Says He’s Working From Home, But His Laptop Location Gets Him Fired From Company" [ref=f52e218]
+                - heading "Man Says He’s Working From Home But His Laptop Location Gets Him Fired From Company" [level=3] [ref=f52e219]
+            - listitem [ref=f52e220]:
+              - link [ref=f52e221] [cursor=pointer]:
+                - /url: /world/my-president-sorry-my-husband-the-14-minute-disastrous-debut-of-trumps-new-press-secretary-ws-l-10380996.html
+                - figure [ref=f52e222]:
+                  - img "Katie Zacharia spent much of her opening statement praising Trump and promoting his administration’s record. (AFP)" [ref=f52e223]
+                - 'heading "''My President… Sorry, My Husband'': The 14-Minute Disastrous Debut Of Trump''s New Press Secretary" [level=3] [ref=f52e224]'
+            - listitem [ref=f52e225]:
+              - link [ref=f52e226] [cursor=pointer]:
+                - /url: /viral/my-president-sorry-my-husband-trumps-new-white-house-press-secretary-katie-zacharias-awkward-debut-goes-viral-ws-l-10380985.html
+                - figure [ref=f52e227]:
+                  - 'img "''My President, Sorry, My Husband'': Trump''s New White House Press Secretary Katie Zacharia’s Awkward Debut Goes Viral" [ref=f52e228]'
+                - 'heading "''My President, Sorry, My Husband'': Trump''s New White House Press Secretary Katie Zacharia’s Awkward Debut Goes Viral" [level=3] [ref=f52e229]'
+            - listitem [ref=f52e230]:
+              - link [ref=f52e231] [cursor=pointer]:
+                - /url: /world/why-netanyahu-wants-saudi-arabia-to-let-israel-join-war-against-houthis-in-yemen-ws-l-10380951.html
+                - figure [ref=f52e232]:
+                  - img "Israel Prime Minister Benjamin Netanyahu" [ref=f52e233]
+                - heading "Why Netanyahu Wants Saudi Arabia To Let Israel Join War Against Houthis In Yemen" [level=3] [ref=f52e234]
+            - listitem [ref=f52e235]:
+              - link [ref=f52e236] [cursor=pointer]:
+                - /url: /india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+                - figure [ref=f52e237]:
+                  - img "External Affairs Minister S Jaishankar. (PTI photo)" [ref=f52e238]
+                - 'heading "‘Partnership, Not Alliance’: Jaishankar On India-US Ties And The Bigger Shift Behind Tariffs" [level=3] [ref=f52e239]'
+            - listitem [ref=f52e240]:
+              - link [ref=f52e241] [cursor=pointer]:
+                - /url: /world/its-all-about-oil-how-iran-is-shifting-its-strait-of-hormuz-strategy-to-influence-us-elections-ws-l-10380814.html
+                - figure [ref=f52e242]:
+                  - img "US military escorts 40 commercial oil vessels through the Strait of Hormuz" [ref=f52e243]
+                - 'heading "It''s All About Oil: How Iran Is Shifting Its Strait Of Hormuz Strategy To Influence US Elections" [level=3] [ref=f52e244]'
+            - listitem [ref=f52e245]:
+              - link [ref=f52e246] [cursor=pointer]:
+                - /url: /world/trump-says-us-still-sharing-intel-with-ukraine-were-working-to-end-war-ws-l-10380795.html
+                - figure [ref=f52e247]:
+                  - 'img "Trump Says US Still Sharing Intel With Ukraine: ‘We’re Working To End War’" [ref=f52e248]'
+                - 'heading "Trump Says US Still Sharing Intel With Ukraine: ‘We’re Working To End War’" [level=3] [ref=f52e249]'
+            - listitem [ref=f52e250]:
+              - link [ref=f52e251] [cursor=pointer]:
+                - /url: /world/pope-leo-diagnosed-with-lung-cancer-after-surgery-to-remove-part-of-right-lung-10380784.html
+                - figure [ref=f52e252]:
+                  - img "Pope Leo Diagnosed With Lung Cancer After Surgery To Remove Part Of Right Lung" [ref=f52e253]
+                - heading "Pope Leo Diagnosed With Lung Cancer After Surgery To Remove Part Of Right Lung" [level=3] [ref=f52e254]
+            - listitem [ref=f52e255]:
+              - link [ref=f52e256] [cursor=pointer]:
+                - /url: /world/fbi-arrests-saudi-openai-worker-for-planting-bug-in-office-attempted-to-capture-sensitive-data-10380779.html
+                - figure [ref=f52e257]:
+                  - 'img "The OpenAI logo in this illustration taken June 11, 2026. (Source: Reuters)" [ref=f52e258]'
+                - 'heading "FBI Arrests Saudi OpenAI Worker For Planting Bug In Office: ''Attempted To Capture Sensitive Data''" [level=3] [ref=f52e259]'
+            - listitem [ref=f52e260]:
+              - link [ref=f52e261] [cursor=pointer]:
+                - /url: /world/marco-rubio-to-begin-5-day-india-visit-on-saturday-us-india-energy-cooperation-on-agenda-ws-l-10380759.html
+                - figure [ref=f52e262]:
+                  - 'img "Marco Rubio called Iran the troublemaker of West Asia and warned ASEAN that blockades of straits could set a dangerous precedent. (Image source: Reuters)" [ref=f52e263]'
+                - heading "Marco Rubio To Begin 5-Day India Visit On Saturday; US-India Energy Cooperation On Agenda" [level=3] [ref=f52e264]
+            - listitem [ref=f52e265]:
+              - link [ref=f52e266] [cursor=pointer]:
+                - /url: /world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+                - figure [ref=f52e267]:
+                  - img "Aramco HQ Complex Hit In Dhahran, 4 Hurt In Riyadh By Debris As Saudi-Houthi Fight Escalates" [ref=f52e268]
+                - heading "Aramco HQ Complex Hit In Dhahran, 4 Hurt In Riyadh By Debris As Saudi-Houthi Fight Escalates" [level=3] [ref=f52e269]
+            - listitem [ref=f52e270]:
+              - link [ref=f52e271] [cursor=pointer]:
+                - /url: /world/us-treasury-hits-bank-of-america-with-1-2b-in-penalties-over-suspicious-transactions-lapses-ws-l-10380751.html
+                - figure [ref=f52e272]:
+                  - img "US Treasury Hits Bank Of America With $1.2B+ In Penalties Over Suspicious Transactions Lapses" [ref=f52e273]
+                - heading "US Treasury Hits Bank Of America With $1.2B+ In Penalties Over Suspicious Transactions Lapses" [level=3] [ref=f52e274]
+            - listitem [ref=f52e275]:
+              - link [ref=f52e276] [cursor=pointer]:
+                - /url: /world/pm-modi-carney-reaffirm-push-to-seal-cepa-at-earliest-opportunity-double-trade-by-2030-ws-l-10380747.html
+                - figure [ref=f52e277]:
+                  - img "PM Modi, Carney Reaffirm Push To Seal CEPA 'At Earliest Opportunity', Double Trade By 2030" [ref=f52e278]
+                - heading "PM Modi, Carney Reaffirm Push To Seal CEPA 'At Earliest Opportunity', Double Trade By 2030" [level=3] [ref=f52e279]
+            - listitem [ref=f52e280]:
+              - link [ref=f52e281] [cursor=pointer]:
+                - /url: /world/netanyahu-seeks-to-join-saudi-fight-against-houthis-mbs-rejects-bid-over-backlash-fears-ws-l-10380736.html
+                - figure [ref=f52e282]:
+                  - 'img "Netanyahu Seeks To Join Saudi Fight Against Houthis, MBS Rejects Bid Over Backlash Fears: Report" [ref=f52e283]'
+                - 'heading "Netanyahu Seeks To Join Saudi Fight Against Houthis, MBS Rejects Bid Over Backlash Fears: Report" [level=3] [ref=f52e284]'
+            - listitem [ref=f52e285]:
+              - link [ref=f52e286] [cursor=pointer]:
+                - /url: /videos/breaking-news/debt-stricken-pak-to-lead-borrowers-platform-on-sidelines-of-world-bank-imf-meetings-in-bangkok-10380720.html
+                - figure [ref=f52e287]:
+                  - img "Debt-Stricken Pak To Lead Borrowers' Platform On Sidelines Of World Bank-IMF Meetings In Bangkok" [ref=f52e288]
+                - heading "Debt-Stricken Pak To Lead Borrowers' Platform On Sidelines Of World Bank-IMF Meetings In Bangkok" [level=3] [ref=f52e290]
+            - listitem [ref=f52e291]:
+              - link [ref=f52e292] [cursor=pointer]:
+                - /url: /world/guilfoyles-greek-tragedy-how-trump-campaign-advisers-athens-ambassadorship-unravelled-in-less-than-a-year-ws-lr-10380701.html
+                - figure [ref=f52e293]:
+                  - img "US Secretary of State Rubio visits Greece" [ref=f52e294]
+                - 'heading "Guilfoyle’s Greek Tragedy: How Trump Campaign Adviser’s Athens Ambassadorship Unravelled In Less Than A Year" [level=3] [ref=f52e295]'
+            - listitem [ref=f52e296]:
+              - link [ref=f52e297] [cursor=pointer]:
+                - /url: /world/british-spy-chief-confirms-russian-interference-attempts-in-brexit-vote-after-uk-pms-claim-ws-l-10380686.html
+                - figure [ref=f52e298]:
+                  - img "British Spy Chief Confirms Russian Interference Attempts In Brexit Vote After UK PM's Claim" [ref=f52e299]
+                - heading "British Spy Chief Confirms Russian Interference Attempts In Brexit Vote After UK PM's Claim" [level=3] [ref=f52e300]
+            - listitem [ref=f52e301]:
+              - link [ref=f52e302] [cursor=pointer]:
+                - /url: /world/the-smart-worms-living-in-your-appliances-anthropic-warns-ai-could-self-replicate-on-home-devices-soon-ws-lr-10380677.html
+                - figure [ref=f52e303]:
+                  - img "'Worst in Show' CES products include AI refrigerators, AI companions and AI doorbells" [ref=f52e304]
+                - 'heading "The ''Smart Worms'' Living In Your Appliances: Anthropic Warns AI Could Self-Replicate On Home Devices Soon" [level=3] [ref=f52e305]'
+            - listitem [ref=f52e306]:
+              - link [ref=f52e307] [cursor=pointer]:
+                - /url: /videos/breaking-news/pakistan-s-khyber-pakhtunkhwa-sees-massive-protests-against-emergency-more-arrests-amid-crackdown-10380694.html
+                - figure [ref=f52e308]:
+                  - img "Pakistan’s Khyber Pakhtunkhwa Sees Massive Protests Against Emergency, More Arrests Amid Crackdown" [ref=f52e309]
+                - heading "Pakistan’s Khyber Pakhtunkhwa Sees Massive Protests Against Emergency, More Arrests Amid Crackdown" [level=3] [ref=f52e311]
+            - listitem [ref=f52e312]:
+              - link [ref=f52e313] [cursor=pointer]:
+                - /url: /world/trump-says-houthis-attacking-saudi-at-irans-behest-to-drive-up-oil-prices-before-us-midterms-ws-l-10380630.html
+                - figure [ref=f52e314]:
+                  - img "Donald Trump" [ref=f52e315]
+                - heading "Trump Says Houthis Attacking Saudi At Iran's Behest To Drive Up Oil Prices Before US Midterms" [level=3] [ref=f52e316]
+            - listitem [ref=f52e317]:
+              - link [ref=f52e318] [cursor=pointer]:
+                - /url: /world/pakistan-pledges-full-military-resources-to-defend-saudi-arabia-under-mecca-pact-exclusive-details-ws-lrt-10380631.html
+                - figure [ref=f52e319]:
+                  - img "Pakistan’s Defence Minister Khawaja Asif" [ref=f52e320]
+                - heading "Pakistan Pledges Full Military Resources To Defend Saudi Arabia Under Mecca Pact | Exclusive Details" [level=3] [ref=f52e321]
+            - listitem [ref=f52e322]:
+              - link [ref=f52e323] [cursor=pointer]:
+                - /url: /videos/world/saudi-arabia-under-fire-houthi-missile-strikes-airports-flights-cancelled-as-india-warns-citizens-10380652.html
+                - figure [ref=f52e324]:
+                  - 'img "Saudi Arabia Under Fire: Houthi Missile Strikes Airports, Flights Cancelled As India Warns Citizens" [ref=f52e325]'
+                - 'heading "Saudi Arabia Under Fire: Houthi Missile Strikes Airports, Flights Cancelled As India Warns Citizens" [level=3] [ref=f52e327]'
+        - generic [ref=f52e328]:
+          - link "1" [ref=f52e329] [cursor=pointer]:
+            - /url: /world/
+          - link "2" [ref=f52e330] [cursor=pointer]:
+            - /url: /world/page-2/
+          - link "3" [ref=f52e331] [cursor=pointer]:
+            - /url: /world/page-3/
+          - link "4" [ref=f52e332] [cursor=pointer]:
+            - /url: /world/page-4/
+          - link "5" [ref=f52e333] [cursor=pointer]:
+            - /url: /world/page-5/
+          - link [ref=f52e334] [cursor=pointer]:
+            - /url: /world/page-2/
+        - generic [ref=f52e335]:
+          - link [ref=f52e337] [cursor=pointer]:
+            - /url: https://www.news18.com/web-stories/news/
+            - heading "Web stories" [level=2] [ref=f52e338]
+          - link "The 10 coolest streets in the world" [ref=f52e342] [cursor=pointer]:
+            - /url: https://www.news18.com/web-stories/world/the-10-coolest-streets-in-the-world-1936130/
+            - figure [ref=f52e343]:
+              - img "The 10 coolest streets in the world" [ref=f52e344]
+        - generic [ref=f52e346]:
+          - heading [level=2] [ref=f52e347]:
+            - text: Videos
+            - link "View More" [ref=f52e348] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/breaking-news/
+          - generic [ref=f52e349]:
+            - link [ref=f52e351] [cursor=pointer]:
+              - /url: /videos/originals/saudi-arabias-missile-alert-silence-before-riyadh-airport-attacks-raises-questions-10381380.html
+              - img "Video widget" [ref=f52e353]
+              - heading "Saudi Arabia’s Missile Alert Silence Before Riyadh Airport Attacks Raises Questions" [level=3] [ref=f52e355]
+            - generic [ref=f52e356]:
+              - link [ref=f52e358] [cursor=pointer]:
+                - /url: /videos/originals/greta-thunberg-joins-france-student-protests-tear-gas-fired-as-macron-faces-pressure-10381378.html
+                - img "Video widget" [ref=f52e360]
+                - 'heading "Greta Thunberg Joins France Student Protests: Tear Gas Fired As Macron Faces Pressure" [level=3] [ref=f52e362]'
+              - link [ref=f52e364] [cursor=pointer]:
+                - /url: /videos/originals/yemen-escalation-sanaa-hit-by-explosions-houthis-threaten-painful-retaliation-against-riyadh-10381373.html
+                - img "Video widget" [ref=f52e366]
+                - 'heading "Yemen Escalation: Sanaa Hit By Explosions, Houthis Threaten ‘Painful’ Retaliation Against Riyadh" [level=3] [ref=f52e368]'
+              - link [ref=f52e370] [cursor=pointer]:
+                - /url: /videos/originals/fatal-six-flags-rollercoaster-ride-what-happens-next-after-9-coasters-are-shut-down-10381359.html
+                - img "Video widget" [ref=f52e372]
+                - 'heading "Fatal Six Flags Rollercoaster Ride: What Happens Next After 9 Coasters Are Shut Down?" [level=3] [ref=f52e374]'
+              - link [ref=f52e376] [cursor=pointer]:
+                - /url: /videos/originals/trump-vs-zelenskyy-epic-war-of-words-erupts-over-us-russia-fuel-deal-10380084.html
+                - img "Video widget" [ref=f52e378]
+                - 'heading "Trump Vs Zelenskyy: Epic War Of Words Erupts Over US-Russia Fuel Deal" [level=3] [ref=f52e380]'
+        - generic [ref=f52e381]: Advertisement
+        - generic [ref=f52e383]:
+          - heading [level=2] [ref=f52e384]:
+            - text: Photogalleries
+            - link "View More" [ref=f52e385] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/world/
+          - generic [ref=f52e386]:
+            - link [ref=f52e388] [cursor=pointer]:
+              - /url: /photogallery/world/nobel-laureates-2026-check-the-complete-list-of-winners-ws-kl-10379176.html
+              - img "Photogallery widget" [ref=f52e390]
+              - 'heading "Nobel Laureates 2026: Check The Complete List Of Winners" [level=3] [ref=f52e392]'
+            - generic [ref=f52e393]:
+              - link [ref=f52e395] [cursor=pointer]:
+                - /url: /photogallery/world/navi-pillays-journey-from-fighting-apartheid-to-shaping-international-law-in-pictures-ws-l-10375223.html
+                - img "Photogallery widget" [ref=f52e397]
+                - 'heading "Navi Pillay’s Journey From Fighting Apartheid To Shaping International Law: In Pictures" [level=3] [ref=f52e399]'
+              - link [ref=f52e401] [cursor=pointer]:
+                - /url: /photogallery/world/francis-halzen-wins-nobel-prize-in-physics-all-you-need-to-know-ws-l-10370193.html
+                - img "Photogallery widget" [ref=f52e403]
+                - 'heading "Francis Halzen Wins Nobel Prize In Physics: All You Need To Know" [level=3] [ref=f52e405]'
+              - link [ref=f52e407] [cursor=pointer]:
+                - /url: /photogallery/world/this-countrys-government-is-playing-matchmaker-to-tackle-falling-birth-rates-ws-l-10367921.html
+                - img "Photogallery widget" [ref=f52e409]
+                - heading "This Country’s Government Is Playing Matchmaker To Tackle Falling Birth Rates" [level=3] [ref=f52e411]
+              - link [ref=f52e413] [cursor=pointer]:
+                - /url: /photogallery/world/in-photos-spains-daring-human-tower-tradition-that-may-remind-you-of-dahi-handi-ws-kl-10367279.html
+                - img "Photogallery widget" [ref=f52e415]
+                - 'heading "In Photos: Spain’s Daring Human Tower Tradition That May Remind You Of Dahi Handi" [level=3] [ref=f52e417]'
+    - complementary [ref=f52e419]:
+      - generic [ref=f52e420]:
+        - generic [ref=f52e421]: Advertisement
+        - generic [ref=f52e425]:
+          - link [ref=f52e426] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+            - img "rapid read logo" [ref=f52e427]
+          - figure [ref=f52e428]
+          - link "More Rapid Read" [ref=f52e429] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+        - generic [ref=f52e432]:
+          - generic [ref=f52e433]:
+            - heading [level=2] [ref=f52e434]:
+              - link "live tv" [ref=f52e435] [cursor=pointer]:
+                - /url: https://www.news18.com/livetv/
+            - generic [ref=f52e436] [cursor=pointer]: CNN News18
+          - generic [ref=f52e437] [cursor=pointer]: Channels
+        - generic [ref=f52e446]: Advertisement
+        - generic [ref=f52e448]:
+          - heading [level=2] [ref=f52e450]:
+            - link "Astrology" [ref=f52e451] [cursor=pointer]:
+              - /url: https://www.news18.com/astrology/
+          - generic [ref=f52e452]:
+            - generic [ref=f52e453]:
+              - img [ref=f52e455]:
+                - generic [ref=f52e478]:
+                  - generic [ref=f52e479] [cursor=pointer]
+                  - generic [ref=f52e480] [cursor=pointer]
+                  - generic [ref=f52e481]:
+                    - generic [ref=f52e482] [cursor=pointer]
+                    - generic [ref=f52e483] [cursor=pointer]
+                    - generic [ref=f52e484] [cursor=pointer]
+                    - generic [ref=f52e485] [cursor=pointer]
+                    - generic [ref=f52e486] [cursor=pointer]
+              - generic [ref=f52e662]:
+                - generic [ref=f52e663]: Oct 14, 2026
+                - generic [ref=f52e666] [cursor=pointer]:
+                  - generic: Choose Zodiac
+                  - img "zodiac icon" [ref=f52e667]
+              - list [ref=f52e668]:
+                - listitem [ref=f52e669]: Today
+                - listitem [ref=f52e670]: Weekly
+                - listitem [ref=f52e671]: Monthly
+                - listitem [ref=f52e672]: Yearly
+              - generic [ref=f52e673]:
+                - text: ...
+                - link "read more" [ref=f52e674] [cursor=pointer]:
+                  - /url: https://www.news18.com/astrology/
+            - generic [ref=f52e675]:
+              - list
+          - link "More Astrology News" [ref=f52e676] [cursor=pointer]:
+            - /url: https://www.news18.com/astrology/
+        - generic [ref=f52e677]:
+          - heading [level=2] [ref=f52e679]:
+            - link "Trending Videos" [ref=f52e680] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - link "More Trending Videos" [ref=f52e681] [cursor=pointer]:
+            - /url: https://www.news18.com/videos/
+        - generic [ref=f52e682]:
+          - heading [level=2] [ref=f52e683]:
+            - paragraph [ref=f52e684]: Latest Blogs
+          - link [ref=f52e686] [cursor=pointer]:
+            - /url: ""
+            - figure [ref=f52e687]
+        - generic [ref=f52e689]:
+          - heading [level=2] [ref=f52e690]:
+            - link "Photogalleries" [ref=f52e691] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - generic [ref=f52e694]:
+            - emphasis
+          - link "More Photogalleries" [ref=f52e698] [cursor=pointer]:
+            - /url: https://www.news18.com/photogallery/
+        - generic [ref=f52e700]: Advertisement
+  - contentinfo [ref=f52e703]:
+    - generic [ref=f52e704]:
+      - generic [ref=f52e705]:
+        - heading "Trending Topics" [level=3] [ref=f52e706]
+        - generic [ref=f52e707] [cursor=pointer]: more
+        - list [ref=f52e708]:
+          - listitem [ref=f52e709]:
+            - link "Election Results Live" [ref=f52e710] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-election-results-2026-live-updates-by-election-results-today-tamil-nadu-west-bengal-assam-puducherry-vote-counting-winners-list-liveblog-ws-l-10373910.html
+          - listitem [ref=f52e711]:
+            - link "Tamil Nadu Election Results" [ref=f52e712] [cursor=pointer]:
+              - /url: https://www.news18.com/india/tamil-nadu-election-results-2026-live-updates-tn-by-election-results-today-dharapuram-madurantakam-bypolls-vote-counting-winners-list-liveblog-ws-kl-10373931.html
+          - listitem [ref=f52e713]:
+            - link "Dharapuram By Election Results 2026" [ref=f52e714] [cursor=pointer]:
+              - /url: https://www.news18.com/india/dharapuram-election-results-2026-live-updates-tamil-nadu-by-poll-results-sathyabama-tvk-suganya-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-l-10373656.html
+          - listitem [ref=f52e715]:
+            - link "Bypoll Results 2026" [ref=f52e716] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-results-2026-bjp-leads-in-nandigram-rejinagar-nagaon-vijays-tvk-ahead-in-tamil-nadu-ws-l-10373823.html
+          - listitem [ref=f52e717]:
+            - link "Nandigram By Election Results 2026" [ref=f52e718] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nandigram-election-results-2026-live-updates-west-bengal-bypoll-results-hasirani-rath-bjp-milan-pradhan-congress-winner-seat-margin-eci-latest-news-2-liveblog-10373650.html
+          - listitem [ref=f52e719]:
+            - link "Assam Election Results 2026" [ref=f52e720] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/nagaon-bypoll-result-2026-live-updates-lok-sabha-debashish-sharma-sibamoni-bora-badruddin-ajmal-liveblog-ws-kl-10373638.html
+          - listitem [ref=f52e721]:
+            - link "Madurantakam By Election Results 2026" [ref=f52e722] [cursor=pointer]:
+              - /url: https://www.news18.com/india/madurantakam-election-results-2026-live-updates-tamil-nadu-bypoll-results-maragatham-kumaravel-tvk-paranthamen-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-kl-10373652.html
+          - listitem [ref=f52e723]:
+            - link "West Bengal Election Results 2026" [ref=f52e724] [cursor=pointer]:
+              - /url: https://www.news18.com/india/rejinagar-election-results-2026-live-updates-bypolls-west-bengal-eci-latest-news-vote-counting-golam-nabi-azad-ajup-sakharav-sarkar-bjp-tmc-congress-votes-winner-liveblog-ws-l-10373660.html
+          - listitem [ref=f52e725]:
+            - link "UPI Charges" [ref=f52e726] [cursor=pointer]:
+              - /url: https://www.news18.com/business/banking-finance/upi-mdr-charges-npci-steering-committee-to-meet-today-decision-on-january-2027-deferment-likely-10373669.html
+          - listitem [ref=f52e727]:
+            - link "IND vs AUS Live Score" [ref=f52e728] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/india-a-vs-australia-a-2nd-unofficial-odi-live-score-commentary-timeline-ind-aus-2026-puducherry-liveblog-10373772.html
+          - listitem [ref=f52e729]:
+            - link "Virat Kohli" [ref=f52e730] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/virat-kohli-batting-better-than-his-peak-a-side-of-him-that-people-dont-know-ws-blrt-10373659.html
+          - listitem [ref=f52e731]:
+            - link "IND vs WI Playing 11" [ref=f52e732] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/prince-in-mayank-out-indias-likely-playing-xi-for-2nd-t20i-against-west-indies-10373392.html
+      - generic [ref=f52e733]:
+        - heading "Hot On Social" [level=3] [ref=f52e734]
+        - generic [ref=f52e735] [cursor=pointer]: more
+        - list [ref=f52e736]:
+          - listitem [ref=f52e737]:
+            - link "Nana Patekar Death" [ref=f52e738] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/nana-patekar-death-live-updates-veteran-actor-dies-at-75-goa-tributes-last-rites-liveblog-10371964.html
+          - listitem [ref=f52e739]:
+            - link "Nana Patekar Son" [ref=f52e740] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/who-is-malhar-patekar-know-all-about-nana-patekars-son-who-stayed-away-from-the-limelight-10372357.html
+          - listitem [ref=f52e741]:
+            - link "Amazon Sale 2026" [ref=f52e742] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-how-to-maximise-savings-bank-cards-exchange-prime-10372092.html
+          - listitem [ref=f52e743]:
+            - link "iPhone Price Deals" [ref=f52e744] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/iphone-17-pro-max-gets-a-price-cut-on-croma-can-be-yours-at-rs-rs-107990-10372786.html
+          - listitem [ref=f52e745]:
+            - link "Nana Patekar Cause Of Death" [ref=f52e746] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nana-patekar-dies-doctor-details-cardiac-arrest-cpr-goa-ws-l-10372022.html
+          - listitem [ref=f52e747]:
+            - link "Smart Tv Deals Amazon" [ref=f52e748] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-day-1-best-smart-tv-deals-under-25000-10372073.html
+          - listitem [ref=f52e749]:
+            - link "Navratri Colours" [ref=f52e750] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-colours-2026-day-wise-list-dates-goddesses-ws-er-10369878.html
+          - listitem [ref=f52e751]:
+            - link "Maa Durga Names" [ref=f52e752] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-2026-9-forms-maa-durga-names-significance-10370136.html
+          - listitem [ref=f52e753]:
+            - link "Navratri Fasting" [ref=f52e754] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/food/navratri-fasting-rules-2026-what-to-eat-avoid-during-vrat-ws-er-10370085.html
+          - listitem [ref=f52e755]:
+            - link "OTT Releases This Week" [ref=f52e756] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/web-series/ott-releases-this-week-reporting-live-mortal-kombat-ii-carrie-and-more-ws-kl-10368175.html
+      - generic [ref=f52e757]:
+        - heading "Popular Categories" [level=3] [ref=f52e758]
+        - generic [ref=f52e759] [cursor=pointer]: more
+        - list [ref=f52e760]:
+          - listitem [ref=f52e761]:
+            - link "Latest News" [ref=f52e762] [cursor=pointer]:
+              - /url: https://www.news18.com/news/
+          - listitem [ref=f52e763]:
+            - link "India" [ref=f52e764] [cursor=pointer]:
+              - /url: https://www.news18.com/india/
+          - listitem [ref=f52e765]:
+            - link "Movies" [ref=f52e766] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f52e767]:
+            - link "World" [ref=f52e768] [cursor=pointer]:
+              - /url: https://www.news18.com/world/
+          - listitem [ref=f52e769]:
+            - link "Politics" [ref=f52e770] [cursor=pointer]:
+              - /url: https://www.news18.com/politics/
+          - listitem [ref=f52e771]:
+            - link "Viral" [ref=f52e772] [cursor=pointer]:
+              - /url: https://www.news18.com/viral/
+          - listitem [ref=f52e773]:
+            - link "Auto" [ref=f52e774] [cursor=pointer]:
+              - /url: https://www.news18.com/auto/
+          - listitem [ref=f52e775]:
+            - link "Tech" [ref=f52e776] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/
+          - listitem [ref=f52e777]:
+            - link "Videos" [ref=f52e778] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - listitem [ref=f52e779]:
+            - link "Photos" [ref=f52e780] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - listitem [ref=f52e781]:
+            - link "Web Stories" [ref=f52e782] [cursor=pointer]:
+              - /url: https://www.news18.com/web-stories/
+          - listitem [ref=f52e783]:
+            - link "Cricket" [ref=f52e784] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/
+          - listitem [ref=f52e785]:
+            - link "Explainers" [ref=f52e786] [cursor=pointer]:
+              - /url: https://www.news18.com/explainers/
+          - listitem [ref=f52e787]:
+            - link "Showsha" [ref=f52e788] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f52e789]:
+            - link "Opinion" [ref=f52e790] [cursor=pointer]:
+              - /url: https://www.news18.com/opinion/
+          - listitem [ref=f52e791]:
+            - link "Lifestyle" [ref=f52e792] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/
+          - listitem [ref=f52e793]:
+            - link "Business" [ref=f52e794] [cursor=pointer]:
+              - /url: https://www.news18.com/business/
+          - listitem [ref=f52e795]:
+            - link "Education-Career" [ref=f52e796] [cursor=pointer]:
+              - /url: https://www.news18.com/education-career/
+          - listitem [ref=f52e797]:
+            - link "Sports" [ref=f52e798] [cursor=pointer]:
+              - /url: https://www.news18.com/sports/
+          - listitem [ref=f52e799]:
+            - link "City News" [ref=f52e800] [cursor=pointer]:
+              - /url: https://www.news18.com/cities/
+          - listitem [ref=f52e801]:
+            - link "Elections" [ref=f52e802] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/
+      - generic [ref=f52e803]:
+        - heading "Language Sites" [level=3] [ref=f52e804]
+        - generic [ref=f52e805] [cursor=pointer]: more
+        - list [ref=f52e806]:
+          - listitem [ref=f52e807]:
+            - link "Marathi News" [ref=f52e808] [cursor=pointer]:
+              - /url: https://news18marathi.com/
+          - listitem [ref=f52e809]:
+            - link "Gujarati News" [ref=f52e810] [cursor=pointer]:
+              - /url: https://gujarati.news18.com/
+          - listitem [ref=f52e811]:
+            - link "Bengali News" [ref=f52e812] [cursor=pointer]:
+              - /url: https://bengali.news18.com/
+          - listitem [ref=f52e813]:
+            - link "Tamil News" [ref=f52e814] [cursor=pointer]:
+              - /url: https://tamil.news18.com/
+          - listitem [ref=f52e815]:
+            - link "Telugu News" [ref=f52e816] [cursor=pointer]:
+              - /url: https://telugu.news18.com/
+          - listitem [ref=f52e817]:
+            - link "Malayalam News" [ref=f52e818] [cursor=pointer]:
+              - /url: https://malayalam.news18.com/
+          - listitem [ref=f52e819]:
+            - link "Punjabi News" [ref=f52e820] [cursor=pointer]:
+              - /url: https://punjab.news18.com/
+          - listitem [ref=f52e821]:
+            - link "Urdu News" [ref=f52e822] [cursor=pointer]:
+              - /url: https://urdu.news18.com/
+          - listitem [ref=f52e823]:
+            - link "Assam News" [ref=f52e824] [cursor=pointer]:
+              - /url: https://assam.news18.com/
+          - listitem [ref=f52e825]:
+            - link "Odia News" [ref=f52e826] [cursor=pointer]:
+              - /url: https://odia.news18.com/
+          - listitem [ref=f52e827]:
+            - link "Kannada News" [ref=f52e828] [cursor=pointer]:
+              - /url: https://kannada.news18.com/
+      - generic [ref=f52e829]:
+        - heading "Network18 Group Sites" [level=3] [ref=f52e830]
+        - generic [ref=f52e831] [cursor=pointer]: more
+        - list [ref=f52e832]:
+          - listitem [ref=f52e833]:
+            - link "Moneycontrol" [ref=f52e834] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/
+          - listitem [ref=f52e835]:
+            - link "Firstpost" [ref=f52e836] [cursor=pointer]:
+              - /url: https://www.firstpost.com/
+          - listitem [ref=f52e837]:
+            - link "CNBCTV18" [ref=f52e838] [cursor=pointer]:
+              - /url: https://www.cnbctv18.com/
+          - listitem [ref=f52e839]:
+            - link "History India" [ref=f52e840] [cursor=pointer]:
+              - /url: https://www.historyindia.com/
+          - listitem [ref=f52e841]:
+            - link "MTV India" [ref=f52e842] [cursor=pointer]:
+              - /url: https://www.mtvindia.com/
+    - generic [ref=f52e843]:
+      - img "News18" [ref=f52e844]
+      - generic [ref=f52e845]:
+        - generic [ref=f52e846]: Follow Us On
+        - generic [ref=f52e847]:
+          - link [ref=f52e848] [cursor=pointer]:
+            - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+          - link [ref=f52e849] [cursor=pointer]:
+            - /url: https://www.facebook.com/cnnnews18/
+          - link [ref=f52e850] [cursor=pointer]:
+            - /url: https://twitter.com/CNNnews18
+          - link [ref=f52e851] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC3prwMn9aU2z5Y158ZdGyyA
+          - link [ref=f52e852] [cursor=pointer]:
+            - /url: https://news18.co/n18egpi
+          - link [ref=f52e853] [cursor=pointer]:
+            - /url: https://www.instagram.com/cnnnews18
+      - generic [ref=f52e854]:
+        - generic [ref=f52e855]: News18 App
+        - link [ref=f52e856] [cursor=pointer]:
+          - /url: https://onelink.to/eng-web-other
+          - generic [ref=f52e857]:
+            - img "app download" [ref=f52e859]
+            - text: Download Now
+      - list [ref=f52e861]:
+        - listitem [ref=f52e862]:
+          - link "About Us" [ref=f52e863] [cursor=pointer]:
+            - /url: https://www.news18.com/about_us/
+        - listitem [ref=f52e864]:
+          - link "Cookie Policy" [ref=f52e865] [cursor=pointer]:
+            - /url: https://www.news18.com/cookie-policy.html
+        - listitem [ref=f52e866]:
+          - link "Disclaimer" [ref=f52e867] [cursor=pointer]:
+            - /url: https://www.news18.com/disclaimer/
+        - listitem [ref=f52e868]:
+          - link "Contact Us" [ref=f52e869] [cursor=pointer]:
+            - /url: https://www.news18.com/contact-us.html
+        - listitem [ref=f52e870]:
+          - link "RSS" [ref=f52e871] [cursor=pointer]:
+            - /url: https://www.news18.com/rss/
+        - listitem [ref=f52e872]:
+          - link "Complaint Redressal" [ref=f52e873] [cursor=pointer]:
+            - /url: https://www.news18.com/complaint/
+        - listitem [ref=f52e874]:
+          - link "Advertise with Us" [ref=f52e875] [cursor=pointer]:
+            - /url: https://adwise.nw18.com/
+        - listitem [ref=f52e876]:
+          - link "Sitemap" [ref=f52e877] [cursor=pointer]:
+            - /url: https://www.news18.com/sitemap/
+        - listitem [ref=f52e878]:
+          - link "Privacy Policy" [ref=f52e879] [cursor=pointer]:
+            - /url: https://www.news18.com/privacy_policy/
+    - generic [ref=f52e880]:
+      - generic [ref=f52e881]: CNN name, logo and all associated elements ® and © 2026 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2026. All rights reserved.
+      - link [ref=f52e882] [cursor=pointer]:
+        - /url: https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf
+        - img "bsi logo" [ref=f52e883]

@@ -1,0 +1,675 @@
+- generic [ref=f2e2]:
+  - banner [ref=f2e3]:
+    - generic [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - generic [ref=f2e6]:
+          - link [ref=f2e7] [cursor=pointer]:
+            - /url: https://www.news18.com/
+          - generic [ref=f2e21]:
+            - generic [ref=f2e22] [cursor=pointer]: English Edition
+            - generic [ref=f2e24]: Wed, Oct 14, 2026 | 02:05 PM
+        - generic [ref=f2e25]:
+          - link "Download News18 APP" [ref=f2e26] [cursor=pointer]:
+            - /url: https://onelink.to/eng-web-other
+          - link "Watch LIVE TV" [ref=f2e32] [cursor=pointer]:
+            - /url: /livetv/
+          - link [ref=f2e36] [cursor=pointer]:
+            - /url: https://www.news18.com/for-you/
+      - generic [ref=f2e38]:
+        - navigation [ref=f2e39]:
+          - list [ref=f2e40]:
+            - listitem [ref=f2e41]:
+              - link "Home" [ref=f2e42] [cursor=pointer]:
+                - /url: https://www.news18.com/
+            - listitem [ref=f2e43]:
+              - link "India" [ref=f2e44] [cursor=pointer]:
+                - /url: https://www.news18.com/india/
+            - listitem [ref=f2e45]:
+              - link "World" [ref=f2e46] [cursor=pointer]:
+                - /url: https://www.news18.com/world/
+            - listitem [ref=f2e47]:
+              - link "Explainers" [ref=f2e48] [cursor=pointer]:
+                - /url: https://www.news18.com/explainers/
+            - listitem [ref=f2e49]:
+              - link "DataPop" [ref=f2e50] [cursor=pointer]:
+                - /url: https://www.news18.com/topics/data-graphics/
+            - listitem [ref=f2e51]:
+              - link "Cricket" [ref=f2e53] [cursor=pointer]:
+                - /url: https://www.news18.com/cricket/
+            - listitem [ref=f2e54]:
+              - link "Cities" [ref=f2e56] [cursor=pointer]:
+                - /url: https://www.news18.com/cities/
+            - listitem [ref=f2e57]:
+              - link "Movies" [ref=f2e59] [cursor=pointer]:
+                - /url: https://www.news18.com/movies/
+            - listitem [ref=f2e60]:
+              - link "Lifestyle" [ref=f2e62] [cursor=pointer]:
+                - /url: https://www.news18.com/lifestyle/
+            - listitem [ref=f2e63]:
+              - link "Business" [ref=f2e65] [cursor=pointer]:
+                - /url: https://www.news18.com/business/
+            - listitem [ref=f2e66]:
+              - link "Tech2" [ref=f2e67] [cursor=pointer]:
+                - /url: https://www.tech2.com/
+            - listitem [ref=f2e68]:
+              - link "Latest" [ref=f2e69] [cursor=pointer]:
+                - /url: https://www.news18.com/news/
+            - listitem [ref=f2e70]:
+              - generic [ref=f2e71]: More
+        - link [ref=f2e73] [cursor=pointer]:
+          - /url: https://www.news18.com/notifications/
+        - generic [ref=f2e78] [cursor=pointer]:
+          - img "ask search icon" [ref=f2e79]
+          - generic [ref=f2e80]: ask news18
+        - button "Sign in" [ref=f2e81] [cursor=pointer]
+  - generic [ref=f2e83]:
+    - generic [ref=f2e84]: "TRENDING:"
+    - list [ref=f2e89]:
+      - listitem [ref=f2e90]:
+        - link "Jantar Mantar Protest" [ref=f2e91] [cursor=pointer]:
+          - /url: https://www.news18.com/india/saurav-das-ashutosh-ranka-5-day-judicial-custody-jantar-mantar-protest-row-cockroach-janta-party-cjp-ws-l-10380892.html
+      - listitem [ref=f2e92]:
+        - link "Rahul Gandhi" [ref=f2e93] [cursor=pointer]:
+          - /url: https://www.news18.com/india/resistance-will-continue-rahul-gandhi-tells-india-bloc-to-stay-ready-to-mobilise-in-24-hours-ws-lrs-10380826.html
+      - listitem [ref=f2e94]:
+        - link "India US Trade Deal" [ref=f2e95] [cursor=pointer]:
+          - /url: https://www.news18.com/india/partnership-not-alliance-jaishankar-on-india-us-ties-and-the-bigger-shift-behind-tariffs-ws-kl-10380813.html
+      - listitem [ref=f2e96]:
+        - link "Delhi CJP News" [ref=f2e97] [cursor=pointer]:
+          - /url: https://www.news18.com/india/delhi-police-two-firs-against-cjp-jantar-mantar-protest-saurav-das-ashutosh-ranka-abhijeet-dipke-ws-l-10380926.html
+      - listitem [ref=f2e98]:
+        - link "Saudi Houthis War" [ref=f2e99] [cursor=pointer]:
+          - /url: https://www.news18.com/world/aramco-hq-complex-hit-in-dhahran-4-hurt-in-riyadh-as-saudi-houthi-fight-escalates-ws-l-10380756.html
+      - listitem [ref=f2e100]:
+        - link "#NiveshKaSahiKadam" [ref=f2e101] [cursor=pointer]:
+          - /url: https://www.news18features.com/niveshkasahikadam/
+      - listitem [ref=f2e102]:
+        - link "#ReelAwards2026" [ref=f2e103] [cursor=pointer]:
+          - /url: https://www.news18features.com/reel-awards-2026/
+      - listitem [ref=f2e104]:
+        - link "Instant Loans" [ref=f2e105] [cursor=pointer]:
+          - /url: https://www.moneycontrolpay.com/?utm_source=TrendingEngWeb
+    - list [ref=f2e106]:
+      - listitem [ref=f2e107]: Follow Us
+      - listitem [ref=f2e108]:
+        - link [ref=f2e109] [cursor=pointer]:
+          - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+      - listitem [ref=f2e110]:
+        - link [ref=f2e111] [cursor=pointer]:
+          - /url: https://www.facebook.com/cnnnews18/
+      - listitem [ref=f2e112]:
+        - link [ref=f2e113] [cursor=pointer]:
+          - /url: https://twitter.com/CNNnews18
+      - listitem [ref=f2e114]:
+        - link [ref=f2e115] [cursor=pointer]:
+          - /url: https://www.youtube.com/cnnnews18
+      - listitem [ref=f2e116]:
+        - link [ref=f2e117] [cursor=pointer]:
+          - /url: https://news18.co/n18egpi
+      - listitem [ref=f2e118]:
+        - link [ref=f2e119] [cursor=pointer]:
+          - /url: https://www.instagram.com/cnnnews18/
+  - generic [ref=f2e120]: Advertisement
+  - generic [ref=f2e122]:
+    - main [ref=f2e123]:
+      - article [ref=f2e124]:
+        - generic [ref=f2e125]:
+          - link "News /" [ref=f2e126] [cursor=pointer]:
+            - /url: /
+          - link "india /" [ref=f2e127] [cursor=pointer]:
+            - /url: /india/
+          - generic [ref=f2e128]: "Repeated Legal Violations, Social Media Incitement: Delhi Police On Why CJP Leaders Were Sent To Tihar"
+        - 'heading "Repeated Legal Violations, Social Media Incitement: Delhi Police On Why CJP Leaders Were Sent To Tihar" [level=1] [ref=f2e129]'
+        - generic [ref=f2e131]:
+          - generic [ref=f2e132]: "Published By :"
+          - list [ref=f2e133]:
+            - listitem [ref=f2e134]:
+              - link "Vani Mehrotra" [ref=f2e135] [cursor=pointer]:
+                - /url: https://www.news18.com/byline/vani-mehrotra-28052.html
+            - listitem [ref=f2e137]:
+              - text: ","
+              - link "News18.com" [ref=f2e138] [cursor=pointer]:
+                - /url: https://www.news18.com/agency/news18.com.html
+        - generic [ref=f2e140]:
+          - generic [ref=f2e141]: "Last Updated:"
+          - time [ref=f2e142]: October 14, 2026, 12:34 IST
+        - heading "Delhi Police cited alleged obstruction of police, legal violations and social media incitement as Sourav Das and Ashutosh Ranka were remanded to five-day judicial custody." [level=2] [ref=f2e143]
+        - generic [ref=f2e145]:
+          - button "3 Quick Answers" [ref=f2e147]:
+            - generic [ref=f2e148]: "3"
+            - generic [ref=f2e149] [cursor=pointer]: Quick Answers
+          - img "new image box" [ref=f2e164] [cursor=pointer]
+        - figure [ref=f2e165]:
+          - generic [ref=f2e166]:
+            - img "Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka (File photo/PTI)" [ref=f2e167]
+            - generic [ref=f2e168] [cursor=pointer]
+          - generic [ref=f2e170]: Cockroach Janta Party (CJP) leaders Saurav Das and Ashutosh Ranka (File photo/PTI)
+        - paragraph [ref=f2e171]: The Delhi Police has cited alleged obstruction of police personnel in the discharge of their official duties, repeated violations of the law and attempts to incite others through social media as reasons for its action against three members of the Cockroach Janta Party (CJP), following their alleged entry into the denotified protest site at Jantar Mantar.
+        - paragraph [ref=f2e172]: CJP leaders Sourav Das and Ashutosh Ranka have been remanded to five days of judicial custody and lodged in separate jails within the Tihar complex. Das has been lodged in Jail Number 2, while Ranka has been lodged in Jail Number 4.
+        - generic [ref=f2e174]:
+          - generic [ref=f2e175]: Recommended Stories
+          - list [ref=f2e176]:
+            - listitem [ref=f2e177]:
+              - link "Delhi Metro To Shut 57 Stations From 9 PM Tonight Ahead Of CJP's Planned Protest | Full List Here" [ref=f2e178] [cursor=pointer]:
+                - /url: /india/delhi-metro-57-stations-closure-october-10-2026-full-list-of-closed-metro-stations-ws-l-10374448.html
+                - figure [ref=f2e180]:
+                  - 'img "Delhi Metro May Close 57 Stations From 9 PM Tonight: Full List (Photo: PTI)" [ref=f2e181]'
+            - listitem [ref=f2e182]:
+              - 'link "Delhi Protests: Over 4 FIRs Filed Over Social Media Posts Spreading ‘False Narratives’" [ref=f2e183] [cursor=pointer]':
+                - /url: /cities/new-delhi-news/delhi-protests-over-4-firs-filed-over-social-media-posts-spreading-false-narratives-ws-l-10379674.html
+                - figure [ref=f2e185]:
+                  - img "The police have been examining online content allegedly intended to spread misinformation and fuel tensions." [ref=f2e186]
+            - listitem [ref=f2e187]:
+              - link "CJP Seeks Jantar Mantar Protest Date, Gives Delhi Police 24-Hour Deadline" [ref=f2e188] [cursor=pointer]:
+                - /url: /india/cjp-seeks-jantar-mantar-protest-date-gives-delhi-police-24-hour-deadline-ws-kl-10377759.html
+                - figure [ref=f2e190]:
+                  - img "Cockroach Janta Party (CJP) spokesperson Saurav Das. (File pic/Reuters)" [ref=f2e191]
+            - listitem [ref=f2e192]:
+              - link "Over 500 Detained In Massive Police Crackdown Ahead Of CJP’s ‘Jantar Mantar 2.0’ Protest In Delhi" [ref=f2e193] [cursor=pointer]:
+                - /url: /india/cjp-protest-people-arriving-from-other-states-detained-in-delhi-ws-kl-10375544.html
+                - figure [ref=f2e195]:
+                  - img "Security personnel keep vigil as heavy police deployment and entry restrictions are enforced at Jantar Mantar. (PTI)" [ref=f2e196]
+        - paragraph [ref=f2e197]: The action followed an incident on October 13, when 14 CJP members, including Das, Ranka and Ajinkya Shinde, allegedly entered Jantar Mantar through private premises despite the site having been removed from the list of designated protest venues.
+        - paragraph [ref=f2e198]: In a statement, the Delhi Police said its personnel deployed at the location intervened and attempted to stop the protesters. However, the protesters allegedly obstructed police personnel in the discharge of their official duties, prompting the police to take legal action against all 14 individuals.
+        - heading [level=3] [ref=f2e200]:
+          - strong [ref=f2e201]: Delhi Police Cites Repeated Violations, Social Media Activity
+        - paragraph [ref=f2e202]: Explaining its action against Das, Ranka and Shinde, the Delhi Police said the three were taken into preventive custody in view of their alleged repeated attempts to disturb public peace and violate the law.
+        - paragraph [ref=f2e203]: The police also took into consideration their alleged attempts to instigate others through social media to engage in similar unlawful activities, according to the statement.
+        - generic [ref=f2e205]:
+          - generic [ref=f2e206]: At A Glance
+          - generic [ref=f2e207]:
+            - listitem [ref=f2e208]:
+              - generic [ref=f2e209]: "1."
+              - paragraph [ref=f2e210]: Delhi Police cited alleged obstruction of police personnel, repeated legal violations and social media incitement in its action against three CJP members.
+            - listitem [ref=f2e211]:
+              - generic [ref=f2e212]: "2."
+              - paragraph [ref=f2e213]: Sourav Das and Ashutosh Ranka have been remanded to five days of judicial custody.
+            - listitem [ref=f2e214]:
+              - generic [ref=f2e215]: "3."
+              - paragraph [ref=f2e216]: They were later lodged in Tihar Jail Number 2 and Jail Number 4, respectively.
+        - paragraph [ref=f2e217]: The three were produced before the Special Executive Magistrate (SEM), where proceedings were initiated under Sections 126 and 170 of the Bharatiya Nagarik Suraksha Sanhita (BNSS).
+        - paragraph [ref=f2e218]: The police said the magistrate considered the details in the police report and the apprehension that the two leaders could repeat the alleged violations and encourage others to violate the law if released on bail.
+        - paragraph [ref=f2e219]: Das and Ranka were subsequently remanded to five days of judicial custody.
+        - paragraph [ref=f2e220]: Shinde, meanwhile, was bound down to maintain peace and good behaviour for six months on a personal bond and surety of Rs 5,000.
+        - heading [level=3] [ref=f2e222]:
+          - strong [ref=f2e223]: Two FIRs Registered After Jantar Mantar Incident
+        - paragraph [ref=f2e224]: According to the Delhi Police statement, all 14 CJP members were detained following the October 13 incident. Two FIRs were registered in connection with the episode.
+        - paragraph [ref=f2e225]: FIR No. 289/26 was registered at Connaught Place police station under Sections 223(a), 332 and 61(2). FIR No. 128/26 was registered at Parliament Street police station under Sections 221, 115(2), 132, 121(1) and 3(5). Both FIRs were registered on October 13.
+        - paragraph [ref=f2e226]: The police said the protesters had reached Jantar Mantar by trespassing through private premises after the location was denotified as a designated protest site.
+        - paragraph [ref=f2e227]: The action against the group followed the alleged obstruction of police personnel who attempted to prevent their entry.
+        - paragraph [ref=f2e228]: The incident also comes against the backdrop of an earlier protest involving CJP members.
+        - paragraph [ref=f2e229]: According to news agency PTI, Das and Ranka had signed bonds to maintain peace for a year after being detained during a protest on Saturday. They were detained again on Tuesday after allegedly breaching barricades and entering the Jantar Mantar area without authorisation.
+        - heading [level=3] [ref=f2e231]:
+          - strong [ref=f2e232]: Jantar Mantar Denotified As Protest Site
+        - paragraph [ref=f2e233]: Jantar Mantar was removed from the list of designated protest venues following a Delhi Police order issued on October 11 by Police Commissioner Anurag Kumar.
+        - paragraph [ref=f2e234]: The order designated Ramlila Maidan, Burari Ground and CBD Ground as venues for protests and demonstrations.
+        - paragraph [ref=f2e235]: The CJP has criticised the decision, arguing that shifting demonstrations away from the political centre of the national capital would weaken the visibility of public dissent.
+        - paragraph [ref=f2e236]: The October 13 protest reportedly involved slogans demanding the resignation of Chief Election Commissioner Gyanesh Kumar.
+        - paragraph [ref=f2e237]: The demonstrations came amid protests by the CJP and other organisations over alleged irregularities in the Special Intensive Revision (SIR) of electoral rolls.
+        - paragraph [ref=f2e238]: Reacting to the judicial custody of Das and Ranka, CJP founder Abhijeet Dipke criticised the action in a post on X, claiming that the leaders had been sent to custody for unfurling the Tricolour at Jantar Mantar. He accused the government of attempting to crush dissent.
+        - generic [ref=f2e239]:
+          - generic [ref=f2e240]: News18 Newsletter
+          - generic [ref=f2e243]: Handpicked stories, in your inbox
+          - generic [ref=f2e244]: A newsletter with the best of our journalism
+          - generic [ref=f2e245]:
+            - textbox "Enter Your Email" [ref=f2e246]
+            - button "submit" [ref=f2e247] [cursor=pointer]
+        - generic [ref=f2e249]:
+          - generic [ref=f2e250]:
+            - heading "Quick Answers" [level=2] [ref=f2e263]
+            - generic [ref=f2e264]:
+              - generic [ref=f2e265]: Powered by
+              - generic [ref=f2e267] [cursor=pointer]:
+                - img "ask search icon" [ref=f2e268]
+                - generic [ref=f2e269]: Ask News18
+          - generic [ref=f2e270]:
+            - button "Why were Cockroach Janta Party leaders Sourav Das and Ashutosh Ranka sent to Tihar jail?" [expanded] [ref=f2e271] [cursor=pointer]
+            - region "Why were Cockroach Janta Party leaders Sourav Das and Ashutosh Ranka sent to Tihar jail?" [ref=f2e273]:
+              - paragraph [ref=f2e274]: Delhi Police stated that CJP leaders Sourav Das and Ashutosh Ranka were sent to judicial custody in Tihar due to alleged obstruction of police personnel, repeated violations of the law, and attempts to incite unlawful activities through social media after entering the denotified Jantar Mantar protest site.
+          - button "What led to the detention of the 14 Cockroach Janta Party members at Jantar Mantar?" [ref=f2e276] [cursor=pointer]
+          - button "Which alternative venues were designated for protests following the denotification of Jantar Mantar?" [ref=f2e279] [cursor=pointer]
+        - generic [ref=f2e281]:
+          - heading "About the Author" [level=2] [ref=f2e282]
+          - generic [ref=f2e284]:
+            - figure [ref=f2e286]:
+              - img "Vani Mehrotra" [ref=f2e287]
+            - generic [ref=f2e288]:
+              - link "Vani Mehrotra" [ref=f2e289] [cursor=pointer]:
+                - /url: /byline/vani-mehrotra-28052.html
+              - generic [ref=f2e290]: Vani Mehrotra is the Deputy News Editor at News18.com. She has more than 10 years of experience in national and international news and has previously worked on multiple desks.
+              - link [ref=f2e292] [cursor=pointer]:
+                - /url: https://x.com/vani_mehrotra
+        - generic [ref=f2e294]:
+          - text: Stay updated with
+          - link "News18" [ref=f2e295] [cursor=pointer]:
+            - /url: https://www.news18.com/
+          - text: for the latest
+          - link "India" [ref=f2e296] [cursor=pointer]:
+            - /url: https://www.news18.com/india/
+          - text: and
+          - link "world news" [ref=f2e297] [cursor=pointer]:
+            - /url: https://www.news18.com/world/
+          - text: ", in-depth"
+          - link "explainers" [ref=f2e298] [cursor=pointer]:
+            - /url: https://www.news18.com/explainers/
+          - text: ","
+          - link "entertainment" [ref=f2e299] [cursor=pointer]:
+            - /url: https://www.news18.com/movies/
+          - text: ","
+          - link "sports" [ref=f2e300] [cursor=pointer]:
+            - /url: https://www.news18.com/sports/
+          - text: ", and"
+          - link "cricket news" [ref=f2e301] [cursor=pointer]:
+            - /url: https://www.news18.com/cricket/
+          - text: . Check out
+          - link "Compare India" [ref=f2e302] [cursor=pointer]:
+            - /url: https://www.compareindia.com/
+          - text: to explore the latest commerce deals, exclusive discounts, and top shopping offers.
+        - button "ADD YOUR COMMENT" [ref=f2e305] [cursor=pointer]
+        - generic [ref=f2e310]:
+          - generic [ref=f2e311]: "Location :"
+          - link "New Delhi, India, India" [ref=f2e313] [cursor=pointer]:
+            - /url: https://www.news18.com/cities/new-delhi-news/
+        - generic [ref=f2e314]:
+          - generic [ref=f2e315]: "First Published:"
+          - generic [ref=f2e316]: October 14, 2026, 12:33 IST
+        - generic [ref=f2e320]:
+          - generic [ref=f2e321]:
+            - text: "Disclaimer: Comments reflect users’ views, not News18’s. Please keep discussions respectful and constructive. Abusive, defamatory, or illegal comments will be removed. News18 may disable any comment at its discretion. By posting, you agree to our"
+            - link "Terms of Use" [ref=f2e322] [cursor=pointer]:
+              - /url: /disclaimer/
+            - text: and
+            - link "Privacy Policy" [ref=f2e323] [cursor=pointer]:
+              - /url: /privacy_policy/
+            - text: .
+          - button [ref=f2e324]
+          - generic [ref=f2e325]: Loading comments...
+        - generic [ref=f2e327]: Read More
+    - complementary [ref=f2e330]:
+      - generic [ref=f2e331]:
+        - generic [ref=f2e332]: Advertisement
+        - generic [ref=f2e336]:
+          - link [ref=f2e337] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+            - img "rapid read logo" [ref=f2e338]
+          - figure [ref=f2e339]
+          - link "More Rapid Read" [ref=f2e340] [cursor=pointer]:
+            - /url: https://www.news18.com/short-news/
+        - generic [ref=f2e341]:
+          - heading [level=2] [ref=f2e342]:
+            - link "Latest news" [ref=f2e343] [cursor=pointer]:
+              - /url: /news/
+          - list [ref=f2e344]:
+            - listitem [ref=f2e345]:
+              - 'link "Paytm Shareholding Pattern: Indian Ownership Rises Above 56%, Domestic Mutual Funds Raise Stake" [ref=f2e346] [cursor=pointer]':
+                - /url: /business/markets/paytm-shareholding-pattern-indian-ownership-rises-above-56-domestic-mutual-funds-raise-stake-10381404.html
+                - figure [ref=f2e348]:
+                  - img "Domestic mutual funds raised their combined holding in One 97 Communications to 21.2% in the September quarter from 17.9% in the June quarter." [ref=f2e349]
+            - listitem [ref=f2e350]:
+              - 'link "''India’s Op Sindoor Showed...'': New Zealand''s Commodore Dowling Underscores Need For Defence Ties With New Delhi" [ref=f2e351] [cursor=pointer]':
+                - /url: /india/indias-op-sindoor-showed-new-zealands-commodore-dowling-underscores-need-for-defence-ties-with-new-delhi-ws-lrt-10381357.html
+                - figure [ref=f2e353]:
+                  - img "Commodore Andy Dowling" [ref=f2e354]
+            - listitem [ref=f2e355]:
+              - link "Realme 16 And Realme 16T Prices Hiked Again In India By Up To Rs 5,000" [ref=f2e356] [cursor=pointer]:
+                - /url: /tech/realme-16-and-realme-16t-prices-hiked-again-in-india-by-up-to-rs-5000-cx-amz-10381286.html
+                - figure [ref=f2e358]:
+                  - img "Realme has increased the prices of its Realme 16 5G and Realme 16T 5G smartphones in India again." [ref=f2e359]
+            - listitem [ref=f2e360]:
+              - 'link "Navratri Fasting 2026: Can You Drink Coffee? 5 Energizing Drinks To Try" [ref=f2e361] [cursor=pointer]':
+                - /url: /photogallery/lifestyle/food/can-you-drink-coffee-during-navratri-fasting-doctor-rules-ws-l-10380930.html
+                - figure [ref=f2e363]:
+                  - 'img "Navratri Fasting Rules: Is Coffee Allowed? (Image: Canva)" [ref=f2e364]'
+            - listitem [ref=f2e365]:
+              - 'link "Best Instant Geysers For Kitchen: 3 Litre Water Heaters For Quick Hot Water This Winter" [ref=f2e366] [cursor=pointer]':
+                - /url: /tech/best-instant-geysers-for-kitchen-3-litre-water-heaters-winter-m-amz-10380912.html
+                - figure [ref=f2e368]:
+                  - 'img "Representative image (Image: Shixart1985/Wikimedia Commons, CC BY 2.0)" [ref=f2e369]'
+          - link "more latest news" [ref=f2e370] [cursor=pointer]:
+            - /url: /news/
+        - generic [ref=f2e373]:
+          - generic [ref=f2e374]:
+            - heading [level=2] [ref=f2e375]:
+              - link "live tv" [ref=f2e376] [cursor=pointer]:
+                - /url: https://www.news18.com/livetv/
+            - generic [ref=f2e377] [cursor=pointer]: CNN News18
+          - generic [ref=f2e378] [cursor=pointer]: Channels
+        - generic [ref=f2e387]: Advertisement
+        - generic [ref=f2e389]:
+          - heading [level=2] [ref=f2e391]:
+            - link "Astrology" [ref=f2e392] [cursor=pointer]:
+              - /url: https://www.news18.com/astrology/
+          - generic [ref=f2e393]:
+            - generic [ref=f2e394]:
+              - img [ref=f2e396]:
+                - generic [ref=f2e419]:
+                  - generic [ref=f2e420] [cursor=pointer]
+                  - generic [ref=f2e421] [cursor=pointer]
+                  - generic [ref=f2e422]:
+                    - generic [ref=f2e423] [cursor=pointer]
+                    - generic [ref=f2e424] [cursor=pointer]
+                    - generic [ref=f2e425] [cursor=pointer]
+                    - generic [ref=f2e426] [cursor=pointer]
+                    - generic [ref=f2e427] [cursor=pointer]
+              - generic [ref=f2e603]:
+                - generic [ref=f2e604]: Oct 14, 2026
+                - generic [ref=f2e607] [cursor=pointer]:
+                  - generic: Choose Zodiac
+                  - img "zodiac icon" [ref=f2e608]
+              - list [ref=f2e609]:
+                - listitem [ref=f2e610]: Today
+                - listitem [ref=f2e611]: Weekly
+                - listitem [ref=f2e612]: Monthly
+                - listitem [ref=f2e613]: Yearly
+              - generic [ref=f2e614]:
+                - text: ...
+                - link "read more" [ref=f2e615] [cursor=pointer]:
+                  - /url: https://www.news18.com/astrology/
+            - generic [ref=f2e616]:
+              - list
+          - link "More Astrology News" [ref=f2e617] [cursor=pointer]:
+            - /url: https://www.news18.com/astrology/
+        - generic [ref=f2e618]:
+          - heading [level=2] [ref=f2e620]:
+            - link "Trending Videos" [ref=f2e621] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - link "More Trending Videos" [ref=f2e622] [cursor=pointer]:
+            - /url: https://www.news18.com/videos/
+        - generic [ref=f2e623]:
+          - heading [level=2] [ref=f2e624]:
+            - paragraph [ref=f2e625]: Latest Blogs
+          - 'link "Pakistan Vs Sri Lanka 3rd T20I Highlights: Mendis, Shanaka Power SL To Consolation Win" [ref=f2e627] [cursor=pointer]':
+            - /url: https://www.news18.com/cricket/pakistan-vs-sri-lanka-live-cricket-score-3rd-t20i-pak-vs-sl-latest-scorecard-rawalpindi-match-updates-liveblog-ws-l-10380311.html
+            - figure [ref=f2e628]:
+              - 'img "Pakistan vs Sri Lanka Live Cricket Score, 3rd T20I: Stay updated with PAK vs SL Ball by Ball Match Updates and Live Scorecard from Rawalpindi. (Picture Credit: AP)" [ref=f2e629]'
+          - generic [ref=f2e631]:
+            - link [ref=f2e633] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/south-africa-vs-australia-live-cricket-score-1st-test-day-5-sa-vs-aus-latest-scorecard-durban-match-updates-liveblog-ws-l-10379593.html
+              - figure [ref=f2e634]:
+                - 'img "Australia beat South Africa by 214 runs in 1st Test. (Picture Credit: AP)" [ref=f2e635]'
+              - emphasis [ref=f2e636]: "SA Vs AUS 1st Test Day 5 Highlights: Australia Win By 214 Runs, Take 1-0 Lead In 3-Match Series"
+            - link [ref=f2e638] [cursor=pointer]:
+              - /url: https://www.news18.com/india/cec-cjp-delhi-protest-live-updates-abhijeet-dipke-jantar-mantar-india-bloc-rahul-gandhi-gyanesh-kumar-resignation-liveblog-10379475.html
+              - figure [ref=f2e639]:
+                - 'img "Live Post of CJP Delhi Protest LIVE: INDIA Bloc Leaders Vow To Reclaim Jantar Mantar As Protest Site" [ref=f2e640]'
+              - emphasis [ref=f2e641]: "CJP Delhi Protest LIVE: INDIA Bloc Leaders Vow To Reclaim Jantar Mantar As Protest Site"
+            - link [ref=f2e643] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/afghanistan-vs-bangladesh-one-off-test-day-5-live-score-commentary-timeline-afg-ban-2026-abu-dhabi-liveblog-10379352.html
+              - figure [ref=f2e644]:
+                - 'img "Afghanistan vs Bangladesh Live Score: Follow latest updates from the one-off Test in Abu Dhabi. (Picture Credit: IG/afghanistancricketboard)" [ref=f2e645]'
+              - emphasis [ref=f2e646]: "AFG Vs BAN Live Score, One-Off Test, Day 5: Follow Scorecard And Match Action From Abu Dhabi"
+            - link [ref=f2e648] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/oman-vs-nepal-live-score-icc-world-cup-league-two-updates-omn-vs-nep-2026-match-135-today-scorecard-commentary-timeline-liveblog-10379367.html
+              - figure [ref=f2e649]:
+                - 'img "Oman vs Nepal Live Score: Follow latest updates from ICC Cricket World Cup League Two match. (Picture Credit: IG/cricketassociationofnepal)" [ref=f2e650]'
+              - emphasis [ref=f2e651]: "Oman Vs Nepal Live Score, ICC World Cup League 2: Follow Scorecard And Match Action"
+        - generic [ref=f2e652]:
+          - heading [level=2] [ref=f2e653]:
+            - link "Photogalleries" [ref=f2e654] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - generic [ref=f2e657]:
+            - emphasis
+          - link "More Photogalleries" [ref=f2e661] [cursor=pointer]:
+            - /url: https://www.news18.com/photogallery/
+        - generic [ref=f2e663]: Advertisement
+  - generic:
+    - link "Previous" [ref=f2e665] [cursor=pointer]:
+      - /url: ""
+    - link "Next" [ref=f2e666] [cursor=pointer]:
+      - /url: ""
+  - contentinfo [ref=f2e668]:
+    - generic [ref=f2e669]:
+      - generic [ref=f2e670]:
+        - heading "Trending Topics" [level=3] [ref=f2e671]
+        - generic [ref=f2e672] [cursor=pointer]: more
+        - list [ref=f2e673]:
+          - listitem [ref=f2e674]:
+            - link "Election Results Live" [ref=f2e675] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-election-results-2026-live-updates-by-election-results-today-tamil-nadu-west-bengal-assam-puducherry-vote-counting-winners-list-liveblog-ws-l-10373910.html
+          - listitem [ref=f2e676]:
+            - link "Tamil Nadu Election Results" [ref=f2e677] [cursor=pointer]:
+              - /url: https://www.news18.com/india/tamil-nadu-election-results-2026-live-updates-tn-by-election-results-today-dharapuram-madurantakam-bypolls-vote-counting-winners-list-liveblog-ws-kl-10373931.html
+          - listitem [ref=f2e678]:
+            - link "Dharapuram By Election Results 2026" [ref=f2e679] [cursor=pointer]:
+              - /url: https://www.news18.com/india/dharapuram-election-results-2026-live-updates-tamil-nadu-by-poll-results-sathyabama-tvk-suganya-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-l-10373656.html
+          - listitem [ref=f2e680]:
+            - link "Bypoll Results 2026" [ref=f2e681] [cursor=pointer]:
+              - /url: https://www.news18.com/india/bypoll-results-2026-bjp-leads-in-nandigram-rejinagar-nagaon-vijays-tvk-ahead-in-tamil-nadu-ws-l-10373823.html
+          - listitem [ref=f2e682]:
+            - link "Nandigram By Election Results 2026" [ref=f2e683] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nandigram-election-results-2026-live-updates-west-bengal-bypoll-results-hasirani-rath-bjp-milan-pradhan-congress-winner-seat-margin-eci-latest-news-2-liveblog-10373650.html
+          - listitem [ref=f2e684]:
+            - link "Assam Election Results 2026" [ref=f2e685] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/nagaon-bypoll-result-2026-live-updates-lok-sabha-debashish-sharma-sibamoni-bora-badruddin-ajmal-liveblog-ws-kl-10373638.html
+          - listitem [ref=f2e686]:
+            - link "Madurantakam By Election Results 2026" [ref=f2e687] [cursor=pointer]:
+              - /url: https://www.news18.com/india/madurantakam-election-results-2026-live-updates-tamil-nadu-bypoll-results-maragatham-kumaravel-tvk-paranthamen-dmk-winner-seat-margin-eci-latest-news-liveblog-ws-kl-10373652.html
+          - listitem [ref=f2e688]:
+            - link "West Bengal Election Results 2026" [ref=f2e689] [cursor=pointer]:
+              - /url: https://www.news18.com/india/rejinagar-election-results-2026-live-updates-bypolls-west-bengal-eci-latest-news-vote-counting-golam-nabi-azad-ajup-sakharav-sarkar-bjp-tmc-congress-votes-winner-liveblog-ws-l-10373660.html
+          - listitem [ref=f2e690]:
+            - link "UPI Charges" [ref=f2e691] [cursor=pointer]:
+              - /url: https://www.news18.com/business/banking-finance/upi-mdr-charges-npci-steering-committee-to-meet-today-decision-on-january-2027-deferment-likely-10373669.html
+          - listitem [ref=f2e692]:
+            - link "IND vs AUS Live Score" [ref=f2e693] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/india-a-vs-australia-a-2nd-unofficial-odi-live-score-commentary-timeline-ind-aus-2026-puducherry-liveblog-10373772.html
+          - listitem [ref=f2e694]:
+            - link "Virat Kohli" [ref=f2e695] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/virat-kohli-batting-better-than-his-peak-a-side-of-him-that-people-dont-know-ws-blrt-10373659.html
+          - listitem [ref=f2e696]:
+            - link "IND vs WI Playing 11" [ref=f2e697] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/prince-in-mayank-out-indias-likely-playing-xi-for-2nd-t20i-against-west-indies-10373392.html
+      - generic [ref=f2e698]:
+        - heading "Hot On Social" [level=3] [ref=f2e699]
+        - generic [ref=f2e700] [cursor=pointer]: more
+        - list [ref=f2e701]:
+          - listitem [ref=f2e702]:
+            - link "Nana Patekar Death" [ref=f2e703] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/nana-patekar-death-live-updates-veteran-actor-dies-at-75-goa-tributes-last-rites-liveblog-10371964.html
+          - listitem [ref=f2e704]:
+            - link "Nana Patekar Son" [ref=f2e705] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/bollywood/who-is-malhar-patekar-know-all-about-nana-patekars-son-who-stayed-away-from-the-limelight-10372357.html
+          - listitem [ref=f2e706]:
+            - link "Amazon Sale 2026" [ref=f2e707] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-how-to-maximise-savings-bank-cards-exchange-prime-10372092.html
+          - listitem [ref=f2e708]:
+            - link "iPhone Price Deals" [ref=f2e709] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/iphone-17-pro-max-gets-a-price-cut-on-croma-can-be-yours-at-rs-rs-107990-10372786.html
+          - listitem [ref=f2e710]:
+            - link "Nana Patekar Cause Of Death" [ref=f2e711] [cursor=pointer]:
+              - /url: https://www.news18.com/india/nana-patekar-dies-doctor-details-cardiac-arrest-cpr-goa-ws-l-10372022.html
+          - listitem [ref=f2e712]:
+            - link "Smart Tv Deals Amazon" [ref=f2e713] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/amazon-great-indian-festival-day-1-best-smart-tv-deals-under-25000-10372073.html
+          - listitem [ref=f2e714]:
+            - link "Navratri Colours" [ref=f2e715] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-colours-2026-day-wise-list-dates-goddesses-ws-er-10369878.html
+          - listitem [ref=f2e716]:
+            - link "Maa Durga Names" [ref=f2e717] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/spirituality/navratri-2026-9-forms-maa-durga-names-significance-10370136.html
+          - listitem [ref=f2e718]:
+            - link "Navratri Fasting" [ref=f2e719] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/food/navratri-fasting-rules-2026-what-to-eat-avoid-during-vrat-ws-er-10370085.html
+          - listitem [ref=f2e720]:
+            - link "OTT Releases This Week" [ref=f2e721] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/web-series/ott-releases-this-week-reporting-live-mortal-kombat-ii-carrie-and-more-ws-kl-10368175.html
+      - generic [ref=f2e722]:
+        - heading "Popular Categories" [level=3] [ref=f2e723]
+        - generic [ref=f2e724] [cursor=pointer]: more
+        - list [ref=f2e725]:
+          - listitem [ref=f2e726]:
+            - link "Latest News" [ref=f2e727] [cursor=pointer]:
+              - /url: https://www.news18.com/news/
+          - listitem [ref=f2e728]:
+            - link "India" [ref=f2e729] [cursor=pointer]:
+              - /url: https://www.news18.com/india/
+          - listitem [ref=f2e730]:
+            - link "Movies" [ref=f2e731] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f2e732]:
+            - link "World" [ref=f2e733] [cursor=pointer]:
+              - /url: https://www.news18.com/world/
+          - listitem [ref=f2e734]:
+            - link "Politics" [ref=f2e735] [cursor=pointer]:
+              - /url: https://www.news18.com/politics/
+          - listitem [ref=f2e736]:
+            - link "Viral" [ref=f2e737] [cursor=pointer]:
+              - /url: https://www.news18.com/viral/
+          - listitem [ref=f2e738]:
+            - link "Auto" [ref=f2e739] [cursor=pointer]:
+              - /url: https://www.news18.com/auto/
+          - listitem [ref=f2e740]:
+            - link "Tech" [ref=f2e741] [cursor=pointer]:
+              - /url: https://www.news18.com/tech/
+          - listitem [ref=f2e742]:
+            - link "Videos" [ref=f2e743] [cursor=pointer]:
+              - /url: https://www.news18.com/videos/
+          - listitem [ref=f2e744]:
+            - link "Photos" [ref=f2e745] [cursor=pointer]:
+              - /url: https://www.news18.com/photogallery/
+          - listitem [ref=f2e746]:
+            - link "Web Stories" [ref=f2e747] [cursor=pointer]:
+              - /url: https://www.news18.com/web-stories/
+          - listitem [ref=f2e748]:
+            - link "Cricket" [ref=f2e749] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/
+          - listitem [ref=f2e750]:
+            - link "Explainers" [ref=f2e751] [cursor=pointer]:
+              - /url: https://www.news18.com/explainers/
+          - listitem [ref=f2e752]:
+            - link "Showsha" [ref=f2e753] [cursor=pointer]:
+              - /url: https://www.news18.com/movies/
+          - listitem [ref=f2e754]:
+            - link "Opinion" [ref=f2e755] [cursor=pointer]:
+              - /url: https://www.news18.com/opinion/
+          - listitem [ref=f2e756]:
+            - link "Lifestyle" [ref=f2e757] [cursor=pointer]:
+              - /url: https://www.news18.com/lifestyle/
+          - listitem [ref=f2e758]:
+            - link "Business" [ref=f2e759] [cursor=pointer]:
+              - /url: https://www.news18.com/business/
+          - listitem [ref=f2e760]:
+            - link "Education-Career" [ref=f2e761] [cursor=pointer]:
+              - /url: https://www.news18.com/education-career/
+          - listitem [ref=f2e762]:
+            - link "Sports" [ref=f2e763] [cursor=pointer]:
+              - /url: https://www.news18.com/sports/
+          - listitem [ref=f2e764]:
+            - link "City News" [ref=f2e765] [cursor=pointer]:
+              - /url: https://www.news18.com/cities/
+          - listitem [ref=f2e766]:
+            - link "Elections" [ref=f2e767] [cursor=pointer]:
+              - /url: https://www.news18.com/elections/
+      - generic [ref=f2e768]:
+        - heading "Language Sites" [level=3] [ref=f2e769]
+        - generic [ref=f2e770] [cursor=pointer]: more
+        - list [ref=f2e771]:
+          - listitem [ref=f2e772]:
+            - link "Marathi News" [ref=f2e773] [cursor=pointer]:
+              - /url: https://news18marathi.com/
+          - listitem [ref=f2e774]:
+            - link "Gujarati News" [ref=f2e775] [cursor=pointer]:
+              - /url: https://gujarati.news18.com/
+          - listitem [ref=f2e776]:
+            - link "Bengali News" [ref=f2e777] [cursor=pointer]:
+              - /url: https://bengali.news18.com/
+          - listitem [ref=f2e778]:
+            - link "Tamil News" [ref=f2e779] [cursor=pointer]:
+              - /url: https://tamil.news18.com/
+          - listitem [ref=f2e780]:
+            - link "Telugu News" [ref=f2e781] [cursor=pointer]:
+              - /url: https://telugu.news18.com/
+          - listitem [ref=f2e782]:
+            - link "Malayalam News" [ref=f2e783] [cursor=pointer]:
+              - /url: https://malayalam.news18.com/
+          - listitem [ref=f2e784]:
+            - link "Punjabi News" [ref=f2e785] [cursor=pointer]:
+              - /url: https://punjab.news18.com/
+          - listitem [ref=f2e786]:
+            - link "Urdu News" [ref=f2e787] [cursor=pointer]:
+              - /url: https://urdu.news18.com/
+          - listitem [ref=f2e788]:
+            - link "Assam News" [ref=f2e789] [cursor=pointer]:
+              - /url: https://assam.news18.com/
+          - listitem [ref=f2e790]:
+            - link "Odia News" [ref=f2e791] [cursor=pointer]:
+              - /url: https://odia.news18.com/
+          - listitem [ref=f2e792]:
+            - link "Kannada News" [ref=f2e793] [cursor=pointer]:
+              - /url: https://kannada.news18.com/
+      - generic [ref=f2e794]:
+        - heading "Network18 Group Sites" [level=3] [ref=f2e795]
+        - generic [ref=f2e796] [cursor=pointer]: more
+        - list [ref=f2e797]:
+          - listitem [ref=f2e798]:
+            - link "Moneycontrol" [ref=f2e799] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/
+          - listitem [ref=f2e800]:
+            - link "Firstpost" [ref=f2e801] [cursor=pointer]:
+              - /url: https://www.firstpost.com/
+          - listitem [ref=f2e802]:
+            - link "CNBCTV18" [ref=f2e803] [cursor=pointer]:
+              - /url: https://www.cnbctv18.com/
+          - listitem [ref=f2e804]:
+            - link "History India" [ref=f2e805] [cursor=pointer]:
+              - /url: https://www.historyindia.com/
+          - listitem [ref=f2e806]:
+            - link "MTV India" [ref=f2e807] [cursor=pointer]:
+              - /url: https://www.mtvindia.com/
+    - generic [ref=f2e808]:
+      - img "News18" [ref=f2e809]
+      - generic [ref=f2e810]:
+        - generic [ref=f2e811]: Follow Us On
+        - generic [ref=f2e812]:
+          - link [ref=f2e813] [cursor=pointer]:
+            - /url: https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J
+          - link [ref=f2e814] [cursor=pointer]:
+            - /url: https://www.facebook.com/cnnnews18/
+          - link [ref=f2e815] [cursor=pointer]:
+            - /url: https://twitter.com/CNNnews18
+          - link [ref=f2e816] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UC3prwMn9aU2z5Y158ZdGyyA
+          - link [ref=f2e817] [cursor=pointer]:
+            - /url: https://news18.co/n18egpi
+          - link [ref=f2e818] [cursor=pointer]:
+            - /url: https://www.instagram.com/cnnnews18
+      - generic [ref=f2e819]:
+        - generic [ref=f2e820]: News18 App
+        - link [ref=f2e821] [cursor=pointer]:
+          - /url: https://onelink.to/eng-web-other
+          - generic [ref=f2e822]:
+            - img "app download" [ref=f2e824]
+            - text: Download Now
+      - list [ref=f2e826]:
+        - listitem [ref=f2e827]:
+          - link "About Us" [ref=f2e828] [cursor=pointer]:
+            - /url: https://www.news18.com/about_us/
+        - listitem [ref=f2e829]:
+          - link "Cookie Policy" [ref=f2e830] [cursor=pointer]:
+            - /url: https://www.news18.com/cookie-policy.html
+        - listitem [ref=f2e831]:
+          - link "Disclaimer" [ref=f2e832] [cursor=pointer]:
+            - /url: https://www.news18.com/disclaimer/
+        - listitem [ref=f2e833]:
+          - link "Contact Us" [ref=f2e834] [cursor=pointer]:
+            - /url: https://www.news18.com/contact-us.html
+        - listitem [ref=f2e835]:
+          - link "RSS" [ref=f2e836] [cursor=pointer]:
+            - /url: https://www.news18.com/rss/
+        - listitem [ref=f2e837]:
+          - link "Complaint Redressal" [ref=f2e838] [cursor=pointer]:
+            - /url: https://www.news18.com/complaint/
+        - listitem [ref=f2e839]:
+          - link "Advertise with Us" [ref=f2e840] [cursor=pointer]:
+            - /url: https://adwise.nw18.com/
+        - listitem [ref=f2e841]:
+          - link "Sitemap" [ref=f2e842] [cursor=pointer]:
+            - /url: https://www.news18.com/sitemap/
+        - listitem [ref=f2e843]:
+          - link "Privacy Policy" [ref=f2e844] [cursor=pointer]:
+            - /url: https://www.news18.com/privacy_policy/
+    - generic [ref=f2e845]:
+      - generic [ref=f2e846]: CNN name, logo and all associated elements ® and © 2026 Cable News Network LP, LLLP. A Time Warner Company. All rights reserved. CNN and the CNN logo are registered marks of Cable News Network, LP LLLP, displayed with permission. Use of the CNN name and/or logo on or as part of NEWS18.com does not derogate from the intellectual property rights of Cable News Network in respect of them. © Copyright Network18 Media and Investments Ltd 2026. All rights reserved.
+      - link [ref=f2e847] [cursor=pointer]:
+        - /url: https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/iso_certificate_2024_to_2027.pdf
+        - img "bsi logo" [ref=f2e848]

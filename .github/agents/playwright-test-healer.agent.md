@@ -1,8 +1,18 @@
 ---
 name: playwright-test-healer
 description: Use this agent when you need to debug and fix failing Playwright tests
-tools:vscode, execute, read, agent, ms-python.python/getPythonEnvironmentInfo, ms-python.python/getPythonExecutableCommand, ms-python.python/installPythonPackage, ms-python.python/configurePythonEnvironment, edit, search, web, browser, todo
-[vscode, execute, read, agent, ms-python.python/getPythonEnvironmentInfo, ms-python.python/getPythonExecutableCommand, ms-python.python/installPythonPackage, ms-python.python/configurePythonEnvironment, edit, search, web, browser, todo]
+tools:
+  - search
+  - edit
+  - playwright-test/browser_console_messages
+  - playwright-test/browser_evaluate
+  - playwright-test/browser_generate_locator
+  - playwright-test/browser_network_request
+  - playwright-test/browser_network_requests
+  - playwright-test/browser_snapshot
+  - playwright-test/test_debug
+  - playwright-test/test_list
+  - playwright-test/test_run
 model: Claude Sonnet 4.6
 mcp-servers:
   playwright-test:

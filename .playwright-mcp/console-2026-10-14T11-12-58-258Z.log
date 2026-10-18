@@ -1,0 +1,414 @@
+[    4233ms] [LOG] [GPPID] Received: 1791976383785-69a66a51-63bc-40db-a026-24d505b28078 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:572
+[    4237ms] [LOG] [GPPID] Local cookie: 1791976383785-69a66a51-63bc-40db-a026-24d505b28078 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:581
+[    4237ms] [LOG] Loading tags @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:205
+[    5013ms] [LOG] [CDP Debug] Calling personalised API: https://api-lomaka.news18.com/nodeapi/v1/eng/personalised-content?fields=*&categories=%7B%22cdp_user_lifetime_cohort%22%3A10%2C%22cdp_user_lifetime_location%22%3A10%2C%22cdp_user_adp_widgets%22%3A10%7D&cdpid=7fa412a5-d867-4ff2-af11-038b08ef3d59-1791976380510 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:414
+[    7338ms] [LOG] Data sent: {"message":"data save"} @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:276
+[    7803ms] Error: Minified React error #425; visit https://reactjs.org/docs/error-decoder.html?invariant=425 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Af (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:40250)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:100671
+    at Sk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:106163)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99146)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7804ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at Eg (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:46549)
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:121089)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94004)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7805ms] Error: Minified React error #423; visit https://reactjs.org/docs/error-decoder.html?invariant=423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at x (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:120758)
+    at Uk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:99086)
+    at https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98953
+    at Ik (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:98960)
+    at Nk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:95716)
+    at Gk (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:9:94272)
+    at J (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1364)
+    at MessagePort.R (https://www.news18.com/_next/static/chunks/framework-18d294c404ec4fd7.js:33:1894)
+[    7812ms] [LOG] Datadog RUM settings {applicationId: 051cd8f6-4f0f-42a4-a688-815b825e90f6, clientTokenExists: true, site: us5.datadoghq.com, env: production, service: news18-english-frontend} @ https://www.news18.com/_next/static/chunks/52936.4ac14b3b52293176.js:0
+[   11309ms] [LOG] [instaread-player] connectedCallback - p_type attribute: playlist @ https://instaread.co/js/instaread.player.js:63
+[   11309ms] [LOG] [instaread-player] Valid p_type values: [extend_player, global_player, floating_player, playlist] @ https://instaread.co/js/instaread.player.js:67
+[   11309ms] [LOG] [instaread-player] p_type validated and set to: playlist @ https://instaread.co/js/instaread.player.js:79
+[   11320ms] [LOG] [instaread-player] Setting iframe src for p_type: playlist @ https://instaread.co/js/instaread.player.js:187
+[   11321ms] [LOG] [instaread-player] Iframe src set to: https://instaread.co/playlist?publication=news18&version=1790793000000 @ https://instaread.co/js/instaread.player.js:194
+[   12278ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js:22
+[   12740ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.vidgyor.com/player/v12/js/player.min.js:0
+[   20801ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ :41
+[   21787ms] [LOG] [FormSubmissions] Loaded from localStorage: [] @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   21789ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   21803ms] [LOG] [filteredPlaylist] Filtered 0 articles from 0 for publication: news18 @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:14
+[   21914ms] [LOG] [FormModal] Render state: {isOpen: false, publication: news18} @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:14
+[   21937ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   21940ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   21942ms] [LOG] [playlist-metrics] v2.1 | baseUrl: https://player-api.instaread.co/api | event: PAGE_VIEW @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   26144ms] [LOG]  [  0.000s] [studio.sdk]   @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   26159ms] [LOG]  [  0.028s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   29776ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?ld=1&gdpr=0&cmp_cs=&us_privacy=&redir=https%3A%2F%2Fsyncingbridge.com%2FuserBack%3Fuid%3D%24UID%26gdpr%3D%7BGDPR%7D%26gdpr_consent%3D%7BGDPR_CONSENT%7D%26p%3D2:0
+[   30732ms] [LOG]  [  4.601s] [studio.sdk] The creative has expanded.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[   31249ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://s2s.atmtd.com/s2s/setuid?bidder=inmobi&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&f=i&uid=ID5-1-bbbc0098-4c81-4d5e-b758-e30f57841314:0
+[   35650ms] [TIMEEND] a: 0.326904296875 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   38112ms] [ERROR] Provider's accounts list is empty. @ https://www.news18.com/news/:0
+[   38892ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.news18.com/_next/static/chunks/56725.f0c565e7b8427c00.js:0
+[   41495ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://tracker-shr.ortb.net/sync?id=1&uid=ID5-1-bbbc0098-4c81-4d5e-b758-e30f57841314:0
+[   42807ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=9724&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D109%26dspUserId%3D%7Bviewer_token%7D:0
+[   42867ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ap.lijit.com/pixel?gdpr=0&gdpr_consent=&redir=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D13%26dspUserId%3D%24UID:0
+[   44897ms] [LOG] AffinityPrebid HVR 1784624662 h-n-c-11.2.0 Loaded @ https://cdn4-hbs.affinitymatrix.com/hvrlib/news18.com/1784800142/v2.js:0
+[   50582ms] [WARNING] VIDEOJS: WARN: videojs.Hls is deprecated. Use videojs.Vhs instead. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   50645ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   50737ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   50786ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   53359ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 4-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 0-CNN_News18_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   54532ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://s3.ap-southeast-1.amazonaws.com/vidgyor.com/player/v12/css/vidgyor.woff @ https://www.news18.com/news/:0
+[   64243ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/1854/821/3/7.gif?puid=ffc1d3d0-cd37-4987-b420-8142b931d6bc&gdpr=0&gdpr_consent=:0
+[   69123ms] [TIMEEND] a: 0.008056640625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[   71203ms] [LOG] [GPPID] Using existing cookie: 1791976383785-69a66a51-63bc-40db-a026-24d505b28078 @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:551
+[   71204ms] [LOG] Loading tags @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:205
+[   71348ms] [LOG] Datadog RUM settings {applicationId: 051cd8f6-4f0f-42a4-a688-815b825e90f6, clientTokenExists: true, site: us5.datadoghq.com, env: production, service: news18-english-frontend} @ https://www.news18.com/_next/static/chunks/52936.4ac14b3b52293176.js:0
+[   71569ms] [LOG] CDP cohort cookie already available. @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:512
+[   71868ms] [LOG] Data sent: {"message":"data save"} @ https://staticcdp.nw18.com/cdp-sdk-tag.js?tenantId=45ca6e3e-b174-4851-a44e-7f4be445f82a:276
+[   72405ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js:22
+[   72932ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://cdn.izooto.com/scripts/58a668dbc74c7b7b996e009bae898f5036a0ddaf.js:0
+[   73003ms] [LOG] [instaread-player] connectedCallback - p_type attribute: playlist @ https://instaread.co/js/instaread.player.js:63
+[   73003ms] [LOG] [instaread-player] Valid p_type values: [extend_player, global_player, floating_player, playlist] @ https://instaread.co/js/instaread.player.js:67
+[   73003ms] [LOG] [instaread-player] p_type validated and set to: playlist @ https://instaread.co/js/instaread.player.js:79
+[   73017ms] [LOG] [instaread-player] Setting iframe src for p_type: playlist @ https://instaread.co/js/instaread.player.js:187
+[   73017ms] [LOG] [instaread-player] Iframe src set to: https://instaread.co/playlist?publication=news18&version=1790793000000 @ https://instaread.co/js/instaread.player.js:194
+[   75575ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://fundingchoicesmessages.google.com/i/1039154?ers=3:0
+[   76392ms] [ERROR] Not signed in with the identity provider. @ https://www.news18.com/news/page-2/:0
+[   76433ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.vidgyor.com/player/v12/js/player.min.js:0
+[   77269ms] [LOG] [FormSubmissions] Loaded from localStorage: [] @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   77269ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   77275ms] [LOG] [filteredPlaylist] Filtered 0 articles from 0 for publication: news18 @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:14
+[   77342ms] [LOG] [FormModal] Render state: {isOpen: false, publication: news18} @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:14
+[   77365ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   77366ms] [LOG] [LocalStorage Load] Loaded 0 items, event: none @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   77367ms] [LOG] [playlist-metrics] v2.1 | baseUrl: https://player-api.instaread.co/api | event: PAGE_VIEW @ https://instaread.co/_next/static/chunks/5feea9f98827d4f6.js:10
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89286ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=268:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   90347ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=f7e40a73-e8dd-8c93-ed86-931b4a187df1:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  110199ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://www.news18.com/_next/static/chunks/56725.f0c565e7b8427c00.js:0
+[  110584ms] [LOG] AffinityPrebid HVR 1784624662 h-n-c-11.2.0 Loaded @ https://cdn4-hbs.affinitymatrix.com/hvrlib/news18.com/1784800142/v2.js:0
+[  110592ms] [WARNING] [GPT] Slot.getTargeting is deprecated, use Slot.getConfig('targeting') instead.
+https://goo.gle/gpt-message#201 @ https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202610080101/pubads_impl.js:22
+[  114752ms] [TIMEEND] a: 0.00390625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[  115183ms] [WARNING] document.domain mutation is ignored because the surrounding agent cluster is origin-keyed. @ :41
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  115192ms] [LOG]  [  0.000s] [studio.sdk]   @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[  115202ms] [LOG]  [  0.011s] [studio.sdk] Using default ad parameters in test environment. Simulating local events.  @ https://s0.2mdn.net/ads/studio/Enabler.js:215
+[  115678ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://sync.adkernel.com/user-sync?zone=278246&r=https%3A%2F%2Fus.shb-sync.com%2F8635c669-8802-43d1-8ff8-2a9ada5a91c3.gif%3Fpuid%3D%5BUID%5D%26redir%3D%5BRED%5D%26gdpr%3D%5BGDPR%5D%26gdpr_consent%3D%5BGDPR_CONSENT%5D%26ccpa%3D%5BCCPA%5D:0
+[  116612ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://analytics.google.com/g/collect?v=2&tid=G-4LJXB6XTLN&gtm=45je6ac1v883982951za20gzb77292444zd77292444xf1&_p=1791976449619&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEIAAGQC&cid=367492564.1791976391&frm=0&pscdl=noapi&rcb=3&sr=1920x1080&uaa=x86&uab=64&uafvl=Not%253AA-Brand%3B8.0.0.0%7CChromium%3B156.0.8078.4&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&gaf=2&tag_exp=115616985~115938465~115938468~117776795~118869188~118897920~118897930~119793974~120213116~120385422~120469145~120469153~121246026~121246034&sid=1791976391&sct=1&seg=1&dl=https%3A%2F%2Fwww.news18.com%2Fnews%2Fpage-2%2F&dr=https%3A%2F%2Fwww.news18.com%2Fnews%2F&dt=Page-2%20Latest%20News%20%7C%20Today%20News%20Headlines%20from%20India%20%26%20World%20%7C%20Breaking%20News%20India%20Today%20Live%20News18&_s=5&tfd=46522:0
+[  116703ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://sync.adkernel.com/user-sync?dsp=75&t=image&uid=tvNVz6Jh3H93XKbjq5j3QTE2zXfzOsCb7-J0oGIlFOI&pi=adsolut-pbs:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  124529ms] [WARNING] VIDEOJS: WARN: videojs.Hls is deprecated. Use videojs.Vhs instead. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  124561ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  124584ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  124647ms] [WARNING] VIDEOJS: WARN: Using hls options is deprecated. Please rename `hls` to `vhs` in your options object. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  127081ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=20222&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&redirect=https%3A%2F%2Fsync.richaudience.com%2F3d22651e89752031606733526daf3c3e%2F%3Fgdpr%3D%24%7BGDPR%7D%26euconsent%3D%24%7BGDPR_CONSENT_108%7D%26uid%3D%7Bviewer_token%7D:0
+[   89286ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=268:0
+[   90347ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=f7e40a73-e8dd-8c93-ed86-931b4a187df1:0
+[  127450ms] [ERROR] Failed to load resource: the server responded with a status of 405 () @ https://rtb.nexverse.ai/?usync=1&redir=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DNexverse-Web%26uid%3D%7BUSER_ID%7D:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  134139ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?gdpr=[replace]&gdpr_consent=[replace]&usp_consent=[replace]&p=20&redirect=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DBrave-Web-Display%26uid%3D%7BUID%7D:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  134139ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?gdpr=[replace]&gdpr_consent=[replace]&usp_consent=[replace]&p=20&redirect=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DBrave-Web-Display%26uid%3D%7BUID%7D:0
+[  135429ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?gdpr=[replace]&gdpr_consent=[replace]&usp_consent=[replace]&p=20&redirect=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DBrave-Web-Display%26uid%3D%7BUID%7D:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  134139ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?gdpr=[replace]&gdpr_consent=[replace]&usp_consent=[replace]&p=20&redirect=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DBrave-Web-Display%26uid%3D%7BUID%7D:0
+[  135429ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?gdpr=[replace]&gdpr_consent=[replace]&usp_consent=[replace]&p=20&redirect=https%3A%2F%2Fortb.vdo.ai%2Fusersync%3Fpartner%3DBrave-Web-Display%26uid%3D%7BUID%7D:0
+[  136552ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ https://syncingbridge.com/userIframe?p=7&redirect=https%3A%2F%2Fsync.bidmatic.io%2Fcsync%3Ft%3Da%26ep%3D783140%26traffic_source%3Dsnippet%26sp%3D981021%26pb%3D786719%26c%3D894222%26a%3D783140%26domain%3Dortb.vdo.ai%26extuid%3D%7BUID%7D:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[  136976ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89261ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://dis.criteo.com/dis/usersync.aspx?r=6&p=70&cp=Rubicon&cu=1&url=https%3A%2F%2Fpixel.rubiconproject.com%2Ftap.php%3Fv%3D6434%26nid%3D2149%26put%3D%40%40CRITEO_USERID%40%40:0
+[   89288ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=14:0
+[   91084ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.ipredictive.com/d/sync/cookie/generic?https://pixel.rubiconproject.com/tap.php?v=17149&nid=2861&put=${ADELPHIC_CUID}&expires=30:0
+[  103478ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://ad.turn.com/r/cs?pid=6:0
+[  115191ms] [ERROR] Failed to load resource: net::ERR_TIMED_OUT @ https://i.liadm.com/s/60909?bidder_id=227664&bidder_uuid=MV80H85T-B-OO&_li_chk=true&previous_uuid=d630ff6efb504310877b31ad0646130f:0
+[   89286ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://sync.srv.stackadapt.com/sync?nid=268:0
+[   90347ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://dps.jp.cinarra.com/pxd?PLATFORM_ID=1&USER_ID=f7e40a73-e8dd-8c93-ed86-931b4a187df1:0
+[  136976ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://match.rundsp.com/redirect?ex=openx:0
+[  137773ms] [WARNING] AdsLoader error: AdError 303: No Ads VAST response after one or more Wrappers @ https://static.vidgyor.com/player/v12/js/videojs.ima.min.js:1
+[  137802ms] [LOG] VIDEOJS: adserror (Preroll) @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  127081ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=20222&gdpr=0&gdpr_consent=&gpp=&gpp_sid=&redirect=https%3A%2F%2Fsync.richaudience.com%2F3d22651e89752031606733526daf3c3e%2F%3Fgdpr%3D%24%7BGDPR%7D%26euconsent%3D%24%7BGDPR_CONSENT_108%7D%26uid%3D%7Bviewer_token%7D:0
+[  140998ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://tracker-shr.ortb.net/sync?id=1&uid=ID5-1-bbbc0098-4c81-4d5e-b758-e30f57841314:0
+[  142547ms] [WARNING] VIDEOJS: WARN: Problem encountered with playlist 4-CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8. Aborted early because there isn't enough bandwidth to complete the request without rebuffering. Switching to playlist 0-CNN_News18_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8. @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  146488ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://sync.go.sonobi.com/us?loc=https%3A%2F%2Fsync.programmaticx.ai%2Fapi%2Fcookie%3FpartnerId%3Dprogx-sonobi%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%5BUID%5D:0
+[  147462ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://sync.go.sonobi.com/us?loc=https%3A%2F%2Fsync.programmaticx.ai%2Fapi%2Fcookie%3FpartnerId%3Dprogx-sonobi%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%5BUID%5D:0
+[  148122ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://csync.loopme.me/?pubid=14129&gdpr=&gdpr_consent=&us_privacy=&redirect=https%3A%2F%2Fsync.programmaticx.ai%2Fapi%2Fcookie%3FpartnerId%3Dprogx-loopme%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%7Bviewer_token%7D:0
+[  148129ms] [ERROR] Failed to load resource: net::ERR_SOCKET_NOT_CONNECTED @ https://csync.loopme.me/?pubid=9724&gdpr=0&gdpr_consent=&redirect=https%3A%2F%2Fsync.inmobi.com%2Fsetuid%3FbidderID%3D109%26dspUserId%3D%7Bviewer_token%7D:0
+[  149441ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://csync.loopme.me/?pubid=14129&gdpr=&gdpr_consent=&us_privacy=&redirect=https%3A%2F%2Fsync.programmaticx.ai%2Fapi%2Fcookie%3FpartnerId%3Dprogx-loopme%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%7Bviewer_token%7D:0
+[  153324ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://tracker.ssp.balance-x.com/sync?gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&id=1&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40056%26id%3D%7BPLL_USER_ID%7D&uid=%5BUID%5D:0
+[  153797ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://tracker.ssp.balance-x.com/sync?gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&id=1&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40056%26id%3D%7BPLL_USER_ID%7D&uid=%5BUID%5D:0
+[  156353ms] [ERROR] Failed to load resource: the server responded with a status of 429 () @ https://ortb.vdo.ai/sync-iframe?sp=NextMillennium-Web-Video&uid={UID}&redir=https%3A%2F%2Fcookies.nextmillmedia.com%2Fsetuid%3Fbidder%3Dvdo_video%26nmuid%3D%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26uid%3D%7Bvdo_uid%7D:0
+[  156390ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://tracker.ssp.balance-x.com/sync?gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&id=1&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40056%26id%3D%7BPLL_USER_ID%7D&uid=%5BUID%5D:0
+[  156795ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  156793ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ chrome-error://chromewebdata/:0
+[  156804ms] [ERROR] Refused to display 'https://csync-apac.smilewanted.com/' in a frame because it set 'X-Frame-Options' to 'sameorigin'. @ chrome-error://chromewebdata/:0
+[  157788ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  158247ms] [ERROR] Failed to load resource: net::ERR_TOO_MANY_REDIRECTS @ https://id5-sync.com/c/102/104/2/8.gif?puid=279a6398-99d4-4435-9f1c-8fe63c06b8b3&gdpr=0&gdpr_consent=:0
+[  158700ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://tracker.ssp.balance-x.com/sync?gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&id=1&redirect=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40056%26id%3D%7BPLL_USER_ID%7D&uid=%5BUID%5D:0
+[  158784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  159355ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_TIMED_OUT @ https://csync.copper6.com/3ccb4268afab0c2b1373a8a8fdc5011f.gif?coppa=%5BCOPPA%5D&gdpr=0&gdpr_consent=%5BGDPR_CONSENT%5D&gpp=%5BGPP%5D&gpp_sid=%5BGPP_SID%5D&redir=https%3A%2F%2Fcs.openwebmp.com%2Fcs%3Ffwrd%3D1%26aid%3D40040%26puid%3D%5BUID%5D:0
+[  159408ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://visitor.omnitagjs.com/visitor/sync?uid=2a62ca3297af454b8f19eb7922ed945f&visitor=279a6398-99d4-4435-9f1c-8fe63c06b8b3&name=BIDSWITCH&gdpr=0&gdpr_consent=:0
+[  159797ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  160793ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  161784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  162432ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[  162795ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  162432ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  162432ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[  163789ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  163844ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  135632ms] [ERROR] Failed to load resource: the server responded with a status of 424 (Failed Dependency) @ https://t.adx.opera.com/pub/sync?pubid=pub10101531197440&gdpr=1&gdpr_consent=:0
+[  164238ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://eb2.3lift.com/getuid?gdpr=&cmp_cs=&redir=https%3A%2F%2Fsync.copper6.com%2Fapi%2Fcookie%3FpartnerId%3Dcopper6-triplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  164788ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  165797ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  166785ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  167785ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  168799ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  169785ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  170790ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  171795ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  172793ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  173789ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  174801ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  175790ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  176787ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  177797ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  901047ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://ads.yieldmo.com/pbsync?is=kueez&gdpr=0&gdpr_consent=&us_privacy=1YN-&redirectUri=https%3A%2F%2Fsync.kueezrtb.com%2Fapi%2Fcookie%3FpartnerId%3Dkueez-yieldmo%26gdpr%3D0%26gdpr_consent%3D%26us_privacy%3D1YN-%26userId%3D%24UID:0
+[  901048ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&us_privacy=1---&redirectUri=https%3A%2F%2Fsea1-sync.a-mo.net%2Fcchain%2F1%2F14294%3Fgdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26A%3Dafa49fc2-9876-4145-9e43-7e50e39256f4%26bidder%3Dyieldmo%26cbx%3DaHR0cHM6Ly9vcnRiLnZkby5haS91c2Vyc3luYz9wYXJ0bmVyPUFkYXB0TVgtV2ViJnVpZD0%253D%26uid%3D%24UID:0
+[  901055ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://dt.adsafeprotected.com/dt?advEntityId=3032146&asId=7ff2373f-36c1-7981-46e1-3ee2a427f8ac&tv=%7Bc:r2qBdw,pingTime:90,time:789210,type:p,clog:%5B%7Bpiv:0,vs:o,r:r,w:728,h:90,t:3156%7D,%7Bpiv:100,vs:i,r:,t:4315%7D%5D,es:0,sc:1,ha:1,fgad:1,fif:0,gmnp:0,for:1,b11:1,cnod:1,gm:0,slTimes:%7Bi:784895,o:4315,n:0,pp:0,pm:0%7D,slEvents:%5B%7Bsl:o,t:3156,wc:10.10.1280.720,ac:279.229.728.90,am:i,cc:279.229.728.90,piv:0,obst:0,th:0,reas:r,bkn:%7Bpiv:%5B1182~0,0~100%5D,as:%5B1182~728.90%5D%7D%7D,%7Bsl:i,t:4315,wc:10.10.1280.720,ac:279.229.728.90,am:i,cc:279.229.728.90,piv:100,obst:0,th:0,reas:,bkn:%7Bpiv:%5B784894~100%5D,as:%5B784894~728.90%5D%7D%7D%5D,slEventCount:2,em:true,fr:true,e:,tt:rjss,dtt:625,fm:vy1oJfa+11%7C1211%7C1212%7C1213%7C13%7C141%7C15%7C16%7C171%7C181%7C182%7C183%7C184%7C185%7C186%7C187%7C188%7C189%7C18a%7C18b%7C18c%7C18d%7C18e%7C18f%7C18g%7C18h%7C18i%7C18j%7C18k%7C18l%7C18m%7C18n%7C18o%7C18p%7C18q%7C18r%7C18s%7C18t%7C18u%7C19%7C1a%7C1b%7C1c%7C1d%7C1e%7C1f%7C1g*.3032146-96879884%7C1g1%7C1h.3032146-96879884,idMap:1g*,rmeas:1,rend:1,renddet:IMG.qs,siq:3158,msd:0,ph:6327,igt:0,sis:7285%7D&br=c:0
+[  901058ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://ads.yieldmo.com/pbsync?is=kueez&gdpr=&gdpr_consent=&us_privacy=&redirectUri=https%3A%2F%2Fsync.kueezrtb.com%2Fapi%2Fcookie%3FpartnerId%3Dkueez-yieldmo%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D%26userId%3D%24UID:0
+[  901062ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  901784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  902784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  903794ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  904793ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  904861ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://visitor.omnitagjs.com/visitor/sync?uid=2a62ca3297af454b8f19eb7922ed945f&visitor=279a6398-99d4-4435-9f1c-8fe63c06b8b3&name=BIDSWITCH&gdpr=0&gdpr_consent=:0
+[  904863ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://visitor.omnitagjs.com/visitor/sync?uid=2a62ca3297af454b8f19eb7922ed945f&visitor=279a6398-99d4-4435-9f1c-8fe63c06b8b3&name=BIDSWITCH&gdpr=0&gdpr_consent=:0
+[  904863ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_RESET @ https://visitor.omnitagjs.com/visitor/sync?uid=2a62ca3297af454b8f19eb7922ed945f&visitor=279a6398-99d4-4435-9f1c-8fe63c06b8b3&name=BIDSWITCH&gdpr=0&gdpr_consent=:0
+[  905784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  906794ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  905467ms] [ERROR] Failed to load resource: net::ERR_NETWORK_IO_SUSPENDED @ https://ads.yieldmo.com/pbsync?is=adptmx&gdpr=0&gdpr_consent=&redirectUri=https%3A%2F%2Fsea1-sync.a-mo.net%2Fsetuid%3Fbidder%3Dyieldmo%26A%3Dafa49fc2-9876-4145-9e43-7e50e39256f4%26uid%3D%24UID:0
+[  907787ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  908784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  909794ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  910787ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  911784ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  912795ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  913787ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  914783ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  915795ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
+[  916785ms] [WARNING] VIDEOJS: WARN: Using the tech directly can be dangerous. I hope you know what you're doing.
+See https://github.com/videojs/video.js/issues/2617 for more info.
+ @ https://static.vidgyor.com/player/v12/js/video.min.js:11
