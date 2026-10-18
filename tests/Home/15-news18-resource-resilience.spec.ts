@@ -1,4 +1,4 @@
-import { expect, test } from '../fixtures/news18.fixture';
+import { expect, test } from '../../fixtures/news18.fixture';
 import type { Route } from '@playwright/test';
 
 test.describe('News18 Homepage', () => {

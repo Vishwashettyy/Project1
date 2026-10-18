@@ -11,6 +11,9 @@ import { defineConfig, devices } from '@playwright/test';
 /**
  * See https://playwright.dev/docs/test-configuration.
  */
+const envProxy = process.env.HTTPS_PROXY ?? process.env.HTTP_PROXY;
+const proxyOptions = envProxy ? { server: envProxy } : undefined;
+
 export default defineConfig({
   testDir: './tests',
   /* Run tests in files in parallel */
@@ -25,6 +28,7 @@ export default defineConfig({
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
+    ...(proxyOptions ? { proxy: proxyOptions } : {}),
     /* Base URL to use in actions like `await page.goto('')`. */
     // baseURL: 'http://localhost:3000',
 
@@ -77,3 +81,4 @@ export default defineConfig({
   //   reuseExistingServer: !process.env.CI,
   // },
 });
+

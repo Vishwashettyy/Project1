@@ -1,4 +1,4 @@
-import { expect, test } from '../fixtures/news18.fixture';
+import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Homepage', () => {
   test('Primary navigation and homepage recovery', async ({ homepage }) => {

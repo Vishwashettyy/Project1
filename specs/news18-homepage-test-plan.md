@@ -12,7 +12,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.1. Homepage load, identity, and initial viewport
 
-**File:** `tests\01-news18-homepage-load.spec.ts`
+**File:** `tests\Home\01-news18-homepage-load.spec.ts`
 
 **Steps:**
   1. In a fresh browser session, navigate directly to https://www.news18.com/ and wait for the initial page load and primary content to settle.
@@ -26,7 +26,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.2. Primary navigation and homepage recovery
 
-**File:** `tests\02-news18-primary-navigation.spec.ts`
+**File:** `tests\Home\02-news18-primary-navigation.spec.ts`
 
 **Steps:**
   1. On the homepage, open each visible top-level navigation destination (for example Home, India, World, Explainers, DataPop, Cricket, Cities, Movies, Lifestyle, Business, Tech2, and Latest where currently displayed), then return to the homepage between destinations.
@@ -39,7 +39,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.3. Header shortcuts and edition selector
 
-**File:** `tests\03-news18-header-shortcuts.spec.ts`
+**File:** `tests\Home\03-news18-header-shortcuts.spec.ts`
 
 **Steps:**
   1. Check visible header shortcuts such as Download News18 App, Watch LIVE TV, For You, and notifications; open each link and return to the homepage.
@@ -52,7 +52,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.4. Top News story cards and links
 
-**File:** `tests\04-news18-top-news-stories.spec.ts`
+**File:** `tests\Home\04-news18-top-news-stories.spec.ts`
 
 **Steps:**
   1. Inspect the Top News area and open several story cards, including the lead story and at least two other visible items. Record the displayed headline before each click.
@@ -65,7 +65,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.5. Ask News18 search overlay and query flow
 
-**File:** `tests\05-news18-ask-search.spec.ts`
+**File:** `tests\Home\05-news18-ask-search.spec.ts`
 
 **Steps:**
   1. Activate the Ask News18 header control and inspect the overlay, its search textbox, action buttons, and any Trending Topics or Hot on Social prompts.
@@ -82,7 +82,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.6. Sign-in entry point without submitting credentials
 
-**File:** `tests\06-news18-sign-in-entry.spec.ts`
+**File:** `tests\Home\06-news18-sign-in-entry.spec.ts`
 
 **Steps:**
   1. Activate the homepage Sign in control and inspect the displayed sign-in interface.
@@ -95,7 +95,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.7. Live TV homepage entry and recovery
 
-**File:** `tests\07-news18-live-tv.spec.ts`
+**File:** `tests\Home\07-news18-live-tv.spec.ts`
 
 **Steps:**
   1. Use the visible Watch LIVE TV shortcut or homepage LIVE TV module to open Live TV.
@@ -106,7 +106,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.8. Trending Videos carousel controls
 
-**File:** `tests\08-news18-trending-videos.spec.ts`
+**File:** `tests\Home\08-news18-trending-videos.spec.ts`
 
 **Steps:**
   1. Scroll to Trending Videos and inspect the visible video cards and carousel controls.
@@ -119,7 +119,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.9. Deals and product category browsing
 
-**File:** `tests\09-news18-deals-module.spec.ts`
+**File:** `tests\Home\09-news18-deals-module.spec.ts`
 
 **Steps:**
   1. Scroll to Deals of the Day or other visible product recommendation modules and inspect product titles, categories, and navigation controls.
@@ -134,7 +134,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.10. Homepage scrolling and content sections
 
-**File:** `tests\10-news18-homepage-scroll.spec.ts`
+**File:** `tests\Home\10-news18-homepage-scroll.spec.ts`
 
 **Steps:**
   1. Scroll from the top through all major homepage sections, including Top News, LIVE TV, Trending Videos, Deals, and additional sections present at execution time.
@@ -146,7 +146,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.11. Consent and promotional prompt handling
 
-**File:** `tests\11-news18-prompts.spec.ts`
+**File:** `tests\Home\11-news18-prompts.spec.ts`
 
 **Steps:**
   1. In a fresh session, note whether cookie/privacy consent, newsletter, app-install, or promotional prompts are displayed.
@@ -158,7 +158,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.12. Responsive homepage layout at mobile, tablet, and desktop sizes
 
-**File:** `tests\12-news18-responsive-layout.spec.ts`
+**File:** `tests\Home\12-news18-responsive-layout.spec.ts`
 
 **Steps:**
   1. Open the homepage at narrow mobile, tablet, and desktop viewport widths; at each size inspect header, navigation, lead stories, and major content cards.
@@ -174,7 +174,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.13. Keyboard accessibility and zoom
 
-**File:** `tests\13-news18-keyboard-accessibility.spec.ts`
+**File:** `tests\Home\13-news18-keyboard-accessibility.spec.ts`
 
 **Steps:**
   1. Reload the homepage and navigate through the visible header controls, links, menus, and story cards using only Tab and Shift+Tab.
@@ -189,7 +189,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.14. Refresh, direct load, and invalid-path recovery
 
-**File:** `tests\14-news18-refresh-recovery.spec.ts`
+**File:** `tests\Home\14-news18-refresh-recovery.spec.ts`
 
 **Steps:**
   1. Load https://www.news18.com/ directly, refresh the page, and then navigate to one homepage-linked story and return using browser Back.
@@ -201,7 +201,7 @@ Comprehensive functional, responsive, accessibility, and resilience test coverag
 
 #### 1.15. Slow and interrupted resource resilience
 
-**File:** `tests\15-news18-resource-resilience.spec.ts`
+**File:** `tests\Home\15-news18-resource-resilience.spec.ts`
 
 **Steps:**
   1. Using approved browser/network test tooling, throttle the connection and load the homepage; observe when the header and primary content become usable.
