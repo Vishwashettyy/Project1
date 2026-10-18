@@ -1,4 +1,4 @@
-import { expect, test } from '../fixtures/news18.fixture';
+import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Homepage', () => {
   test('Sign-in entry point without submitting credentials', async ({ homepage }) => {
