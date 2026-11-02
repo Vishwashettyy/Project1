@@ -1,7 +1,7 @@
 import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Photo Gallery Landing Page', () => {
-  test('Photo Gallery page direct load and initial viewport', async ({ photoGallery }) => {
+  test('Photo Gallery page direct load and initial viewport', { tag: '@smoke' }, async ({ photoGallery }) => {
     await photoGallery.goto();
 
     await expect(photoGallery.page).toHaveURL(/^https:\/\/www\.news18\.com\/photogallery\/?$/);

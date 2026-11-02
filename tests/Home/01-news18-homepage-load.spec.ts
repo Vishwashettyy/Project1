@@ -1,7 +1,7 @@
 import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Homepage', () => {
-  test('Homepage load, identity, and initial viewport', async ({ homepage }) => {
+  test('Homepage load, identity, and initial viewport', { tag: '@smoke' }, async ({ homepage }) => {
     // 1.1.1 Navigate directly to News18 and verify the primary homepage content is available.
     await homepage.goto();
     await expect(homepage.page).toHaveURL(/^https:\/\/www\.news18\.com\/?$/);

@@ -1,7 +1,7 @@
 import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Latest News Category Page', () => {
-  test('Latest News page direct load and identity', async ({ latestNews }) => {
+  test('Latest News page direct load and identity', { tag: '@smoke' }, async ({ latestNews }) => {
     // 1. Navigate directly to Latest News and verify its route, identity, and primary content.
     await latestNews.goto();
     await expect(latestNews.page).toHaveURL(/^https:\/\/www\.news18\.com\/news\/?$/);
