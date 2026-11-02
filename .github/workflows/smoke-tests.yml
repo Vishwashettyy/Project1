@@ -2,7 +2,7 @@ name: Daily Smoke Tests
 
 on:
   schedule:
-    - cron: '30 12 * * *'
+    - cron: '0 13 * * *'
   workflow_dispatch:
 
 permissions:
