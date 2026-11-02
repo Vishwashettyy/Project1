@@ -1,7 +1,7 @@
 import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 Videos Listing', () => {
-  test('Direct load, identity, and initial viewport', async ({ videosListing }) => {
+  test('Direct load, identity, and initial viewport', { tag: '@smoke' }, async ({ videosListing }) => {
     // 1. Navigate directly to the Videos listing and wait for its identity and first entry.
     await videosListing.goto();
     await expect(videosListing.page).toHaveURL(/^https:\/\/www\.news18\.com\/videos\/?$/);

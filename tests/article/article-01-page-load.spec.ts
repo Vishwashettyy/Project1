@@ -1,7 +1,7 @@
 import { expect, test } from '../../fixtures/news18.fixture';
 
 test.describe('News18 India Article', () => {
-  test('Direct article load and page identity', async ({ article }) => {
+  test('Direct article load and page identity', { tag: '@smoke' }, async ({ article }) => {
     // 1. Navigate directly to the article and verify its route, identity, and readable content.
     await article.goto();
     await expect(article.page).toHaveURL(
